@@ -12,8 +12,14 @@
   table3 fitness costs, table4 AMP MICs + fold-changes vs DA6192 WT
   (WGH 6.25 / LL-37 6.25 / CNY100HL 2.5 mg/L), table5 antibiotic
   cross-resistance, table1 genotypes. Ranges mid-pointed (documented in script).
-- DBAASP / DRAMP: reuse the 09a pinned pulls (cross-repo copies to be made
-  with sha256 carried over).
+- DBAASP / DRAMP: cross-repo copies made from the 09a pinned pulls
+  (mega27-09a data/raw/novelty_refs/, manifest docs/NOVELTY_REFS_MANIFEST.md).
+  data/external/refs/dramp_natural_amps.txt sha256
+  fbaebb527695785ec3e5c0d13cf6a4eb82aadfeeb5bca64e534fcfe22efd12aa (matches
+  the 09a manifest exactly); dbaasp_all.fasta sha256
+  8d5c7db2b3f647567c5a0dc36b7cf96f763215614d449a37fdb39e8aa96e0c10 (546
+  canonical 5-150aa monomer sequences from the DBAASP API pull of 25,542
+  records). Hashes re-verified after copy.
 - St Andrews S. aureus AMP resistance-evolution study
   (Frontiers fmicb.2020.00103, PMC7033599): full-text XML pinned via NCBI OAI
   (sha256 above). Data availability: WGS at NCBI BioProject PRJNA399645 (raw

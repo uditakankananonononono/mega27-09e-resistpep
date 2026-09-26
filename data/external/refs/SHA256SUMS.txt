@@ -1,0 +1,2 @@
+fbaebb527695785ec3e5c0d13cf6a4eb82aadfeeb5bca64e534fcfe22efd12aa  dramp_natural_amps.txt
+8d5c7db2b3f647567c5a0dc36b7cf96f763215614d449a37fdb39e8aa96e0c10  dbaasp_all.fasta
