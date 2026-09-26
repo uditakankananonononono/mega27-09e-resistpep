@@ -1,0 +1,10 @@
+strain,growth_rate_refined_LB,growth_rate_MH,growth_rate_NaPB,competition_NaPB
+Wild type controlsa,1,1,1,1
+DA16875 (WGH resistant isolate 1),0.89,0.87,0.88,ND
+DA16874 (LL-37 resistant isolate 1),0.88,0.94,0.91,ND
+DA17847 (LL-37 resistant isolate 2),0.97,0.96,0.90,ND
+DA17610 (CNY100HL resistant isolate 1),0.83,0.75,0.73,ND
+DA22427 (waaY [FS] reconstituted),ND,0.96,1.05,0.99
+DA23175 (pmrB [R13H] reconstituted),ND,0.99,1.04,1.01
+DA23307 (phoP [D23N] reconstituted),ND,0.93,0.84,0.84
+"DA23899 (waaY, pmrB, phoP reconstituted)",ND,0.83,0.91,0.84

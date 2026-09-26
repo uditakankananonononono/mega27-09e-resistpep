@@ -1,0 +1,10 @@
+strain,WGH_mic,LL37_mic,CNY100HL_mic,WGH_fc,LL37_fc,CNY100HL_fc
+DA6192 (S. typhimurium wild type),6.25,6.25,2.5,1.0,1.0,1.0
+DA16875 (WGH resistant isolate 1),25.0,6.25,3.75,4.0,1.0,1.5
+DA17847 (LL-37 resistant isolate 2),18.75,6.25,,3.0,1.0,
+DA16874 (LL-37 resistant isolate 1),25.0,31.25,3.75,4.0,5.0,1.5
+DA17610 (CNY100HL resistant isolate 1),9.375,9.375,5.0,1.5,1.5,2.0
+DA22427 (waaY [FS] reconstituted),12.5,6.25,2.5,2.0,1.0,1.0
+DA23175 (pmrB [R13H] reconstituted),9.375,6.25,2.5,1.5,1.0,1.0
+DA23307 (phoP [D23N] reconstituted),9.375,9.375,5.0,1.5,1.5,2.0
+"DA23899 (waaY, pmrB, phoP reconstituted)",18.75,6.25,5.0,3.0,1.0,2.0

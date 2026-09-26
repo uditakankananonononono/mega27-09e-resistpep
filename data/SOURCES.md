@@ -4,7 +4,14 @@
   (S. typhimurium serial-passage resistance study). API-verified 2026-09-27.
   data/raw/figshare752076_Table_S1.docx (WT MICs, verified readable),
   Table_S2.docx (strain scar table). sha256 in data/SHA256SUMS.txt.
-  TODO: resistance fold-change table (S3-S6 or main text) - locate + pin.
+  Table S3-S6.docx (WGS mutation tables for LL-37 x2, WGH, CNY100HL
+  resistant isolates) pinned + sha256. Resistance MIC/fold-change data is in
+  MAIN TEXT, not supplements: PMC3720879 (PLOS ONE 2013, DOI
+  10.1371/journal.pone.0068875) full-text XML pinned via NCBI OAI; parsed by
+  scripts/parse_pmc_tables.py into data/processed/: table2 evolved-lineage MICs,
+  table3 fitness costs, table4 AMP MICs + fold-changes vs DA6192 WT
+  (WGH 6.25 / LL-37 6.25 / CNY100HL 2.5 mg/L), table5 antibiotic
+  cross-resistance, table1 genotypes. Ranges mid-pointed (documented in script).
 - DBAASP / DRAMP: reuse the 09a pinned pulls (cross-repo copies to be made
   with sha256 carried over).
 - St Andrews S. aureus AMP resistance-evolution dataset
