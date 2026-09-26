@@ -14,6 +14,12 @@
   cross-resistance, table1 genotypes. Ranges mid-pointed (documented in script).
 - DBAASP / DRAMP: reuse the 09a pinned pulls (cross-repo copies to be made
   with sha256 carried over).
-- St Andrews S. aureus AMP resistance-evolution dataset
-  (Frontiers fmicb.2020.00103): locate the actual deposit via
-  research-portal.st-andrews.ac.uk - NOT yet fetched.
+- St Andrews S. aureus AMP resistance-evolution study
+  (Frontiers fmicb.2020.00103, PMC7033599): full-text XML pinned via NCBI OAI
+  (sha256 above). Data availability: WGS at NCBI BioProject PRJNA399645 (raw
+  reads, not fetched - large, optional). The single main-text table
+  (pharmacodynamic parameter estimates) and MIC/curve data are mostly in
+  figures; the St Andrews PURE dataset landing page
+  (research-portal.st-andrews.ac.uk/en/datasets/resistance-evolution-against
+  -antimicrobial-peptides-in-staphyloco/) is located but its file list is
+  JS-rendered - needs a browser pass to enumerate actual files (queued).
