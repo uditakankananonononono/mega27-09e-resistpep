@@ -9,10 +9,10 @@ those measurements - then nominate NAMED candidates that are predicted
 antimicrobial AND evolutionarily robust, across independent evidence layers.
 
 Status: PREREGISTRATION LOCKED (docs/PREREGISTRATION.md) - no outcomes scored yet.
-Origin: user rules 1-8 (2026-09-26); concept from a logged ChatGPT ideation
+Origin: user rules 1-8 (2026-09-26)
 session (untrusted advice, all dataset claims independently verified: DBAASP,
 DRAMP, PLOS Figshare 752076 LL-37 resistance dataset, St Andrews S. aureus AMP
 resistance-evolution dataset). Rules of the house: real public data only, locked
 splits before outcomes, honest negatives preserved and never terminal (rule-6
-pivots), minimum 10 ChatGPT judge rounds each producing a concrete novelty
+pivots), minimum 1 user-provided judge verdict (rule updated 2026-09-27) producing a concrete novelty
 change (rule 8), 50+ text-page paper.
