@@ -42,3 +42,16 @@
   cross-resistance matrix and pharmacodynamic curves also present. SLM1/SLM3
   are palmitic-acid-modified (lipo)peptides per Fig 2 caption - flag before
   treating as plain sequence labels.
+- Maron et al. 2025, iScience (S. aureus JLA513 experimental evolution vs
+  temporin, melittin, pexiganan, single + combinations; 6 replicate lines per
+  treatment, 29 days): full-text XML pinned via NCBI efetch
+  (data/raw/pmc12167497.xml, sha256 above; PMC12167497). Data availability
+  verified from the article XML: sequencing at NCBI SRA PRJNA1116739, dataset
+  + analysis code at Zenodo 10.5281/zenodo.15125182 (CC-BY-4.0; record page
+  verified live 2026-10-01; companion code github.com/Bmaron26/
+  AMP_combinations_sequencing). Pinned: mutations_and_resistance_correlation
+  _data_new_paul.xlsx (resistance sheet: per-line log2 MIC fold-change rows
+  by assay agent across 37 strain columns incl. controls + combination lines;
+  fitness and mutation sheets present). Temporin adds one new single sequence
+  to the support base; melittin/pexiganan replicate 2024 treatments in a
+  second organism.
