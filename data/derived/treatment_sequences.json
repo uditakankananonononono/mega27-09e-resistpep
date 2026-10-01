@@ -1,0 +1,110 @@
+{
+  "created": "2026-10-01",
+  "purpose": "addendum A1.4 sequence-feature inputs; single-sequence treatments only; mixtures (WGH, p-FdK5, FK20, RPMs) and combination lines excluded",
+  "sequences": [
+    {
+      "name": "Melittin",
+      "sequence": "GIGAVLKVLTTGLPALISWIKRKRQQ",
+      "modification": null,
+      "used_in": [
+        "antunes2024",
+        "maron2025"
+      ],
+      "provenance": "antunes2024 PMC11218975 Table 1; identical in maron2022 PMC9430149 supplement Table S1"
+    },
+    {
+      "name": "Pexiganan",
+      "sequence": "GIGKFLKKAKKFGKAFVKILKK",
+      "modification": null,
+      "used_in": [
+        "antunes2024",
+        "maron2025"
+      ],
+      "provenance": "antunes2024 PMC11218975 Table 1; identical in maron2022 PMC9430149 supplement Table S1"
+    },
+    {
+      "name": "Cecropin P1",
+      "sequence": "SWLSKTAKKLENSAKKRISEGIAIAIQGGPR",
+      "modification": null,
+      "used_in": [
+        "antunes2024"
+      ],
+      "provenance": "antunes2024 PMC11218975 Table 1"
+    },
+    {
+      "name": "PA-13",
+      "sequence": "KIAKRIWKILRRR",
+      "modification": null,
+      "used_in": [
+        "antunes2024"
+      ],
+      "provenance": "antunes2024 PMC11218975 Table 1"
+    },
+    {
+      "name": "SLM1",
+      "sequence": "KKKKK",
+      "modification": "N-terminal palmitoylation (p-)",
+      "used_in": [
+        "antunes2024"
+      ],
+      "provenance": "antunes2024 PMC11218975 Table 1 (p-KKKKK)"
+    },
+    {
+      "name": "SLM3",
+      "sequence": "KKKFK",
+      "modification": "N-terminal palmitoylation (p-)",
+      "used_in": [
+        "antunes2024"
+      ],
+      "provenance": "antunes2024 PMC11218975 Table 1 (p-KKKFK)"
+    },
+    {
+      "name": "Temporin A",
+      "sequence": "FLPLIGRVLSGIL",
+      "modification": null,
+      "used_in": [
+        "maron2025"
+      ],
+      "provenance": "maron2022 PMC9430149 supplement Table S1 (evolution experiment source, ref 22 of maron2025 PMC12167497)"
+    },
+    {
+      "name": "Ovispirin",
+      "sequence": "KNLRRIIRKIIHIIKKYG",
+      "modification": null,
+      "used_in": [],
+      "provenance": "maron2022 PMC9430149 supplement Table S1; evolved in maron2022 but per-lineage MICs are figure-only (no pinned numeric data) - excluded from outcome table"
+    },
+    {
+      "name": "Aurein 1.2",
+      "sequence": "GLFDIIKKIAESF",
+      "modification": null,
+      "used_in": [],
+      "provenance": "maron2022 PMC9430149 supplement Table S1; figure-only outcomes - excluded"
+    },
+    {
+      "name": "Pardaxin",
+      "sequence": "GFFALIPKIISSPLFKTLLSAVGSALSSSGGQE",
+      "modification": null,
+      "used_in": [],
+      "provenance": "maron2022 PMC9430149 supplement Table S1; figure-only outcomes - excluded"
+    },
+    {
+      "name": "LL-37",
+      "sequence": "LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES",
+      "modification": null,
+      "used_in": [
+        "prabhu2013"
+      ],
+      "provenance": "prabhu2013 PMC3720879 Methods (synthesized by Innovagen AB)"
+    },
+    {
+      "name": "CNY100HL",
+      "sequence": "CKYILLLRRQLARAWRRGLR",
+      "modification": null,
+      "used_in": [
+        "prabhu2013"
+      ],
+      "provenance": "prabhu2013 PMC3720879 Methods"
+    }
+  ]
+}

@@ -46,7 +46,16 @@ for r in ws.iter_rows(min_row=2, values_only=True):
             str(val),log2fc=float(val),fc=2**float(val),
             note=('log2 fold-change vs ancestor, own-treatment assay' if own
                   else 'cross-resistance assay (secondary, excluded from primary aggregate)')
-                   + '; no NPSA control rows in pinned file')
+                   + '; NPSA matched control from maron2022 supplement Table S2')
+
+# --- Maron NPSA matched controls (maron2022 PMC9430149 supplement Table S2):
+# no-peptide-selected control strains, MIC unchanged vs ancestor in both experiments
+# (Temporin 6.25/6.25, Melittin 6.25/6.25, Pexiganan 12.5/12.5 ug/ml) => log2fc = 0
+for tkey,tname in map25.items():
+    for exp in ('exp1','exp2'):
+        add('maron2025','S. aureus JLA513',tname,f'NPSA-{exp}','control',tname,
+            'unchanged',log2fc=0.0,fc=1.0,
+            note='NPSA control MIC = ancestor MIC, maron2022 supplement Table S2 (same evolution experiment)')
 
 # --- Prabhu 2013: lineage MICs after cycling (raw strings, censored) vs Table S1 WT
 tables=audit.tables(BASE/'data/raw/pmc3720879.xml')
@@ -84,7 +93,9 @@ for (study,treat),vals in sorted(agg.items()):
         'control_status':'matched' if ctrl else 'control_absent_in_pinned_file'})
 out={'addendum':'A1.3','lineage_rows':rows,'treatment_aggregates':treatments,
      'excluded':['WGH (mixture)','p-FdK5, p-FdK5 20/80, FK20 (random mixtures)','combination lines in maron2025'],
-     'limitations':['maron2025 pinned file has no NPSA control rows; net fold-change for its 3 treatments pending control source','prabhu2013 LL-37 WT MIC is a range (12.5-50); fold-change withheld pending prereg choice of bound']}
+     'limitations':['prabhu2013 LL-37 WT MIC is a range (12.5-50); fold-change withheld pending prereg choice of bound',
+                    'maron2022 ovispirin/aurein1.2/pardaxin evolved-line MICs are figure-only (no pinned numeric source); excluded from outcome table',
+                    'maron2025 NPSA control log2fc taken as exactly 0 from supplement Table S2 (MIC identical to ancestor, both experiments)']}
 dest=BASE/'results/outcome_table_a1.json'
 dest.write_text(json.dumps(out,indent=2)+'\n')
 print(json.dumps({'rows':len(rows),'treatments':len(treatments),'with_net':sum(t['net_log2fc'] is not None for t in treatments)}))

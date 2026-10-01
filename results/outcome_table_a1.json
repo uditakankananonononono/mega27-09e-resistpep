@@ -948,7 +948,7 @@
       "fold_change": 4.999999999999999,
       "log2_fold_change": 2.321928094887362,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -961,7 +961,7 @@
       "fold_change": 4.0,
       "log2_fold_change": 2.0,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -974,7 +974,7 @@
       "fold_change": 4.0,
       "log2_fold_change": 2.0,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -987,7 +987,7 @@
       "fold_change": 4.0,
       "log2_fold_change": 2.0,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1000,7 +1000,7 @@
       "fold_change": 4.0,
       "log2_fold_change": 2.0,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1013,7 +1013,7 @@
       "fold_change": 4.0,
       "log2_fold_change": 2.0,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1026,7 +1026,7 @@
       "fold_change": 4.0,
       "log2_fold_change": 2.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1039,7 +1039,7 @@
       "fold_change": 4.0,
       "log2_fold_change": 2.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1052,7 +1052,7 @@
       "fold_change": 4.0,
       "log2_fold_change": 2.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1065,7 +1065,7 @@
       "fold_change": 4.0,
       "log2_fold_change": 2.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1078,7 +1078,7 @@
       "fold_change": 8.0,
       "log2_fold_change": 3.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1091,7 +1091,7 @@
       "fold_change": 6.0,
       "log2_fold_change": 2.584962500721156,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1104,7 +1104,7 @@
       "fold_change": 1.5,
       "log2_fold_change": 0.5849625007211562,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1117,7 +1117,7 @@
       "fold_change": 2.0,
       "log2_fold_change": 1.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1130,7 +1130,7 @@
       "fold_change": 2.0,
       "log2_fold_change": 1.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1143,7 +1143,7 @@
       "fold_change": 2.666666666666667,
       "log2_fold_change": 1.415037499278844,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1156,7 +1156,7 @@
       "fold_change": 2.0,
       "log2_fold_change": 1.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1169,7 +1169,7 @@
       "fold_change": 2.666666666666667,
       "log2_fold_change": 1.415037499278844,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1182,7 +1182,7 @@
       "fold_change": 0.8333333333333333,
       "log2_fold_change": -0.26303440583379395,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1195,7 +1195,7 @@
       "fold_change": 8.0,
       "log2_fold_change": 3.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1208,7 +1208,7 @@
       "fold_change": 1.0,
       "log2_fold_change": 0.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1221,7 +1221,7 @@
       "fold_change": 2.0,
       "log2_fold_change": 1.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1234,7 +1234,7 @@
       "fold_change": 3.333333333333333,
       "log2_fold_change": 1.736965594166206,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1247,7 +1247,7 @@
       "fold_change": 2.0,
       "log2_fold_change": 1.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1260,7 +1260,7 @@
       "fold_change": 21.333333333333336,
       "log2_fold_change": 4.415037499278844,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1273,7 +1273,7 @@
       "fold_change": 32.0,
       "log2_fold_change": 5.0,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1286,7 +1286,7 @@
       "fold_change": 24.000000000000014,
       "log2_fold_change": 4.584962500721157,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1299,7 +1299,7 @@
       "fold_change": 32.0,
       "log2_fold_change": 5.0,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1312,7 +1312,7 @@
       "fold_change": 32.0,
       "log2_fold_change": 5.0,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1325,7 +1325,7 @@
       "fold_change": 24.000000000000014,
       "log2_fold_change": 4.584962500721157,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1338,7 +1338,7 @@
       "fold_change": 1.5,
       "log2_fold_change": 0.5849625007211562,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1351,7 +1351,7 @@
       "fold_change": 0.5,
       "log2_fold_change": -1.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1364,7 +1364,7 @@
       "fold_change": 1.0,
       "log2_fold_change": 0.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1377,7 +1377,7 @@
       "fold_change": 1.0,
       "log2_fold_change": 0.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1390,7 +1390,7 @@
       "fold_change": 1.0,
       "log2_fold_change": 0.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1403,7 +1403,7 @@
       "fold_change": 1.0,
       "log2_fold_change": 0.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1416,7 +1416,7 @@
       "fold_change": 0.25,
       "log2_fold_change": -2.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1429,7 +1429,7 @@
       "fold_change": 2.0,
       "log2_fold_change": 1.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1442,7 +1442,7 @@
       "fold_change": 0.33333333333333337,
       "log2_fold_change": -1.584962500721156,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1455,7 +1455,7 @@
       "fold_change": 0.5,
       "log2_fold_change": -1.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1468,7 +1468,7 @@
       "fold_change": 0.4166666666666666,
       "log2_fold_change": -1.2630344058337941,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1481,7 +1481,7 @@
       "fold_change": 1.0,
       "log2_fold_change": 0.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1494,7 +1494,7 @@
       "fold_change": 1.0,
       "log2_fold_change": 0.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1507,7 +1507,7 @@
       "fold_change": 1.0,
       "log2_fold_change": 0.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1520,7 +1520,7 @@
       "fold_change": 1.0,
       "log2_fold_change": 0.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1533,7 +1533,7 @@
       "fold_change": 1.0,
       "log2_fold_change": 0.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1546,7 +1546,7 @@
       "fold_change": 2.0,
       "log2_fold_change": 1.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1559,7 +1559,7 @@
       "fold_change": 2.0,
       "log2_fold_change": 1.0,
       "censor": "none",
-      "note": "cross-resistance assay (secondary, excluded from primary aggregate); no NPSA control rows in pinned file"
+      "note": "cross-resistance assay (secondary, excluded from primary aggregate); NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1572,7 +1572,7 @@
       "fold_change": 4.0,
       "log2_fold_change": 2.0,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1585,7 +1585,7 @@
       "fold_change": 13.333333333333337,
       "log2_fold_change": 3.7369655941662066,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1598,7 +1598,7 @@
       "fold_change": 10.666666666666668,
       "log2_fold_change": 3.415037499278844,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1611,7 +1611,7 @@
       "fold_change": 8.0,
       "log2_fold_change": 3.0,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1624,7 +1624,7 @@
       "fold_change": 6.666666666666666,
       "log2_fold_change": 2.736965594166206,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
     },
     {
       "study": "maron2025",
@@ -1637,7 +1637,85 @@
       "fold_change": 16.0,
       "log2_fold_change": 4.0,
       "censor": "none",
-      "note": "log2 fold-change vs ancestor, own-treatment assay; no NPSA control rows in pinned file"
+      "note": "log2 fold-change vs ancestor, own-treatment assay; NPSA matched control from maron2022 supplement Table S2"
+    },
+    {
+      "study": "maron2025",
+      "organism": "S. aureus JLA513",
+      "treatment": "temporin",
+      "line_id": "NPSA-exp1",
+      "role": "control",
+      "assay_agent": "temporin",
+      "raw_value": "unchanged",
+      "fold_change": 1.0,
+      "log2_fold_change": 0.0,
+      "censor": "none",
+      "note": "NPSA control MIC = ancestor MIC, maron2022 supplement Table S2 (same evolution experiment)"
+    },
+    {
+      "study": "maron2025",
+      "organism": "S. aureus JLA513",
+      "treatment": "temporin",
+      "line_id": "NPSA-exp2",
+      "role": "control",
+      "assay_agent": "temporin",
+      "raw_value": "unchanged",
+      "fold_change": 1.0,
+      "log2_fold_change": 0.0,
+      "censor": "none",
+      "note": "NPSA control MIC = ancestor MIC, maron2022 supplement Table S2 (same evolution experiment)"
+    },
+    {
+      "study": "maron2025",
+      "organism": "S. aureus JLA513",
+      "treatment": "melittin",
+      "line_id": "NPSA-exp1",
+      "role": "control",
+      "assay_agent": "melittin",
+      "raw_value": "unchanged",
+      "fold_change": 1.0,
+      "log2_fold_change": 0.0,
+      "censor": "none",
+      "note": "NPSA control MIC = ancestor MIC, maron2022 supplement Table S2 (same evolution experiment)"
+    },
+    {
+      "study": "maron2025",
+      "organism": "S. aureus JLA513",
+      "treatment": "melittin",
+      "line_id": "NPSA-exp2",
+      "role": "control",
+      "assay_agent": "melittin",
+      "raw_value": "unchanged",
+      "fold_change": 1.0,
+      "log2_fold_change": 0.0,
+      "censor": "none",
+      "note": "NPSA control MIC = ancestor MIC, maron2022 supplement Table S2 (same evolution experiment)"
+    },
+    {
+      "study": "maron2025",
+      "organism": "S. aureus JLA513",
+      "treatment": "pexiganan",
+      "line_id": "NPSA-exp1",
+      "role": "control",
+      "assay_agent": "pexiganan",
+      "raw_value": "unchanged",
+      "fold_change": 1.0,
+      "log2_fold_change": 0.0,
+      "censor": "none",
+      "note": "NPSA control MIC = ancestor MIC, maron2022 supplement Table S2 (same evolution experiment)"
+    },
+    {
+      "study": "maron2025",
+      "organism": "S. aureus JLA513",
+      "treatment": "pexiganan",
+      "line_id": "NPSA-exp2",
+      "role": "control",
+      "assay_agent": "pexiganan",
+      "raw_value": "unchanged",
+      "fold_change": 1.0,
+      "log2_fold_change": 0.0,
+      "censor": "none",
+      "note": "NPSA control MIC = ancestor MIC, maron2022 supplement Table S2 (same evolution experiment)"
     },
     {
       "study": "prabhu2013",
@@ -1862,30 +1940,30 @@
       "treatment": "melittin",
       "n_evolved": 6,
       "median_evolved_log2fc": 4.7925,
-      "n_control": 0,
-      "median_control_log2fc": null,
-      "net_log2fc": null,
-      "control_status": "control_absent_in_pinned_file"
+      "n_control": 2,
+      "median_control_log2fc": 0.0,
+      "net_log2fc": 4.7925,
+      "control_status": "matched"
     },
     {
       "study": "maron2025",
       "treatment": "pexiganan",
       "n_evolved": 6,
       "median_evolved_log2fc": 3.2075,
-      "n_control": 0,
-      "median_control_log2fc": null,
-      "net_log2fc": null,
-      "control_status": "control_absent_in_pinned_file"
+      "n_control": 2,
+      "median_control_log2fc": 0.0,
+      "net_log2fc": 3.2075,
+      "control_status": "matched"
     },
     {
       "study": "maron2025",
       "treatment": "temporin",
       "n_evolved": 6,
       "median_evolved_log2fc": 2.0,
-      "n_control": 0,
-      "median_control_log2fc": null,
-      "net_log2fc": null,
-      "control_status": "control_absent_in_pinned_file"
+      "n_control": 2,
+      "median_control_log2fc": 0.0,
+      "net_log2fc": 2.0,
+      "control_status": "matched"
     },
     {
       "study": "prabhu2013",
@@ -1904,7 +1982,8 @@
     "combination lines in maron2025"
   ],
   "limitations": [
-    "maron2025 pinned file has no NPSA control rows; net fold-change for its 3 treatments pending control source",
-    "prabhu2013 LL-37 WT MIC is a range (12.5-50); fold-change withheld pending prereg choice of bound"
+    "prabhu2013 LL-37 WT MIC is a range (12.5-50); fold-change withheld pending prereg choice of bound",
+    "maron2022 ovispirin/aurein1.2/pardaxin evolved-line MICs are figure-only (no pinned numeric source); excluded from outcome table",
+    "maron2025 NPSA control log2fc taken as exactly 0 from supplement Table S2 (MIC identical to ancestor, both experiments)"
   ]
 }
