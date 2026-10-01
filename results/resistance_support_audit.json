@@ -1,0 +1,1551 @@
+{
+  "audit_type": "outcome-label support, not model evaluation",
+  "sources": {
+    "pmc7033599": {
+      "sha256": "b6d9f4fdb41b99eb5193b908b6b807dbdf6742afe0295fb8a27df36e906eefb4",
+      "tables": {
+        "TABLE 1": {
+          "rows": [
+            [
+              "S. aureus",
+              "MIC (\u03bcg/ml)",
+              "zMIC (\u03bcg/ml)",
+              "\u03a8min (h\u20131)",
+              "\u03a8max (h\u20131)",
+              "\u03ba"
+            ],
+            [
+              "Con1",
+              "72.535.81",
+              "66.767.42",
+              "\u22129.900.22",
+              "0.230.06",
+              "2.860.13"
+            ],
+            [
+              "P",
+              "768.0086.54",
+              "300.3223.33",
+              "\u22127.600.30",
+              "0.260.06",
+              "15.32 \u00b1 1.32"
+            ],
+            [
+              "M",
+              "247.468.53",
+              "283.1930.16",
+              "\u22128.200.21",
+              "0.110.03",
+              "15.10 \u00b1 1.42"
+            ],
+            [
+              "Con2",
+              "48.007.16",
+              "22.943.77",
+              "\u22129.040.16",
+              "0.460.07",
+              "4.840.53"
+            ],
+            [
+              "T1",
+              "49.783.86",
+              "21.022.06",
+              "\u22128.860.13",
+              "0.410.03",
+              "4.020.34"
+            ],
+            [
+              "T1T2",
+              "53.334.54",
+              "19.292.86",
+              "\u22127.970.35",
+              "0.270.03",
+              "4.180.69"
+            ]
+          ],
+          "verbatim": "TABLE 1Parameter estimates and their standard errors.S. aureusMIC (\u03bcg/ml)zMIC (\u03bcg/ml)\u03a8min (h\u20131)\u03a8max (h\u20131)\u03baCon172.535.8166.767.42\u22129.900.220.230.062.860.13P768.0086.54300.3223.33\u22127.600.300.260.0615.32 \u00b1 1.32M247.468.53283.1930.16\u22128.200.210.110.0315.10 \u00b1 1.42Con248.007.1622.943.77\u22129.040.160.460.074.840.53T149.783.8621.022.06\u22128.860.130.410.034.020.34T1T253.334.5419.292.86\u22127.970.350.270.034.180.69MIC, minimum inhibition concentration determined by a two-fold dilution protocol; zMIC, pharmacodynamic MIC; \u03a8min, the minimum bacterial net growth rate at high pexiganan concentrations; \u03a8max, the maximum bacterial net growth rate; \u03ba, the Hill coefficient; Con, passaged non-selected control for pexiganan- and melittin-selected lines (Con1) and for tenecin-selected lines (Con2); P, pexiganan-selected S. aureus; M, melittin-selected S. aureus;T1, tenecin 1-selected S. aureus; T1T2, tenecin1 + 2-selected S. aureus. Pexiganan (P) and Melittin (M) selected S. aureus lines evolved higher kappa values (Bold) compared to their unselected controls (Con1)."
+        }
+      }
+    },
+    "pmc3720879": {
+      "sha256": "5e628e6c96a96ec999c11164421382713ccd2ac419778b3196f8681c0a23e7f8",
+      "tables": {
+        "Table 1": {
+          "rows": [
+            [
+              "Strain",
+              "Genotype",
+              "Origin and description"
+            ],
+            [
+              "DA6079",
+              "Salmonella typhimurium LT2, cobI344::Tn10dChl",
+              "Lab collection"
+            ],
+            [
+              "DA6192",
+              "S. typhimurium LT2",
+              "Lab collection, wild type"
+            ],
+            [
+              "DA15110",
+              "galK::yfp-bla",
+              "22"
+            ],
+            [
+              "DA15111",
+              "galK::cfp-bla",
+              "22"
+            ],
+            [
+              "DA16874",
+              "cobI344::Tn10dChl, mutL(delbp201\u2013206, aa 68\u201369), pmrB(H164R), waaY(H152Y),>60 additional mutations",
+              "This work, original LL-37 resistant isolate 1, mutator"
+            ],
+            [
+              "DA16875",
+              "cobI344::Tn10dChl, pmrB(R13H), waaY(del bp17\u2192FS) 3912438",
+              "This work, original CNY100HL resistant isolate 1"
+            ],
+            [
+              "DA17610",
+              "cobI344::Tn10dChl, phoP(D23N) ffh(L218Q)",
+              "This work, original CNY100HL resistant isolate 1"
+            ],
+            [
+              "DA17847",
+              "cobI344::Tn10dChl, waaYZ(del bp306\u2013196 nt into waaZ) 3911421\u20133912154), ytfN(L1251F)",
+              "This work, original LL-37 resistant isolate 2"
+            ],
+            [
+              "DA22427",
+              "waaY(del bp17\u2192FS), tdh(scar)",
+              "This work, reconstituted single"
+            ],
+            [
+              "DA22431",
+              "tdh (scar)",
+              "This work, reconstituted control"
+            ],
+            [
+              "DA23040",
+              "mutL(delbp201\u2013206, aa 68\u201369) (del bp 4600685\u20134600690), 4597041::Kan",
+              "This work, reconstituted single"
+            ],
+            [
+              "DA23042",
+              "4597041::Kan",
+              "This work, reconstituted control"
+            ],
+            [
+              "DA23175",
+              "pmrB(R13H), adi(scar)",
+              "This work, reconstituted single"
+            ],
+            [
+              "DA23177",
+              "adi(scar)",
+              "This work, reconstituted control"
+            ],
+            [
+              "DA23179",
+              "waaY(del bp17\u2192FS), pmrB(R13H), tdh(scar), adi(scar)",
+              "This work, reconstituted double"
+            ],
+            [
+              "DA23299",
+              "tdh(scar), adi(scar)",
+              "This work, reconstituted control"
+            ],
+            [
+              "DA23301",
+              "waaY(del bp17\u2192FS), phoP(D23N), tdh(scar), 1327454(scar)",
+              "This work, reconstituted double"
+            ],
+            [
+              "DA23305",
+              "tdh(scar), 1327454(scar)",
+              "This work, reconstituted control"
+            ],
+            [
+              "DA23307",
+              "phoP(D23N), 1327454(scar)",
+              "This work, reconstituted single"
+            ],
+            [
+              "DA23309",
+              "1327454(scar)",
+              "This work, reconstituted control"
+            ],
+            [
+              "DA23899",
+              "waaY(del bp17\u2192FS), pmrB(R13H), phoP(D23N), tdh(scar), adi(scar), 1327454(scar)",
+              "This work, reconstituted triple"
+            ],
+            [
+              "DA23902",
+              "tdh(scar), adi(scar), 1327454(scar)",
+              "This work, reconstituted control"
+            ],
+            [
+              "DA24144",
+              "adi(scar), 1327454(scar)",
+              "This work, reconstituted control"
+            ],
+            [
+              "DA24301",
+              "pmrB(R13H), phoP(D23N), adi(scar), 1327454(scar)",
+              "This work, reconstituted double"
+            ],
+            [
+              "DA23410",
+              "tdh (scar), galK::yfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA23414",
+              "adi(scar), galK::yfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA23418",
+              "tdh(scar), adi(scar), galK::yfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA23423",
+              "tdh(scar), 1327454(scar), galK::yfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA23426",
+              "1327454(scar), galK::yfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA24148",
+              "waaY (del bp17\u2192FS), tdh (scar), galK::cfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA24152",
+              "pmrB(R13H), adi(scar), galK::cfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA24156",
+              "waaY (del bp17\u2192FS), pmrB(R13H), tdh(scar), adi(scar), galK::cfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA24161",
+              "waaY (del bp17\u2192FS), phoP(D23N), tdh(scar), 1327454(scar), galK::cfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA24164",
+              "phoP(D23N), 1327454(scar), galK::cfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA24577",
+              "waaY (del bp17\u2192FS), pmrB(R13H), phoP(D23N), tdh(scar), adi(scar), 1327454(scar), galK::cfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA24583",
+              "pmrB(R13H), phoP(D23N), tdh(scar), 1327454(scar), galK::cfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA24593",
+              "tdh(scar), adi(scar), 1327454(scar), galK::yfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "DA24603",
+              "adi(scar), 1327454(scar), galK::yfp-bla",
+              "This work, for competition assay"
+            ],
+            [
+              "Plasmid",
+              "",
+              ""
+            ],
+            [
+              "pSIM5-Tet",
+              "Temperature-controlled \u03bb-red system",
+              "Lab Collection"
+            ]
+          ],
+          "verbatim": "10.1371/journal.pone.0068875.t001Table 1Strains and plasmids used in this study.StrainGenotypeOrigin and descriptionDA6079 Salmonella typhimurium LT2, cobI344::Tn10dChlLab collectionDA6192 S. typhimurium LT2Lab collection, wild typeDA15110 galK::yfp-bla 22DA15111 galK::cfp-bla 22DA16874 cobI344::Tn10dChl, mutL(delbp201\u2013206, aa 68\u201369), pmrB(H164R), waaY(H152Y),>60 additional mutationsThis work, original LL-37 resistant isolate 1, mutatorDA16875 cobI344::Tn10dChl, pmrB(R13H), waaY(del bp17\u2192FS) 3912438This work, original CNY100HL resistant isolate 1DA17610 cobI344::Tn10dChl, phoP(D23N) ffh(L218Q)This work, original CNY100HL resistant isolate 1DA17847 cobI344::Tn10dChl, waaYZ(del bp306\u2013196 nt into waaZ) 3911421\u20133912154), ytfN(L1251F)This work, original LL-37 resistant isolate 2DA22427 waaY(del bp17\u2192FS), tdh(scar)This work, reconstituted singleDA22431 tdh (scar)This work, reconstituted controlDA23040 mutL(delbp201\u2013206, aa 68\u201369) (del bp 4600685\u20134600690), 4597041::KanThis work, reconstituted singleDA230424597041::KanThis work, reconstituted controlDA23175 pmrB(R13H), adi(scar)This work, reconstituted singleDA23177 adi(scar)This work, reconstituted controlDA23179 waaY(del bp17\u2192FS), pmrB(R13H), tdh(scar), adi(scar)This work, reconstituted doubleDA23299 tdh(scar), adi(scar)This work, reconstituted controlDA23301 waaY(del bp17\u2192FS), phoP(D23N), tdh(scar), 1327454(scar)This work, reconstituted doubleDA23305 tdh(scar), 1327454(scar)This work, reconstituted controlDA23307 phoP(D23N), 1327454(scar)This work, reconstituted singleDA233091327454(scar)This work, reconstituted controlDA23899 waaY(del bp17\u2192FS), pmrB(R13H), phoP(D23N), tdh(scar), adi(scar), 1327454(scar)This work, reconstituted tripleDA23902 tdh(scar), adi(scar), 1327454(scar)This work, reconstituted controlDA24144 adi(scar), 1327454(scar)This work, reconstituted controlDA24301 pmrB(R13H), phoP(D23N), adi(scar), 1327454(scar)This work, reconstituted doubleDA23410 tdh (scar), galK::yfp-bla This work, for competition assayDA23414 adi(scar), galK::yfp-bla This work, for competition assayDA23418 tdh(scar), adi(scar), galK::yfp-bla This work, for competition assayDA23423 tdh(scar), 1327454(scar), galK::yfp-bla This work, for competition assayDA234261327454(scar), galK::yfp-bla This work, for competition assayDA24148 waaY (del bp17\u2192FS), tdh (scar), galK::cfp-bla This work, for competition assayDA24152 pmrB(R13H), adi(scar), galK::cfp-bla This work, for competition assayDA24156 waaY (del bp17\u2192FS), pmrB(R13H), tdh(scar), adi(scar), galK::cfp-bla This work, for competition assayDA24161 waaY (del bp17\u2192FS), phoP(D23N), tdh(scar), 1327454(scar), galK::cfp-bla This work, for competition assayDA24164 phoP(D23N), 1327454(scar), galK::cfp-bla This work, for competition assayDA24577 waaY (del bp17\u2192FS), pmrB(R13H), phoP(D23N), tdh(scar), adi(scar), 1327454(scar), galK::cfp-bla This work, for competition assayDA24583 pmrB(R13H), phoP(D23N), tdh(scar), 1327454(scar), galK::cfp-bla This work, for competition assayDA24593 tdh(scar), adi(scar), 1327454(scar), galK::yfp-bla This work, for competition assayDA24603 adi(scar), 1327454(scar), galK::yfp-bla This work, for competition assay Plasmid pSIM5-TetTemperature-controlled \u03bb-red systemLab CollectionaAll strains are derived from S. typhimurium LT2.bExact position of scar sequences can be found in Table S2.cOnly selected mutations confirmed by PCR shown here. For a full list of mutations, see Tables S3, S4, S5, and S6.FS, frame shift; del, deletion."
+        },
+        "Table 2": {
+          "rows": [
+            [
+              "Lineage",
+              "Start AMP-conc. (mg/L)",
+              "End AMP-conc. (mg/L)",
+              "No. of generations",
+              "MIC after cycling (mg/L)a"
+            ],
+            [
+              "LL-37 1",
+              "12.5",
+              "63.3",
+              "511",
+              "75"
+            ],
+            [
+              "LL-37 2",
+              "12.5",
+              "63.3",
+              "511",
+              "75\u2013 >75"
+            ],
+            [
+              "LL-37 3",
+              "12.5",
+              "42.2",
+              "490",
+              "ND"
+            ],
+            [
+              "LL-37 4",
+              "12.5",
+              "42.2",
+              "504",
+              "ND"
+            ],
+            [
+              "LL-37 5",
+              "12.5",
+              "63.3",
+              "553",
+              "75\u2013>75"
+            ],
+            [
+              "LL-37 6",
+              "12.5",
+              "63.3",
+              "518",
+              "75"
+            ],
+            [
+              "CNY100HL 1",
+              "10",
+              "33.8",
+              "476",
+              "10"
+            ],
+            [
+              "CNY100HL 2",
+              "10",
+              "22.5",
+              "462",
+              "ND"
+            ],
+            [
+              "CNY100HL 3",
+              "10",
+              "33.8",
+              "532",
+              "10\u201320"
+            ],
+            [
+              "CNY100HL 4",
+              "10",
+              "33.8",
+              "469",
+              "10\u201330"
+            ],
+            [
+              "CNY100HL 5",
+              "10",
+              "22.5",
+              "413",
+              "ND"
+            ],
+            [
+              "CNY100HL 6",
+              "10",
+              "22.5",
+              "441",
+              "ND"
+            ],
+            [
+              "WGH 1",
+              "20",
+              "200",
+              "567",
+              ">300"
+            ],
+            [
+              "WGH 2",
+              "20",
+              "200",
+              "560",
+              ">300"
+            ],
+            [
+              "WGH 3",
+              "20",
+              "200",
+              "553",
+              ">300"
+            ],
+            [
+              "WGH 4",
+              "20",
+              "200",
+              "560",
+              ">300"
+            ],
+            [
+              "WGH 5",
+              "20",
+              "200",
+              "553",
+              ">300"
+            ],
+            [
+              "WGH 6",
+              "20",
+              "200",
+              "560",
+              ">300"
+            ]
+          ],
+          "verbatim": "10.1371/journal.pone.0068875.t002Table 2AMP concentrations and AMP MICs for the different bacterial lineages before and after experimental evolution in refined LB.LineageStart AMP-conc. (mg/L)End AMP-conc. (mg/L)No. of generationsMIC after cycling (mg/L)a LL-37 112.563.351175LL-37 212.563.351175\u2013 >75LL-37 312.542.2490NDLL-37 412.542.2504NDLL-37 512.563.355375\u2013>75LL-37 612.563.351875CNY100HL 11033.847610CNY100HL 21022.5462NDCNY100HL 31033.853210\u201320CNY100HL 41033.846910\u201330CNY100HL 51022.5413NDCNY100HL 61022.5441NDWGH 120200567>300WGH 220200560>300WGH 320200553>300WGH 420200560>300WGH 520200553>300WGH 620200560>300aPeptide-MIC for positive control lineages after cycling (bacteria cycled without peptide): LL-37, PC 2 = 25\u201350 mg/L, PC 4 = 50 mg/L; CNY100HL, PC 6 = 5\u201310 mg/L; WGH, PC 2 = 6.25\u201312.5 mg/L, PC 7 = 12.5 mg/L.ND, not determined.MIC determinations were performed on a population of cells (compare Table 4)."
+        },
+        "Table 3": {
+          "rows": [
+            [
+              "Strain",
+              "Fitness change relative to wild type"
+            ],
+            [
+              "",
+              "Growth rate assay",
+              "Competition assay"
+            ],
+            [
+              "",
+              "Refined LB",
+              "MH",
+              "NaPB",
+              "NaPB"
+            ],
+            [
+              "Wild type controlsa",
+              "1",
+              "1",
+              "1",
+              "1"
+            ],
+            [
+              "DA16875 (WGH resistant isolate 1)",
+              "0.89",
+              "0.87",
+              "0.88",
+              "ND"
+            ],
+            [
+              "DA16874 (LL-37 resistant isolate 1)",
+              "0.88",
+              "0.94",
+              "0.91",
+              "ND"
+            ],
+            [
+              "DA17847 (LL-37 resistant isolate 2)",
+              "0.97",
+              "0.96",
+              "0.90",
+              "ND"
+            ],
+            [
+              "DA17610 (CNY100HL resistant isolate 1)",
+              "0.83",
+              "0.75",
+              "0.73",
+              "ND"
+            ],
+            [
+              "DA22427 (waaY [FS] reconstituted)",
+              "ND",
+              "0.96",
+              "1.05",
+              "0.99"
+            ],
+            [
+              "DA23175 (pmrB [R13H] reconstituted)",
+              "ND",
+              "0.99",
+              "1.04",
+              "1.01"
+            ],
+            [
+              "DA23307 (phoP [D23N] reconstituted)",
+              "ND",
+              "0.93",
+              "0.84",
+              "0.84"
+            ],
+            [
+              "DA23899 (waaY, pmrB, phoP reconstituted)",
+              "ND",
+              "0.83",
+              "0.91",
+              "0.84"
+            ]
+          ],
+          "verbatim": "10.1371/journal.pone.0068875.t003Table 3Fitness of original and reconstituted mutants relative to wild type controls as determined by growth rate assays and competition experiments.StrainFitness change relative to wild typeGrowth rate assayCompetition assayRefined LBMHNaPBNaPBWild type controlsa 1111DA16875 (WGH resistant isolate 1)0.890.870.88NDDA16874 (LL-37 resistant isolate 1)0.880.940.91NDDA17847 (LL-37 resistant isolate 2)0.970.960.90NDDA17610 (CNY100HL resistant isolate 1)0.830.750.73NDDA22427 (waaY [FS] reconstituted)ND0.961.050.99DA23175 (pmrB [R13H] reconstituted)ND0.991.041.01DA23307 (phoP [D23N] reconstituted)ND0.930.840.84DA23899 (waaY, pmrB, phoP reconstituted)ND0.830.910.84aDA6079 was used as wild type control for the original mutants and the respective congenic strains were used as controls for reconstituted mutants.ND, not determined.Maximum standard error of the mean (SEM): Refined LB (SEM \u00b10.02), MH (SEM \u00b10.03) and NaPB (SEM \u00b10.05)."
+        },
+        "Table 4": {
+          "rows": [
+            [
+              "Strains",
+              "MIC (mg/mL)"
+            ],
+            [
+              "",
+              "WGH",
+              "LL-37",
+              "CNY100HL"
+            ],
+            [
+              "DA6192 (S. typhimurium wild type)",
+              "6.25",
+              "6.25",
+              "2.5"
+            ],
+            [
+              "DA16875 (WGH resistant isolate 1)",
+              "25",
+              "6.25",
+              "2.5\u20135"
+            ],
+            [
+              "DA17847 (LL-37 resistant isolate 2)",
+              "12.5\u201325",
+              "6.25",
+              "ND"
+            ],
+            [
+              "DA16874 (LL-37 resistant isolate 1)",
+              "25",
+              "12.5\u201350",
+              "2.5\u20135"
+            ],
+            [
+              "DA17610 (CNY100HL resistant isolate 1)",
+              "6.25\u201312.5",
+              "6.25\u201312.5",
+              "5"
+            ],
+            [
+              "DA22427 (waaY [FS] reconstituted)",
+              "12.5",
+              "6.25",
+              "2.5"
+            ],
+            [
+              "DA23175 (pmrB [R13H] reconstituted)",
+              "6.25\u201312.5",
+              "6.25",
+              "2.5"
+            ],
+            [
+              "DA23307 (phoP [D23N] reconstituted)",
+              "6.25\u201312.5",
+              "6.25\u201312.5",
+              "5"
+            ],
+            [
+              "DA23899 (waaY, pmrB, phoP reconstituted)",
+              "12.5\u201325",
+              "6.25",
+              "5"
+            ]
+          ],
+          "verbatim": "10.1371/journal.pone.0068875.t004Table 4Cross-resistance to AMPs WGHs, LL-37 and CNY100HL as determined by microdilution MIC assays in NaPB.StrainsMIC (mg/mL)WGHLL-37CNY100HLDA6192 (S. typhimurium wild type)6.256.252.5DA16875 (WGH resistant isolate 1)256.252.5\u20135DA17847 (LL-37 resistant isolate 2)12.5\u2013256.25NDDA16874 (LL-37 resistant isolate 1)2512.5\u2013502.5\u20135DA17610 (CNY100HL resistant isolate 1)6.25\u201312.56.25\u201312.55DA22427 (waaY [FS] reconstituted)12.56.252.5DA23175 (pmrB [R13H] reconstituted)6.25\u201312.56.252.5DA23307 (phoP [D23N] reconstituted)6.25\u201312.56.25\u201312.55DA23899 (waaY, pmrB, phoP reconstituted)12.5\u2013256.255ND, not determined.MIC determinations were performed on isolated clones obtained from the serially passaged populations (compare Table 2)."
+        },
+        "Table 5": {
+          "rows": [
+            [
+              "Strains",
+              "Antibiotica MIC (mg/L)"
+            ],
+            [
+              "",
+              "CR",
+              "FEP",
+              "MEM",
+              "CST",
+              "MEC",
+              "TGC",
+              "NAL"
+            ],
+            [
+              "DA6192 (S. typhimurium wild type)",
+              "0.25",
+              "0.19",
+              "0.023",
+              "0.25",
+              "0.125",
+              "0.094",
+              "4"
+            ],
+            [
+              "DA16875 (WGH resistant isolate 1)",
+              "0.25",
+              "0.25",
+              "0.023",
+              "0.19",
+              "0.125",
+              "0.064",
+              "1.5"
+            ],
+            [
+              "DA17847 (LL-37 resistant isolate 2)",
+              "0.094",
+              "0.047",
+              "0.023",
+              "0.38",
+              "0.094",
+              "0.064",
+              "2"
+            ],
+            [
+              "DA16874 (LL-37 resistant isolate 1)",
+              "0.19",
+              "0.047",
+              "0.032",
+              "0.19",
+              "0.19",
+              "0.064",
+              "2"
+            ],
+            [
+              "DA17610 (CNY100HLresistant isolate 1)",
+              "0.19",
+              "0.064",
+              "0.032",
+              "0.25",
+              "0.125",
+              "0.064",
+              "4"
+            ],
+            [
+              "DA22427 (waaY [FS] reconstituted)",
+              "0.25",
+              "0.125",
+              "0.023",
+              "0.25",
+              "0.064",
+              "0.064",
+              "3"
+            ],
+            [
+              "DA23175 (pmrB [R13H] reconstituted)",
+              "0.25",
+              "0.125",
+              "0.032",
+              "0.25",
+              "0.094",
+              "0.094",
+              "4"
+            ],
+            [
+              "DA23307 (phoP [D23N] reconstituted)",
+              "0.38",
+              "0.25",
+              "0.032",
+              "0.19",
+              "0.125",
+              "0.125",
+              "4"
+            ],
+            [
+              "DA23899 (waaY, pmrB, phoP reconstituted)",
+              "0.25",
+              "0.19",
+              "0.047",
+              "0.5",
+              "0.125",
+              "0.094",
+              "2"
+            ]
+          ],
+          "verbatim": "10.1371/journal.pone.0068875.t005Table 5Cross-resistance against different antibiotics as determined by Etests.StrainsAntibiotica MIC (mg/L)CRFEPMEMCSTMECTGCNALDA6192 (S. typhimurium wild type)0.250.190.0230.250.1250.0944DA16875 (WGH resistant isolate 1)0.250.250.0230.190.1250.0641.5DA17847 (LL-37 resistant isolate 2)0.0940.0470.0230.380.0940.0642DA16874 (LL-37 resistant isolate 1)0.190.0470.0320.190.190.0642DA17610 (CNY100HLresistant isolate 1)0.190.0640.0320.250.1250.0644DA22427 (waaY [FS] reconstituted)0.250.1250.0230.250.0640.0643DA23175 (pmrB [R13H] reconstituted)0.250.1250.0320.250.0940.0944DA23307 (phoP [D23N] reconstituted)0.380.250.0320.190.1250.1254DA23899 (waaY, pmrB, phoP reconstituted)0.250.190.0470.50.1250.0942aCR (cefpirome), FEP (cefepime), MEM (meropenem), CST (colistin), MEC (mecillinam),TGC (Tigecyclin), NAL (Nalidixic acid)."
+        },
+        "Table 6": {
+          "rows": [
+            [
+              "Strain",
+              "Mutation rate (per cell per generation)",
+              "Mutation rate relative to wild type"
+            ],
+            [
+              "DA6079 (S. typhimurium wild type)",
+              "4.2\u00d710\u22129",
+              "1"
+            ],
+            [
+              "DA16874 (LL-37 resistant isolate1)",
+              "2.6\u00d710\u22126",
+              "620"
+            ],
+            [
+              "DA17847 (LL-37 resistant isolate 2)",
+              "2.7\u00d710\u22129",
+              "0.64"
+            ],
+            [
+              "DA16875 (WGH resistant isolate 1)",
+              "3.1\u00d710\u22129",
+              "0.74"
+            ],
+            [
+              "DA17610 (CNY100HL resistant isolate 1)",
+              "6.9\u00d710\u22129",
+              "1.6"
+            ],
+            [
+              "DA23040 (mutL(del aa 68\u201369), 4597041::Kan)",
+              "1.25\u00d710\u22126",
+              "298"
+            ],
+            [
+              "DA23042 (4597041::Kan)",
+              "4.1\u00d710\u22129",
+              "0.98"
+            ]
+          ],
+          "verbatim": "10.1371/journal.pone.0068875.t006Table 6Mutation rate to rifampicin resistance.StrainMutation rate (per cell per generation)Mutation rate relative to wild typeDA6079 (S. typhimurium wild type)4.2\u00d710\u22129 1DA16874 (LL-37 resistant isolate1)2.6\u00d710\u22126 620DA17847 (LL-37 resistant isolate 2)2.7\u00d710\u22129 0.64DA16875 (WGH resistant isolate 1)3.1\u00d710\u22129 0.74DA17610 (CNY100HL resistant isolate 1)6.9\u00d710\u22129 1.6DA23040 (mutL(del aa 68\u201369), 4597041::Kan)1.25\u00d710\u22126 298DA23042 (4597041::Kan)4.1\u00d710\u22129 0.98"
+        }
+      }
+    }
+  },
+  "observations": [
+    {
+      "table": "Table 2",
+      "unit_id": "LL-37 1",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "75",
+        "kind": "exact",
+        "lower": 75.0,
+        "upper": 75.0
+      },
+      "original_row": [
+        "LL-37 1",
+        "12.5",
+        "63.3",
+        "511",
+        "75"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "LL-37 2",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "75\u2013 >75",
+        "kind": "right_censored",
+        "lower": 75.0,
+        "upper": null
+      },
+      "original_row": [
+        "LL-37 2",
+        "12.5",
+        "63.3",
+        "511",
+        "75\u2013 >75"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "LL-37 3",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "ND",
+        "kind": "missing",
+        "lower": null,
+        "upper": null
+      },
+      "original_row": [
+        "LL-37 3",
+        "12.5",
+        "42.2",
+        "490",
+        "ND"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "LL-37 4",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "ND",
+        "kind": "missing",
+        "lower": null,
+        "upper": null
+      },
+      "original_row": [
+        "LL-37 4",
+        "12.5",
+        "42.2",
+        "504",
+        "ND"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "LL-37 5",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "75\u2013>75",
+        "kind": "right_censored",
+        "lower": 75.0,
+        "upper": null
+      },
+      "original_row": [
+        "LL-37 5",
+        "12.5",
+        "63.3",
+        "553",
+        "75\u2013>75"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "LL-37 6",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "75",
+        "kind": "exact",
+        "lower": 75.0,
+        "upper": 75.0
+      },
+      "original_row": [
+        "LL-37 6",
+        "12.5",
+        "63.3",
+        "518",
+        "75"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "CNY100HL 1",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "10",
+        "kind": "exact",
+        "lower": 10.0,
+        "upper": 10.0
+      },
+      "original_row": [
+        "CNY100HL 1",
+        "10",
+        "33.8",
+        "476",
+        "10"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "CNY100HL 2",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "ND",
+        "kind": "missing",
+        "lower": null,
+        "upper": null
+      },
+      "original_row": [
+        "CNY100HL 2",
+        "10",
+        "22.5",
+        "462",
+        "ND"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "CNY100HL 3",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "10\u201320",
+        "kind": "range",
+        "lower": 10.0,
+        "upper": 20.0
+      },
+      "original_row": [
+        "CNY100HL 3",
+        "10",
+        "33.8",
+        "532",
+        "10\u201320"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "CNY100HL 4",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "10\u201330",
+        "kind": "range",
+        "lower": 10.0,
+        "upper": 30.0
+      },
+      "original_row": [
+        "CNY100HL 4",
+        "10",
+        "33.8",
+        "469",
+        "10\u201330"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "CNY100HL 5",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "ND",
+        "kind": "missing",
+        "lower": null,
+        "upper": null
+      },
+      "original_row": [
+        "CNY100HL 5",
+        "10",
+        "22.5",
+        "413",
+        "ND"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "CNY100HL 6",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": "ND",
+        "kind": "missing",
+        "lower": null,
+        "upper": null
+      },
+      "original_row": [
+        "CNY100HL 6",
+        "10",
+        "22.5",
+        "441",
+        "ND"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "WGH 1",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": ">300",
+        "kind": "right_censored",
+        "lower": 300.0,
+        "upper": null
+      },
+      "original_row": [
+        "WGH 1",
+        "20",
+        "200",
+        "567",
+        ">300"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "WGH 2",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": ">300",
+        "kind": "right_censored",
+        "lower": 300.0,
+        "upper": null
+      },
+      "original_row": [
+        "WGH 2",
+        "20",
+        "200",
+        "560",
+        ">300"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "WGH 3",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": ">300",
+        "kind": "right_censored",
+        "lower": 300.0,
+        "upper": null
+      },
+      "original_row": [
+        "WGH 3",
+        "20",
+        "200",
+        "553",
+        ">300"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "WGH 4",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": ">300",
+        "kind": "right_censored",
+        "lower": 300.0,
+        "upper": null
+      },
+      "original_row": [
+        "WGH 4",
+        "20",
+        "200",
+        "560",
+        ">300"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "WGH 5",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": ">300",
+        "kind": "right_censored",
+        "lower": 300.0,
+        "upper": null
+      },
+      "original_row": [
+        "WGH 5",
+        "20",
+        "200",
+        "553",
+        ">300"
+      ]
+    },
+    {
+      "table": "Table 2",
+      "unit_id": "WGH 6",
+      "endpoint": "evolved_population_MIC",
+      "mic": {
+        "raw": ">300",
+        "kind": "right_censored",
+        "lower": 300.0,
+        "upper": null
+      },
+      "original_row": [
+        "WGH 6",
+        "20",
+        "200",
+        "560",
+        ">300"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA6192 (S. typhimurium wild type)",
+      "assay_agent": "WGH",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25",
+        "kind": "exact",
+        "lower": 6.25,
+        "upper": 6.25
+      },
+      "original_row": [
+        "DA6192 (S. typhimurium wild type)",
+        "6.25",
+        "6.25",
+        "2.5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA6192 (S. typhimurium wild type)",
+      "assay_agent": "LL-37",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25",
+        "kind": "exact",
+        "lower": 6.25,
+        "upper": 6.25
+      },
+      "original_row": [
+        "DA6192 (S. typhimurium wild type)",
+        "6.25",
+        "6.25",
+        "2.5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA6192 (S. typhimurium wild type)",
+      "assay_agent": "CNY100HL",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "2.5",
+        "kind": "exact",
+        "lower": 2.5,
+        "upper": 2.5
+      },
+      "original_row": [
+        "DA6192 (S. typhimurium wild type)",
+        "6.25",
+        "6.25",
+        "2.5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA16875 (WGH resistant isolate 1)",
+      "assay_agent": "WGH",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "25",
+        "kind": "exact",
+        "lower": 25.0,
+        "upper": 25.0
+      },
+      "original_row": [
+        "DA16875 (WGH resistant isolate 1)",
+        "25",
+        "6.25",
+        "2.5\u20135"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA16875 (WGH resistant isolate 1)",
+      "assay_agent": "LL-37",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25",
+        "kind": "exact",
+        "lower": 6.25,
+        "upper": 6.25
+      },
+      "original_row": [
+        "DA16875 (WGH resistant isolate 1)",
+        "25",
+        "6.25",
+        "2.5\u20135"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA16875 (WGH resistant isolate 1)",
+      "assay_agent": "CNY100HL",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "2.5\u20135",
+        "kind": "range",
+        "lower": 2.5,
+        "upper": 5.0
+      },
+      "original_row": [
+        "DA16875 (WGH resistant isolate 1)",
+        "25",
+        "6.25",
+        "2.5\u20135"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA17847 (LL-37 resistant isolate 2)",
+      "assay_agent": "WGH",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "12.5\u201325",
+        "kind": "range",
+        "lower": 12.5,
+        "upper": 25.0
+      },
+      "original_row": [
+        "DA17847 (LL-37 resistant isolate 2)",
+        "12.5\u201325",
+        "6.25",
+        "ND"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA17847 (LL-37 resistant isolate 2)",
+      "assay_agent": "LL-37",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25",
+        "kind": "exact",
+        "lower": 6.25,
+        "upper": 6.25
+      },
+      "original_row": [
+        "DA17847 (LL-37 resistant isolate 2)",
+        "12.5\u201325",
+        "6.25",
+        "ND"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA17847 (LL-37 resistant isolate 2)",
+      "assay_agent": "CNY100HL",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "ND",
+        "kind": "missing",
+        "lower": null,
+        "upper": null
+      },
+      "original_row": [
+        "DA17847 (LL-37 resistant isolate 2)",
+        "12.5\u201325",
+        "6.25",
+        "ND"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA16874 (LL-37 resistant isolate 1)",
+      "assay_agent": "WGH",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "25",
+        "kind": "exact",
+        "lower": 25.0,
+        "upper": 25.0
+      },
+      "original_row": [
+        "DA16874 (LL-37 resistant isolate 1)",
+        "25",
+        "12.5\u201350",
+        "2.5\u20135"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA16874 (LL-37 resistant isolate 1)",
+      "assay_agent": "LL-37",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "12.5\u201350",
+        "kind": "range",
+        "lower": 12.5,
+        "upper": 50.0
+      },
+      "original_row": [
+        "DA16874 (LL-37 resistant isolate 1)",
+        "25",
+        "12.5\u201350",
+        "2.5\u20135"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA16874 (LL-37 resistant isolate 1)",
+      "assay_agent": "CNY100HL",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "2.5\u20135",
+        "kind": "range",
+        "lower": 2.5,
+        "upper": 5.0
+      },
+      "original_row": [
+        "DA16874 (LL-37 resistant isolate 1)",
+        "25",
+        "12.5\u201350",
+        "2.5\u20135"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA17610 (CNY100HL resistant isolate 1)",
+      "assay_agent": "WGH",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25\u201312.5",
+        "kind": "range",
+        "lower": 6.25,
+        "upper": 12.5
+      },
+      "original_row": [
+        "DA17610 (CNY100HL resistant isolate 1)",
+        "6.25\u201312.5",
+        "6.25\u201312.5",
+        "5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA17610 (CNY100HL resistant isolate 1)",
+      "assay_agent": "LL-37",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25\u201312.5",
+        "kind": "range",
+        "lower": 6.25,
+        "upper": 12.5
+      },
+      "original_row": [
+        "DA17610 (CNY100HL resistant isolate 1)",
+        "6.25\u201312.5",
+        "6.25\u201312.5",
+        "5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA17610 (CNY100HL resistant isolate 1)",
+      "assay_agent": "CNY100HL",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "5",
+        "kind": "exact",
+        "lower": 5.0,
+        "upper": 5.0
+      },
+      "original_row": [
+        "DA17610 (CNY100HL resistant isolate 1)",
+        "6.25\u201312.5",
+        "6.25\u201312.5",
+        "5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA22427 (waaY [FS] reconstituted)",
+      "assay_agent": "WGH",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "12.5",
+        "kind": "exact",
+        "lower": 12.5,
+        "upper": 12.5
+      },
+      "original_row": [
+        "DA22427 (waaY [FS] reconstituted)",
+        "12.5",
+        "6.25",
+        "2.5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA22427 (waaY [FS] reconstituted)",
+      "assay_agent": "LL-37",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25",
+        "kind": "exact",
+        "lower": 6.25,
+        "upper": 6.25
+      },
+      "original_row": [
+        "DA22427 (waaY [FS] reconstituted)",
+        "12.5",
+        "6.25",
+        "2.5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA22427 (waaY [FS] reconstituted)",
+      "assay_agent": "CNY100HL",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "2.5",
+        "kind": "exact",
+        "lower": 2.5,
+        "upper": 2.5
+      },
+      "original_row": [
+        "DA22427 (waaY [FS] reconstituted)",
+        "12.5",
+        "6.25",
+        "2.5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA23175 (pmrB [R13H] reconstituted)",
+      "assay_agent": "WGH",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25\u201312.5",
+        "kind": "range",
+        "lower": 6.25,
+        "upper": 12.5
+      },
+      "original_row": [
+        "DA23175 (pmrB [R13H] reconstituted)",
+        "6.25\u201312.5",
+        "6.25",
+        "2.5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA23175 (pmrB [R13H] reconstituted)",
+      "assay_agent": "LL-37",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25",
+        "kind": "exact",
+        "lower": 6.25,
+        "upper": 6.25
+      },
+      "original_row": [
+        "DA23175 (pmrB [R13H] reconstituted)",
+        "6.25\u201312.5",
+        "6.25",
+        "2.5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA23175 (pmrB [R13H] reconstituted)",
+      "assay_agent": "CNY100HL",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "2.5",
+        "kind": "exact",
+        "lower": 2.5,
+        "upper": 2.5
+      },
+      "original_row": [
+        "DA23175 (pmrB [R13H] reconstituted)",
+        "6.25\u201312.5",
+        "6.25",
+        "2.5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA23307 (phoP [D23N] reconstituted)",
+      "assay_agent": "WGH",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25\u201312.5",
+        "kind": "range",
+        "lower": 6.25,
+        "upper": 12.5
+      },
+      "original_row": [
+        "DA23307 (phoP [D23N] reconstituted)",
+        "6.25\u201312.5",
+        "6.25\u201312.5",
+        "5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA23307 (phoP [D23N] reconstituted)",
+      "assay_agent": "LL-37",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25\u201312.5",
+        "kind": "range",
+        "lower": 6.25,
+        "upper": 12.5
+      },
+      "original_row": [
+        "DA23307 (phoP [D23N] reconstituted)",
+        "6.25\u201312.5",
+        "6.25\u201312.5",
+        "5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA23307 (phoP [D23N] reconstituted)",
+      "assay_agent": "CNY100HL",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "5",
+        "kind": "exact",
+        "lower": 5.0,
+        "upper": 5.0
+      },
+      "original_row": [
+        "DA23307 (phoP [D23N] reconstituted)",
+        "6.25\u201312.5",
+        "6.25\u201312.5",
+        "5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA23899 (waaY, pmrB, phoP reconstituted)",
+      "assay_agent": "WGH",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "12.5\u201325",
+        "kind": "range",
+        "lower": 12.5,
+        "upper": 25.0
+      },
+      "original_row": [
+        "DA23899 (waaY, pmrB, phoP reconstituted)",
+        "12.5\u201325",
+        "6.25",
+        "5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA23899 (waaY, pmrB, phoP reconstituted)",
+      "assay_agent": "LL-37",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "6.25",
+        "kind": "exact",
+        "lower": 6.25,
+        "upper": 6.25
+      },
+      "original_row": [
+        "DA23899 (waaY, pmrB, phoP reconstituted)",
+        "12.5\u201325",
+        "6.25",
+        "5"
+      ]
+    },
+    {
+      "table": "Table 4",
+      "unit_id": "DA23899 (waaY, pmrB, phoP reconstituted)",
+      "assay_agent": "CNY100HL",
+      "endpoint": "clone_cross_resistance_MIC",
+      "mic": {
+        "raw": "5",
+        "kind": "exact",
+        "lower": 5.0,
+        "upper": 5.0
+      },
+      "original_row": [
+        "DA23899 (waaY, pmrB, phoP reconstituted)",
+        "12.5\u201325",
+        "6.25",
+        "5"
+      ]
+    }
+  ],
+  "limits": [
+    "WGH is a mixture, not one sequence-level label.",
+    "Clone cross-resistance measurements are not independent peptide resistance-emergence labels.",
+    "2013 study includes only two named single sequences and one mixture; lineage count cannot expand peptide sample size.",
+    "2020 table reports pharmacodynamics across selected bacterial lines tested with pexiganan, not one resistance endpoint per selecting AMP.",
+    "Table 4 header says mg/mL while surrounding methods use mg/L: retain raw unit and flag contradiction; do not silently normalize.",
+    "No AUROC, split, candidate ranking or named discovery is licensed by this audit."
+  ]
+}
