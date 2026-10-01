@@ -99,3 +99,15 @@ Open: Habets 2012 (PMC3367763) full-text access (publisher/repository or
 cloud-browser route); Spohn 2019 also evolved TPII/PXB on other strain
 backgrounds (out of A3 scope; logged here for any future estimand);
 colistin/polymyxin eligibility stays deferred.
+
+## Habets 2012 access attempts (2026-10-01, all failed legally-available routes)
+
+- royalsocietypublishing.org DOI page: 403 to plain fetch (bot wall).
+- Europe PMC fullTextXML: 500 (not in OA XML subset; efetch returns
+  metadata only).
+- Unpaywall: is_oa=true but locations are the PMC HTML page (blocked) and
+  a Manchester repository record (metadata only, no PDF/files linked).
+- Remaining route: cloud browser (user profile) on the PMC HTML page or
+  the publisher page - queued as first item next run. Note: even on
+  access, 2012 RSBL format suggests figure-only MICs; if confirmed
+  figure-only it joins the ineligible list with the ovispirin-pattern gap.
