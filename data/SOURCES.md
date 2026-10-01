@@ -29,3 +29,16 @@
   (research-portal.st-andrews.ac.uk/en/datasets/resistance-evolution-against
   -antimicrobial-peptides-in-staphyloco/) is located but its file list is
   JS-rendered - needs a browser pass to enumerate actual files (queued).
+- Antunes et al. 2024, PLOS Biology 22(7) e3002692 (P. aeruginosa PA14
+  experimental evolution): paper verified live 2026-10-01
+  (https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.3002692).
+  Data: Zenodo 10.5281/zenodo.11209304 (record page verified live). Pinned
+  2026-10-01: Underlying figures data.xlsx + Pharmacodynamics_datasets.xlsx,
+  sha256 in data/SHA256SUMS.txt. Design per paper text: 9 antimicrobials =
+  6 single-sequence AMPs (Melittin, Pexiganan, Cecropin P1, PA-13, SLM1,
+  SLM3) + 3 random peptide mixtures (p-FdK5, p-FdK5 20/80, FK20); 6 evolved
+  lineages + 6 matched passage controls per treatment; primary readout MIC
+  fold-change vs ancestor (figures sheet, 108 strain rows, range 0.125-128);
+  cross-resistance matrix and pharmacodynamic curves also present. SLM1/SLM3
+  are palmitic-acid-modified (lipo)peptides per Fig 2 caption - flag before
+  treating as plain sequence labels.
