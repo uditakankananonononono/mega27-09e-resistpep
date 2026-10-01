@@ -84,3 +84,18 @@ Updated pass 1 yield: 1 eligible-candidate (Spohn 2019, control-structure
 adjudication pending), 1 candidate access-pending (Habets 2012), 3 ruled
 ineligible. Lazar 2019 (PMC6915728, chemical-genetic profiling) queued,
 not yet shape-checked.
+
+## Pass 2 partial (same day)
+
+7. Kintses/Lazar et al. 2019, Nat Commun 10.1038/s41467-019-13618-z
+   (PMC6915728), chemical-genetic profiling: INELIGIBLE as a new dataset -
+   its laboratory-evolution analysis re-uses the Spohn 2019 evolved lines
+   (its ref 20). Derivative of an adopted dataset; its cross-resistance
+   analyses may still be cited as context, never as new units.
+8. Spohn 2019 (PMC6778101): ADOPTED under addendum A3 (ef2b29b), scored
+   under A3.5 (5064a12). Moved from mining to the scored base.
+
+Open: Habets 2012 (PMC3367763) full-text access (publisher/repository or
+cloud-browser route); Spohn 2019 also evolved TPII/PXB on other strain
+backgrounds (out of A3 scope; logged here for any future estimand);
+colistin/polymyxin eligibility stays deferred.
