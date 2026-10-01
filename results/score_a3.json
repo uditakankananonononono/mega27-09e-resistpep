@@ -1,0 +1,89 @@
+{
+  "addendum": "A3.5 scoring",
+  "indicator_none": {},
+  "subsets": {
+    "full_21": {
+      "n_units": 21,
+      "n_groups": 17,
+      "loso_spearman": {
+        "full": 0.1115,
+        "median": -0.8398,
+        "two": 0.0441,
+        "kmer": 0.0311
+      },
+      "boot_ci95": [
+        -0.2747,
+        0.4897
+      ],
+      "perm_p_ge_model": 0.2811,
+      "feature_scramble": -0.6351
+    },
+    "spohn_only_12": {
+      "n_units": 12,
+      "n_groups": 12,
+      "loso_spearman": {
+        "full": 0.4671,
+        "median": -0.8863,
+        "two": 0.4528,
+        "kmer": 0.0143
+      },
+      "boot_ci95": [
+        -0.1145,
+        0.8235
+      ],
+      "perm_p_ge_model": 0.0854,
+      "feature_scramble": 0.5313
+    },
+    "matched_only_9": {
+      "n_units": 9,
+      "n_groups": 7,
+      "loso_spearman": {
+        "full": -0.5466,
+        "median": -0.8976,
+        "two": -0.3432,
+        "kmer": -0.6229
+      },
+      "boot_ci95": [
+        -0.9152,
+        0.1162
+      ],
+      "perm_p_ge_model": 0.9212,
+      "feature_scramble": 0.2857
+    }
+  },
+  "indicator_runs": {
+    "full_21_lipid": {
+      "n_units": 21,
+      "n_groups": 17,
+      "loso_spearman": {
+        "full": 0.3143,
+        "median": -0.8398,
+        "two": 0.0317,
+        "kmer": -0.0121
+      },
+      "boot_ci95": [
+        -0.1019,
+        0.6609
+      ],
+      "perm_p_ge_model": 0.1075,
+      "feature_scramble": -0.6652
+    },
+    "full_21_disulfide": {
+      "n_units": 21,
+      "n_groups": 17,
+      "loso_spearman": {
+        "full": -0.0298,
+        "median": -0.8398,
+        "two": -0.0546,
+        "kmer": -0.0114
+      },
+      "boot_ci95": [
+        -0.4055,
+        0.3545
+      ],
+      "perm_p_ge_model": 0.4523,
+      "feature_scramble": -0.5385
+    }
+  },
+  "beat_rule": "model LOSO Spearman > every baseline AND 95% CI excludes 0 (A1.4, unchanged)"
+}

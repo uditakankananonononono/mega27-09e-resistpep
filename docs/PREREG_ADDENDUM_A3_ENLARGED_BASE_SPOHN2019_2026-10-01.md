@@ -75,3 +75,9 @@ PR39, R8, TPII (sequences pinned from Supplementary Table 1, MOESM1).
   model question, disclosed here; A3's LOSO held-out design is stricter
   than their in-sample treatment-mean correlations and no pass/fail gate
   is derived from their values.
+
+## A3.6 Erratum (same day, before any reporting of counts)
+
+A3.5 states 16 sequence-distinct LOSO groups; the correct count is 17
+(I omitted LL-37, which is a NEW scored group - its prabhu2013 unit was
+unscored). Scored pipeline confirms 21 units / 17 groups. No other change.
