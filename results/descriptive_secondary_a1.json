@@ -1,0 +1,74 @@
+{
+  "addendum": "A1.3 locked secondary, descriptive only (no scoring, no gates)",
+  "mixture_vs_single_antunes2024": {
+    "mixtures": {
+      "p-FdK5": {
+        "n_evolved": 6,
+        "median_evolved_log2fc": 1.0,
+        "median_control_log2fc": 0.0,
+        "net_log2fc": 1.0
+      },
+      "p-FdK5 20/80": {
+        "n_evolved": 6,
+        "median_evolved_log2fc": 1.0,
+        "median_control_log2fc": -0.5,
+        "net_log2fc": 1.5
+      },
+      "FK20": {
+        "n_evolved": 6,
+        "median_evolved_log2fc": -1.0,
+        "median_control_log2fc": -1.5,
+        "net_log2fc": 0.5
+      }
+    },
+    "single_sequences": {
+      "Cecropin P1": 0.5,
+      "Melittin": 3.5,
+      "PA-13": 2.0,
+      "Pexiganan": 3.0,
+      "SLM1": 1.0,
+      "SLM3": 3.0
+    },
+    "note": "random peptide mixtures vs single sequences; descriptive contrast only, mixtures have no sequence-level label"
+  },
+  "cross_resistance_maron2025": {
+    "own_treatment_median_log2fc": {
+      "melittin": 4.7925,
+      "pexiganan": 3.2075,
+      "temporin": 2.0
+    },
+    "off_diagonal": [
+      {
+        "evolved_under": "melittin",
+        "assayed_on": "pexiganan",
+        "median_cross_log2fc": 0.0
+      },
+      {
+        "evolved_under": "melittin",
+        "assayed_on": "temporin",
+        "median_cross_log2fc": 2.0
+      },
+      {
+        "evolved_under": "pexiganan",
+        "assayed_on": "melittin",
+        "median_cross_log2fc": 0.0
+      },
+      {
+        "evolved_under": "pexiganan",
+        "assayed_on": "temporin",
+        "median_cross_log2fc": 1.0
+      },
+      {
+        "evolved_under": "temporin",
+        "assayed_on": "melittin",
+        "median_cross_log2fc": 1.0
+      },
+      {
+        "evolved_under": "temporin",
+        "assayed_on": "pexiganan",
+        "median_cross_log2fc": -1.1315
+      }
+    ],
+    "note": "median log2fc of lines evolved under one AMP assayed on another; NPSA control fc=0 for all three drugs (2022 supp Table S2)"
+  }
+}
