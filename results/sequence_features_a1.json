@@ -1,0 +1,211 @@
+{
+  "addendum": "A1.4 feature build (no scoring)",
+  "n_units": 9,
+  "distinct_sequences": [
+    "Cecropin P1",
+    "Melittin",
+    "PA-13",
+    "Pexiganan",
+    "SLM1",
+    "SLM3",
+    "Temporin A"
+  ],
+  "feature_names": [
+    "length",
+    "net_charge",
+    "charge_density",
+    "pos_frac",
+    "neg_frac",
+    "mean_kyte_doolittle",
+    "hydrophobic_frac",
+    "aromatic_frac",
+    "tiny_frac",
+    "hydrophobic_moment_100"
+  ],
+  "units": [
+    {
+      "study": "antunes2024",
+      "treatment": "Cecropin P1",
+      "sequence_id": "Cecropin P1",
+      "sequence": "SWLSKTAKKLENSAKKRISEGIAIAIQGGPR",
+      "lipidated": false,
+      "net_log2fc": 0.5,
+      "features": {
+        "length": 31,
+        "net_charge": 5,
+        "charge_density": 0.16129032258064516,
+        "pos_frac": 0.22580645161290322,
+        "neg_frac": 0.06451612903225806,
+        "mean_kyte_doolittle": -0.5580645161290322,
+        "hydrophobic_frac": 0.3548387096774194,
+        "aromatic_frac": 0.03225806451612903,
+        "tiny_frac": 0.3548387096774194,
+        "hydrophobic_moment_100": 0.357802
+      }
+    },
+    {
+      "study": "antunes2024",
+      "treatment": "Melittin",
+      "sequence_id": "Melittin",
+      "sequence": "GIGAVLKVLTTGLPALISWIKRKRQQ",
+      "lipidated": false,
+      "net_log2fc": 3.5,
+      "features": {
+        "length": 26,
+        "net_charge": 5,
+        "charge_density": 0.19230769230769232,
+        "pos_frac": 0.19230769230769232,
+        "neg_frac": 0.0,
+        "mean_kyte_doolittle": 0.2730769230769233,
+        "hydrophobic_frac": 0.46153846153846156,
+        "aromatic_frac": 0.038461538461538464,
+        "tiny_frac": 0.23076923076923078,
+        "hydrophobic_moment_100": 0.352642
+      }
+    },
+    {
+      "study": "antunes2024",
+      "treatment": "PA-13",
+      "sequence_id": "PA-13",
+      "sequence": "KIAKRIWKILRRR",
+      "lipidated": false,
+      "net_log2fc": 2.0,
+      "features": {
+        "length": 13,
+        "net_charge": 7,
+        "charge_density": 0.5384615384615384,
+        "pos_frac": 0.5384615384615384,
+        "neg_frac": 0.0,
+        "mean_kyte_doolittle": -0.8846153846153846,
+        "hydrophobic_frac": 0.46153846153846156,
+        "aromatic_frac": 0.07692307692307693,
+        "tiny_frac": 0.07692307692307693,
+        "hydrophobic_moment_100": 0.808591
+      }
+    },
+    {
+      "study": "antunes2024",
+      "treatment": "Pexiganan",
+      "sequence_id": "Pexiganan",
+      "sequence": "GIGKFLKKAKKFGKAFVKILKK",
+      "lipidated": false,
+      "net_log2fc": 3.0,
+      "features": {
+        "length": 22,
+        "net_charge": 9,
+        "charge_density": 0.4090909090909091,
+        "pos_frac": 0.4090909090909091,
+        "neg_frac": 0.0,
+        "mean_kyte_doolittle": -0.1590909090909091,
+        "hydrophobic_frac": 0.45454545454545453,
+        "aromatic_frac": 0.13636363636363635,
+        "tiny_frac": 0.22727272727272727,
+        "hydrophobic_moment_100": 0.704247
+      }
+    },
+    {
+      "study": "antunes2024",
+      "treatment": "SLM1",
+      "sequence_id": "SLM1",
+      "sequence": "KKKKK",
+      "lipidated": true,
+      "net_log2fc": 1.0,
+      "features": {
+        "length": 5,
+        "net_charge": 5,
+        "charge_density": 1.0,
+        "pos_frac": 1.0,
+        "neg_frac": 0.0,
+        "mean_kyte_doolittle": -3.9,
+        "hydrophobic_frac": 0.0,
+        "aromatic_frac": 0.0,
+        "tiny_frac": 0.0,
+        "hydrophobic_moment_100": 0.368004
+      }
+    },
+    {
+      "study": "antunes2024",
+      "treatment": "SLM3",
+      "sequence_id": "SLM3",
+      "sequence": "KKKFK",
+      "lipidated": true,
+      "net_log2fc": 3.0,
+      "features": {
+        "length": 5,
+        "net_charge": 4,
+        "charge_density": 0.8,
+        "pos_frac": 0.8,
+        "neg_frac": 0.0,
+        "mean_kyte_doolittle": -2.5599999999999996,
+        "hydrophobic_frac": 0.2,
+        "aromatic_frac": 0.2,
+        "tiny_frac": 0.0,
+        "hydrophobic_moment_100": 0.596751
+      }
+    },
+    {
+      "study": "maron2025",
+      "treatment": "melittin",
+      "sequence_id": "Melittin",
+      "sequence": "GIGAVLKVLTTGLPALISWIKRKRQQ",
+      "lipidated": false,
+      "net_log2fc": 4.7925,
+      "features": {
+        "length": 26,
+        "net_charge": 5,
+        "charge_density": 0.19230769230769232,
+        "pos_frac": 0.19230769230769232,
+        "neg_frac": 0.0,
+        "mean_kyte_doolittle": 0.2730769230769233,
+        "hydrophobic_frac": 0.46153846153846156,
+        "aromatic_frac": 0.038461538461538464,
+        "tiny_frac": 0.23076923076923078,
+        "hydrophobic_moment_100": 0.352642
+      }
+    },
+    {
+      "study": "maron2025",
+      "treatment": "pexiganan",
+      "sequence_id": "Pexiganan",
+      "sequence": "GIGKFLKKAKKFGKAFVKILKK",
+      "lipidated": false,
+      "net_log2fc": 3.2075,
+      "features": {
+        "length": 22,
+        "net_charge": 9,
+        "charge_density": 0.4090909090909091,
+        "pos_frac": 0.4090909090909091,
+        "neg_frac": 0.0,
+        "mean_kyte_doolittle": -0.1590909090909091,
+        "hydrophobic_frac": 0.45454545454545453,
+        "aromatic_frac": 0.13636363636363635,
+        "tiny_frac": 0.22727272727272727,
+        "hydrophobic_moment_100": 0.704247
+      }
+    },
+    {
+      "study": "maron2025",
+      "treatment": "temporin",
+      "sequence_id": "Temporin A",
+      "sequence": "FLPLIGRVLSGIL",
+      "lipidated": false,
+      "net_log2fc": 2.0,
+      "features": {
+        "length": 13,
+        "net_charge": 1,
+        "charge_density": 0.07692307692307693,
+        "pos_frac": 0.07692307692307693,
+        "neg_frac": 0.0,
+        "mean_kyte_doolittle": 1.807692307692308,
+        "hydrophobic_frac": 0.6153846153846154,
+        "aromatic_frac": 0.07692307692307693,
+        "tiny_frac": 0.23076923076923078,
+        "hydrophobic_moment_100": 0.581121
+      }
+    }
+  ],
+  "notes": [
+    "sequence identity is the leakage barrier: melittin and pexiganan each appear as 2 units across studies",
+    "lipidated indicator separate; model runs with and without it, both reported"
+  ]
+}
