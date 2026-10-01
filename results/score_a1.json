@@ -1,0 +1,35 @@
+{
+  "addendum": "A1.4 scoring",
+  "n_units": 9,
+  "n_folds": 7,
+  "loso_spearman": {
+    "model": -0.5466101694915254,
+    "baseline_median": -0.8975602524508652,
+    "baseline_two": -0.3432203389830508,
+    "baseline_kmer": -0.6228813559322034,
+    "model_lipid": -0.3686440677966102,
+    "baseline_median_lipid": -0.8975602524508652,
+    "baseline_two_lipid": -0.3432203389830508,
+    "baseline_kmer_lipid": -0.5211864406779662
+  },
+  "bootstrap_ci_95": {
+    "model": [
+      -0.9152,
+      0.1162
+    ],
+    "model_lipid": [
+      -0.8455,
+      0.3514
+    ]
+  },
+  "permutation_null": {
+    "draws": 10000,
+    "seed": 1001,
+    "p_ge_observed": 0.9241,
+    "null_median": -0.01694915254237288,
+    "null_p95": 0.6822033898305084
+  },
+  "feature_scramble_spearman": 0.2857243743174461,
+  "ancestor_control_check": "maron2025 NPSA controls net exactly 0 by measurement; antunes2024 passage-control medians (Cecropin 2.5, SLM1 1.0, SLM3 1.0, others 0.0) are the reason matched-control netting is the locked estimand",
+  "beat_rule": "model LOSO Spearman > every baseline LOSO Spearman AND 95% bootstrap CI excludes 0"
+}
