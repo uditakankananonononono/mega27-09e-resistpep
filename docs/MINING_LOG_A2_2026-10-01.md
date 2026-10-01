@@ -111,3 +111,25 @@ colistin/polymyxin eligibility stays deferred.
   the publisher page - queued as first item next run. Note: even on
   access, 2012 RSBL format suggests figure-only MICs; if confirmed
   figure-only it joins the ineligible list with the ovispirin-pattern gap.
+
+## Pass 3 (same day): citation-graph mining + tenecin cluster
+
+Via Europe PMC CITES on the three core studies:
+9. Bolten/Rolff trade-off paper 2025 (PMC11802329, pinned) + its source
+   study Makarova et al. 2018, Sci Rep 10.1038/s41598-018-33593-7
+   (PMC6193990, pinned + supplement zip). S. aureus SH1000, 5 independent
+   lines under tenecin 1 (single sequence) WITH matched passaged
+   procedural controls nested per line - the exact control structure the
+   protocol wants. VERDICT: PARTIAL/INELIGIBLE as pinned - own-treatment
+   (tenecin 1) per-line MICs are figure-only (Figs 1-2, log2 MIC);
+   supplements carry cross-resistance MICs (Table S1: colistin/melittin/
+   vancomycin per line) and mutated loci (Table S3), not the
+   own-treatment series. The 2025 refubium deposit covers the 2025 in
+   vivo figures, not the 2018 MIC series. Path to upgrade: author
+   request or figure digitization (would need its own prereg decision on
+   digitization error). Tenecin 1+2 combination excluded regardless.
+10. Bac7 resistance genomics 2023 (PMC10145973): proline-rich AMP Bac7;
+    genomic-focus; not shape-checked yet - queued.
+11. Efflux-pump heterogeneity 2025 (PMC12226021): queued, not shape-checked.
+Pass 3 yield: 0 newly eligible, 1 partial (Makarova 2018 - true matched
+controls but figure-only own-treatment MICs), 2 queued.

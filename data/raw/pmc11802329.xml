@@ -1,0 +1,1047 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="eva70068" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Evol Appl</journal-id><journal-id journal-id-type="iso-abbrev">Evol Appl</journal-id><journal-id journal-id-type="pmc-domain-id">1749</journal-id><journal-id journal-id-type="pmc-domain">eva</journal-id><journal-id journal-id-type="nlm-id">101461828</journal-id><journal-id journal-id-type="publisher-id">EVA</journal-id><journal-title-group><journal-title>Evolutionary Applications</journal-title></journal-title-group><issn pub-type="epub">1752-4571</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11802329</article-id><article-id pub-id-type="pmcid-ver">PMC11802329.1</article-id><article-id pub-id-type="pmcaid">11802329</article-id><article-id pub-id-type="pmcaiid">11802329</article-id><article-id pub-id-type="pmid">39925620</article-id><article-id pub-id-type="doi">10.1111/eva.70068</article-id><article-id pub-id-type="publisher-id">EVA70068</article-id><article-id pub-id-type="other">EVA-2024-263-OA</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>A Trade‐Off Between Antimicrobial Peptide Resistance and Sensitivity to Host Immune Effectors in <italic toggle="no">Staphylococcus aureus</italic> In Vivo</article-title></title-group><contrib-group><contrib id="eva70068-cr-0001" contrib-type="author"><name name-style="western"><surname>El Shazely</surname><given-names initials="B">Baydaa</given-names></name><xref rid="eva70068-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="eva70068-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="eva70068-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Rolff</surname><given-names initials="J">Jens</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1529-5409</contrib-id><xref rid="eva70068-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="eva70068-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>jens.rolff@fu-berlin.de</email></address></contrib></contrib-group><aff id="eva70068-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Institut für Biologie, Evolutionary Biology</named-content>
+<institution>Freie Universität Berlin</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="eva70068-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Zoology Department, Faculty of Science</named-content>
+<institution>Alexandria University</institution>
+<city>Alexandria</city>
+<country country="EG">Egypt</country>
+</aff><aff id="eva70068-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Berlin‐Brandenburg Institute of Advanced Biodiversity Research (BBIB)</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Jens Rolff (<email>jens.rolff@fu-berlin.de</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>2</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2025</year></pub-date><volume>18</volume><issue seq="50">2</issue><issue-id pub-id-type="pmc-issue-id">481586</issue-id><issue-id pub-id-type="doi">10.1111/eva.v18.2</issue-id><elocation-id>e70068</elocation-id><history>
+<date date-type="rev-recd"><day>08</day><month>6</month><year>2024</year></date>
+<date date-type="received"><day>12</day><month>12</month><year>2023</year></date>
+<date date-type="accepted"><day>16</day><month>12</month><year>2024</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>06</day><month>02</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>08</day><month>02</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-06-08 02:25:18.793"><day>08</day><month>06</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Evolutionary Applications</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="EVA-18-e70068.pdf"><?pdf-name EVA-18-e70068.pdf?><?pdf-size 2227998?><?pdf-md5 2c7f43d5796ae71c0b6d293d0793627c?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:0a00/11802329/2c7f43d5796a/EVA-18-e70068.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:EVA-18-e70068.pdf"/><abstract><title>ABSTRACT</title><p>Antimicrobial peptides (AMPs) are essential immune effectors of multicellular organisms. Bacteria can evolve resistance to AMPs. Surprisingly, when used to challenge the yellow mealworm beetle, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content>, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> resistant to an abundant AMP (tenecin 1) of the very same host species did not increase host mortality or bacterial load compared to infections with wild‐type <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>. A possible explanation is that antimicrobial resistance is costly due to the collaterally increased sensitivity of AMP‐resistant strains to other immune effectors. Here, we study the sensitivity of a group of AMP‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains (resistant to tenecin 1 or a combination of tenecin 1 + 2) to other immune effectors such as phenoloxidase and other AMPs in vivo. Using RNAi‐based knockdown, we investigate <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> survival in insect hosts lacking selected immune effectors. We find that all except one AMP‐resistant strain displayed collateral sensitivity toward phenoloxidase. Some AMP‐resistant strains show sensitivity to components of the yellow mealworm beetle AMP defense cocktail. Our findings are consistent with the idea that resistance to AMPs does not translate into changes in virulence because it is balanced by the collaterally increased sensitivity to other host immune effectors. AMP resistance fails to provide a net survival advantage to <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> in a host environment that is dominated by AMPs.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="eva70068-kwd-0001">antimicrobial peptides</kwd><kwd id="eva70068-kwd-0002">antimicrobial resistance</kwd><kwd id="eva70068-kwd-0003">negative pleiotropy</kwd><kwd id="eva70068-kwd-0004"><styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content></kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Deutscher Akademischer Austausch Dienst Kairo
+</institution><institution-id institution-id-type="doi">10.13039/501100007948</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source>Deutscher Akademischer Austauschdienst through the German Egyptian Research Long‐Term Scholarship</funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft
+</institution><institution-id institution-id-type="doi">10.13039/501100001659</institution-id></institution-wrap></funding-source><award-id>FOR 5026</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="13"/><word-count count="10100"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.3 mode:remove_FC converted:06.02.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="eva70068-ntgp-0001"><fn fn-type="funding" id="eva70068-note-0001"><p>
+<bold>Funding:</bold> B.E.S.: Deutscher Akademischer Austauschdienst through the German Egyptian Research Long‐Term Scholarship, J.R.: Deutsche Forschungsgemeinschaft (FOR 5026).</p></fn></fn-group></notes></front><body id="eva70068-body-0001"><sec id="eva70068-sec-0001"><label>1</label><title>Introduction</title><p>An infection is a stepwise process where a pathogen has either to overcome different layers of immune defense or to evade recognition (Hall, Bento, and Ebert <xref rid="eva70068-bib-0022" ref-type="bibr">2017</xref>). One of the first lines of defense in multicellular organisms are antimicrobial peptides (AMPs) (Lazzaro, Zasloff, and Rolff <xref rid="eva70068-bib-0038" ref-type="bibr">2020</xref>). Either already constitutively expressed or induced upon infection, organisms react with an AMP defence cocktail with broad antibacterial and antifungal activities (Hanson, Kondo, and Lemaitre <xref rid="eva70068-bib-0023" ref-type="bibr">2019</xref>; Johnston, Makarova, and Rolff <xref rid="eva70068-bib-0028" ref-type="bibr">2014</xref>; Mylonakis et al. <xref rid="eva70068-bib-0044" ref-type="bibr">2016</xref>). A reasonable assumption therefore is that AMP resistance of pathogens plays a significant role in the infection process (Cheung et al. <xref rid="eva70068-bib-0011" ref-type="bibr">2018</xref>; Koprivnjak and Peschel <xref rid="eva70068-bib-0035" ref-type="bibr">2011</xref>).</p><p>It is uncertain, however, whether AMP resistance is an important feature of invading pathogens. Mechanisms of bacterial evolution of resistance to AMPs are conserved (Joo, Fu, and Otto <xref rid="eva70068-bib-0030" ref-type="bibr">2016</xref>) and include alteration of bacterial cell surface charge or components (Ahmad, Majaz, and Nouroz <xref rid="eva70068-bib-0001" ref-type="bibr">2020</xref>; Andersson, Hughes, and Kubicek‐Sutherland <xref rid="eva70068-bib-0002" ref-type="bibr">2016</xref>; Arii et al. <xref rid="eva70068-bib-0003" ref-type="bibr">2019</xref>; Cheung et al. <xref rid="eva70068-bib-0011" ref-type="bibr">2018</xref>). A study in mice found that AMP resistance is prerequisite for infection establishment of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> (Cheung et al. <xref rid="eva70068-bib-0011" ref-type="bibr">2018</xref>), a major human pathogen. By contrast, we reported earlier that <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> experimentally evolved to be resistant to host and non‐host AMPs mostly does not show increased survival or virulence in the insect infection model <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content> (Dobson, Purves, and Rolff <xref rid="eva70068-bib-0013" ref-type="bibr">2014</xref>; El Shazely et al. <xref rid="eva70068-bib-0017" ref-type="bibr">2019</xref>).</p><p>In vivo, a pathogen faces a multitude of immune effectors, which include in the case of insects, multiple effectors such as AMPs, ROS, phagocytes, and phenoloxidase. Upon infection, phagocytosis and phenoloxidase are fast acting (Haine et al. <xref rid="eva70068-bib-0021" ref-type="bibr">2008</xref>). Phenoloxidase is the enzyme that drives the melanization process including encapsulation and nodulation of invading pathogens and parasites. During the production of melanin, highly toxic intermediate products such as quinones and ROS are produced, which contribute to the killing of pathogens (Keehnen et al. <xref rid="eva70068-bib-0031" ref-type="bibr">2017</xref>). In contrast to the fast acting effectors, the expression of AMPs is usually ramped up hours after infection; in the case of our model <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>,</styled-content> it takes more than 6 h (Johnston, Makarova, and Rolff <xref rid="eva70068-bib-0028" ref-type="bibr">2014</xref>).</p><p>Given the complex environment an infectious agent faces in vivo, one possible explanation for the mismatch between evolved AMP resistance and low virulence and survivorship within the host discussed above could be the collaterally increased sensitivity against components of the host defense cocktail, i.e., a trade‐off between resistance to different immune effectors. Collateral sensitivity is usually defined as the probability of evolution of sensitivity to drug A, upon acquiring resistance to drug B (Barbosa et al. <xref rid="eva70068-bib-0005" ref-type="bibr">2019</xref>), of AMP‐resistant strains to other immune effectors via negative pleiotropy. Collateral sensitivity was first described in the 1950s for antibiotics (Szybalski and Bryson <xref rid="eva70068-bib-0048" ref-type="bibr">1952</xref>). In our infection model <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content>, it seems that some of these resistance mechanisms are pleiotropic and provide <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> with phagocytosis resistance (El Shazely et al. <xref rid="eva70068-bib-0017" ref-type="bibr">2019</xref>), but this does not result in a higher bacterial load of infected beetles.</p><p>Here, we investigate whether resistance to particular host AMPs or phenoloxidase results in enhanced sensitivity to other immune effectors including other AMPs in vivo. Here, we focus on in vivo investigations as the in vivo activity of AMPs cannot be necessarily predicted from in vitro activities (Keshavarz, Zanchi, and Rolff <xref rid="eva70068-bib-0032" ref-type="bibr">2023</xref>; Zanchi, Johnston, and Rolff <xref rid="eva70068-bib-0051" ref-type="bibr">2017</xref>). To test our hypothesis about collateral sensitivity in vivo, we use the mealworm beetle <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> as a host and make use of a suite of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains that have been evolved previously (Makarova et al. <xref rid="eva70068-bib-0040" ref-type="bibr">2016</xref>). These strains were selected for resistance to either the <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> AMP tenecin 1 or both tenecin 1 and tenecin 2. It was previously reported that resistance to these AMPs was associated with mutations in either the <italic toggle="yes">pmt</italic>RS or <italic toggle="yes">nsa</italic>RS operons (Table <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S1</xref>), which encodes an export system for cellular toxins called phenol‐soluble modulin (Chatterjee et al. <xref rid="eva70068-bib-0010" ref-type="bibr">2013</xref>) and a nisin susceptibility–associated (<italic toggle="yes">nsa</italic>) system (Hiron et al. <xref rid="eva70068-bib-0025" ref-type="bibr">2011</xref>), respectively. These two‐component system operons are involved in envelope stress tolerance (Johnston, Dobson, and Rolff <xref rid="eva70068-bib-0027" ref-type="bibr">2016</xref>; Makarova et al. <xref rid="eva70068-bib-0039" ref-type="bibr">2018</xref>). A second resistance mutation was found in some strains in the <italic toggle="yes">rpo</italic>BC operon (Table <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S1</xref>) coding for the RNA polymerase subunits β and β′, which increased the bacterial lag phase in <italic toggle="yes">nsa</italic> mutants but not in <italic toggle="yes">pmt</italic> mutants (Makarova et al. <xref rid="eva70068-bib-0039" ref-type="bibr">2018</xref>) and is reported as a complementary mutation to antibiotic resistance in other species (Cho and Misra <xref rid="eva70068-bib-0012" ref-type="bibr">2021</xref>).</p><p>We hypothesized that AMP‐resistant pathogens pay a cost by evolving sensitivity to other immune effectors such as other AMPs and phenoloxidase, a fast‐reacting crucial part of the arthropod immune system that melanizes pathogens and generates cytotoxic substances (Dudzic et al. <xref rid="eva70068-bib-0014" ref-type="bibr">2015</xref>). We studied if collateral sensitivity of AMP‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> from our previous work (Makarova et al. <xref rid="eva70068-bib-0039" ref-type="bibr">2018</xref>) to other immune effectors in vivo is mutation‐dependent. To test this hypothesis, we assessed the infection dynamics of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> over 7 days in insect hosts where we knocked down selected immune effectors using RNAi. We performed RNAi‐based knockdown of either prophenoloxidase (PPO) or a group of selected AMP genes in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content>. An earlier RNAseq study from our laboratory showed that an array of AMPs is upregulated in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> upon <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> infection, including one defensin, three coleoptercins, and four attacins (Johnston, Makarova, and Rolff <xref rid="eva70068-bib-0028" ref-type="bibr">2014</xref>). Thus, we knocked down the combination of three of the most highly expressed AMP genes, which are the defensin tenecin 1, the coleoptercin tenecin 2, and the attacin tenecin 4. Tenecin 1 is primarily directed against Gram‐positive bacteria (Moon et al. <xref rid="eva70068-bib-0043" ref-type="bibr">1994</xref>), while the other two AMPs showed very limited activity toward <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> in vitro (Chae et al. <xref rid="eva70068-bib-0009" ref-type="bibr">2012</xref>; Roh et al. <xref rid="eva70068-bib-0045" ref-type="bibr">2009</xref>). Knockdowns of tenecin 2 and 4, however, resulted in a reduced host survival upon <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> infection with an AMP‐sensitive <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strain (Zanchi, Johnston, and Rolff <xref rid="eva70068-bib-0051" ref-type="bibr">2017</xref>), demonstrating an in vivo activity of these two AMPs. We quantified bacterial load as a measure of bacterial survival and hence bacterial fitness (Dobson, Purves, and Rolff <xref rid="eva70068-bib-0013" ref-type="bibr">2014</xref>; McGonigle, Purves, and Rolff <xref rid="eva70068-bib-0042" ref-type="bibr">2016</xref>) and reduced host survival as a measure of virulence (Zanchi, Johnston, and Rolff <xref rid="eva70068-bib-0051" ref-type="bibr">2017</xref>).</p></sec><sec sec-type="materials-and-methods" id="eva70068-sec-0002"><label>2</label><title>Materials and Methods</title><sec id="eva70068-sec-0003"><label>2.1</label><title>Rearing of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content>
+</title><p>The mealworm beetles, <italic toggle="yes">Tenebrio molitor</italic>, were reared as previously described (El Shazely et al. <xref rid="eva70068-bib-0017" ref-type="bibr">2019</xref>). Experiments were performed on 7–9‐day‐old females with a weight ranging between 0.120 and 0.190 g (see the Appendix <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="eva70068-sec-0004"><label>2.2</label><title>Gene Knockdown by <styled-content style="fixed-case" toggle="no">RNA</styled-content> Interference</title><p>A double‐stranded RNA injection was used to knockdown gene expression by RNA interference as described by Zanchi, Johnston, and Rolff (<xref rid="eva70068-bib-0051" ref-type="bibr">2017</xref>) and Khan, Agashe, and Rolff (<xref rid="eva70068-bib-0033" ref-type="bibr">2017</xref>). Briefly, we used synthetic constructs as templates for tenecin 1, tenecin 2, and tenecin 4 dsRNA syntheses. At least two PPO genes were reported, previously, in a <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> RNAseq study (Johnston, Makarova, and Rolff <xref rid="eva70068-bib-0028" ref-type="bibr">2014</xref>), which encode two subunits of a heterodimer enzyme. We synthesized PPO RNAi using the internal region of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> cDNA as a template for PO1 and PO2 dsRNA as described previously (Khan, Prakash, and Agashe <xref rid="eva70068-bib-0034" ref-type="bibr">2017</xref>). We used RNAi based on <italic toggle="yes">Galleria mellonella</italic> lysozyme (Lys) as a procedural control because it has no proven homology of sequence with any known gene of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> (Johnston and Rolff <xref rid="eva70068-bib-0029" ref-type="bibr">2015</xref>; Zanchi, Johnston, and Rolff <xref rid="eva70068-bib-0051" ref-type="bibr">2017</xref>).</p><p>Templates were amplified by PCR (KAPA2G Fast ReadyMix, KAPA Biosystems) using gene‐specific primers (Table <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S2</xref>) tailed with the T7 polymerase promoter sequence (Sigma‐Aldrich). Integrity and length of the amplicon were checked by running it on a 2% agarose gel and cleaned up using a kit (PCR DNA Clean‐Up Kit, Roboklon). The resulting amplicon was used as a template for RNA synthesis (T7 RiboMAX Express Large Scale RNA Production System, Promega) according to the manufacturer's recommendations. We then purified the RNA with a phenol–chloroform extraction. Finally, the RNA pellet was resuspended in a nuclease‐free insect ringer solution (128 mM NaCl, 18 mM CaCl<sub>2</sub>, 1.3 mM KCl, 2.3 mM) and kept in −80°C freezer. To obtain dsRNA, annealing was performed by warming up to 65°C for 30 min and then allowing to gradually cool down and incubated at least 15 min at 22°C. A quantitative real‐time PCR was carried out to check the efficiency of gene knockdown as described in the Appendix <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="eva70068-sec-0005"><label>2.3</label><title>Experimental Design</title><p>We performed two knockdown experiments, either of PPO Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S1</xref> (PO1 and PO2, previously described in Khan, Prakash, and Agashe (<xref rid="eva70068-bib-0034" ref-type="bibr">2017</xref>)) or of a three‐component AMP defence cocktail Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S2</xref> (T1T2T4) as follows.</p><sec id="eva70068-sec-0006"><label>2.3.1</label><title>Experiment 1: Collateral Sensitivity of Tenecin‐Resistant Pathogen (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>) Toward Phenoloxidase</title><p>An overview of this experiment is provided in Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S1</xref>. To perform PO1 and PO2 knockdown (PO KD) of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> PPO, we injected 2100 ± 100 ng dsRNA at a concentration of ca. 350 ng/μL in a 6‐μL insect ringer solution, containing equal quantities of dsPO1 and dsPO2. The procedural control (Lys) received the same dsRNA concentration and total injection volume. Because the PPO gene is constitutively expressed, it is necessary to deplete PO that had already been present in the hemolymph before the knockdown (Khan, Prakash, and Agashe <xref rid="eva70068-bib-0034" ref-type="bibr">2017</xref>); therefore, we injected each beetle with 5‐μL peptidoglycan (Sigma‐Aldrich, Cat # 77140, concentration: 100 ng/mL suspended in ringer solution) 2 days after RNAi manipulation. Two days later, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> was challenged with either the tenecin‐sensitive or ‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strain, listed in Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>. Results of the relative expression analysis of PPO gene in beetles with different knockdown treatments are shown in Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S3</xref>.</p><table-wrap position="float" id="eva70068-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>The AMP‐selected <italic toggle="no">Staphylococcus aureus</italic> strains and their corresponding controls (nested per line; Makarova et al. <xref rid="eva70068-bib-0039" ref-type="bibr">2018</xref>) used in this study.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Strain</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mutations</th><th align="center" valign="bottom" rowspan="1" colspan="1">Tenecin sensitivity/resistance</th><th align="center" valign="bottom" rowspan="1" colspan="1">Line</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Ancestor (SH1000)</td><td align="center" valign="top" rowspan="1" colspan="1">None</td><td align="center" valign="top" rowspan="1" colspan="1">Sensitive strain</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">C1</td><td align="center" valign="top" rowspan="1" colspan="1">None</td><td align="center" valign="top" rowspan="1" colspan="1">Sensitive strain</td><td align="center" valign="top" rowspan="1" colspan="1">1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">T1‐1L</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">T1‐resistant strain</td><td align="center" valign="top" rowspan="1" colspan="1">1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">C2</td><td align="center" valign="top" rowspan="1" colspan="1">None</td><td align="center" valign="top" rowspan="1" colspan="1">Sensitive strain</td><td align="center" valign="top" rowspan="1" colspan="1">2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">T1‐2L</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">pmt</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">T1‐resistant strain</td><td align="center" valign="top" rowspan="1" colspan="1">2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">T1‐2S</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">pmt‐rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">T1‐resistant strain</td><td align="center" valign="top" rowspan="1" colspan="1">2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">T1T2‐2</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">nsa</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">T1T2‐resistant strain</td><td align="center" valign="top" rowspan="1" colspan="1">2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">C3</td><td align="center" valign="top" rowspan="1" colspan="1">None</td><td align="center" valign="top" rowspan="1" colspan="1">Sensitive strain</td><td align="center" valign="top" rowspan="1" colspan="1">3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">T1T2‐3</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">nsa‐rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">T1T2‐resistant strain</td><td align="center" valign="top" rowspan="1" colspan="1">3</td></tr></tbody></table><table-wrap-foot id="eva70068-ntgp-0002"><fn id="eva70068-note-0002"><p>
+<italic toggle="yes">Note:</italic> All strains had originally experimentally evolved in the presence of either tenecin 1 or tenecin 1 plus tenecin 2. <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> SH1000 is the tenecin‐sensitive ancestor strain. C1, C2, and C3 are the passaged unselected <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains (procedural controls) of lines 1, 2, and 3, respectively. T1‐1L, T1‐2S, and T1‐2L are tenecin 1‐selected <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains, the first strain belongs to line 1 with large‐shaped colonies, while the other two strains belong to line 2 with small‐ and large‐shaped colonies, respectively. T1T2‐2, T1T2‐3 are the tenecin 1 plus tenecin 2‐selected <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains, the first belongs to line 2, while the latter belongs to line 3.</p></fn></table-wrap-foot></table-wrap></sec><sec id="eva70068-sec-0007"><label>2.3.2</label><title>Experiment 2: Collateral Sensitivity of <styled-content style="fixed-case" toggle="no">T1</styled-content>‐ and <styled-content style="fixed-case" toggle="no">T1T2</styled-content>‐Resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> Toward <styled-content style="fixed-case" toggle="no">T2</styled-content> and/or <styled-content style="fixed-case" toggle="no">T4</styled-content> Knockdowns (<styled-content style="fixed-case" toggle="no">AMPs</styled-content> of the Defence Cocktail)</title><p>An overview of this experiment is provided in Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S2</xref>. In the case of T1T2T4 knockdowns, we injected 3000 ± 100 ng dsRNA in a 6‐μL total volume of ringer (i.e., circa 1000 ng for each gene), resulting in a concentration of 500 ng/μL of dsRNA in 2 μL of ringer solution for each gene. The procedural control (Lys) received the same dsRNA concentration and total injection volume. Female insects were infected with one of AMP‐sensitive or ‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains 2 days later. Results of the relative expression analysis of the tenecin 1, tenecin 2, and tenecin 4 genes in beetles with different knockdown treatments are shown in Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S4</xref>.</p><p>It should be noted that the procedural controls from the two experiments differ. Procedural controls of the PO knockdown experiment were injected with 2100 ± 100 ng dsRNA in a 5‐μL total volume of ringer and those of AMPS (T1T2T4) were injected with 3000 ± 100 ng dsRNA in a 6‐μL total volume of ringer. All beetles in the PO kd treatment received an extra injection prior to the KD treatment to deplete constitutive phenoloxidase (see Khan, Agashe, and Rolff <xref rid="eva70068-bib-0033" ref-type="bibr">2017</xref> and references therein).</p></sec><sec id="eva70068-sec-0008"><label>2.3.3</label><title>Bacterial Strains</title><p>We picked five AMP‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> strains, their three respective sensitive controls, and the ancestor strain (SH1000) that was used in our original work to evolve the AMP‐resistant lines (Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>, described previously, MICs of Tenebrio AMPs are reported in this paper, Makarova et al. <xref rid="eva70068-bib-0039" ref-type="bibr">2018</xref>). The protocol to generate those strains is described here in short (more detail in Makarova et al. <xref rid="eva70068-bib-0039" ref-type="bibr">2018</xref>). Five parallel lines derived from individual clones of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> SH1000 were used to start five independent selection lines. These five clones are the five ancestors. Serial passage of bacteria started at 0.5 of the MIC for either tenecin 1 or tenecin 1 + 2. We also ran controls in a culture medium simultaneously. The whole selection lasted for 7 days, and the AMP concentrations were doubled daily. All lines were able to grow in the presence of 256 μg/mL of tenecin 1 and 512 μg/mL of tenecin 2, resulting in an increase in MIC for tenecin 1. The ancestor strains showed MICs of 4 μg/mL for tenecin 1 and 4 μg/mL of tenecin 1 and 8 μg/mL of tenecin 2 for the combined treatment. For the experiments carried out here, we chose a subset of selection lines and their respective controls (see Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>). The AMP‐resistant strains are therefore either highly resistant to tenecin 1 or a combination of tenecin 1 plus tenecin 2. AMP‐resistant strains are representative of the five resistance mutations that we studied previously (El Shazely et al. <xref rid="eva70068-bib-0017" ref-type="bibr">2019</xref>). We found that our experimentally evolved AMP‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains harbored either of the following mutations in the <italic toggle="yes">pmt</italic>, <italic toggle="yes">nsa</italic>, <italic toggle="yes">rpo</italic>, <italic toggle="yes">pmt‐rpo</italic> or <italic toggle="yes">nsa‐rpo</italic> operons (listed in Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>). All strains were kept as glycerol stocks in −80°C prior to use.</p></sec><sec id="eva70068-sec-0009"><label>2.3.4</label><title>Bacterial Culture and Injection</title><p>
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> was streaked over Müller Hinton (MH) agar from a glycerol stock and incubated at 30°C for 48 h. A liquid culture was obtained by scratching three separate colonies with a culture needle and transferring to MH broth (PanReac AppliChem, Cat # 413788.1210) and then incubated overnight at 25°C as previously described (Zanchi, Johnston, and Rolff <xref rid="eva70068-bib-0051" ref-type="bibr">2017</xref>). The bacterial culture was washed three times by centrifuging for 10 min at 7500 <italic toggle="yes">g</italic>. The supernatant was discarded, and the pellet was resuspended in a ringer solution (Sigma‐Aldrich, Cat # 96724‐100TAB). Each female beetle received 5 μL of the prepared inoculum, which was standardized to a bacterial load of 6 × 10<sup>6</sup> CFU (colony‐forming units).</p><p>A manual injector attached to a sterile disposable capillary needle was used to inject into the intersegmental membrane of the insect, between the fourth and fifth abdominal sternites, parallel to the anterior–posterior axis of the body. Injections were alternated between the left and right sides of the beetles for dsRNA, peptidoglycan (if used), and bacterial injections to avoid multiple wounding at the same spot. The specimen was discarded and replaced if leakage was noticed. The negative control group (sham‐infected) was injected with a 5‐μL ringer solution.</p></sec></sec><sec id="eva70068-sec-0010"><label>2.4</label><title>Quantification of Infection‐Bacterial Survival Inside the Host</title><p>Colony‐forming units (CFUs) were monitored at 1‐ and 7‐days post‐infection consistent with previous findings on the temporal dynamics of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> (El Shazely et al. <xref rid="eva70068-bib-0017" ref-type="bibr">2019</xref>; Zanchi, Johnston, and Rolff <xref rid="eva70068-bib-0051" ref-type="bibr">2017</xref>). Sampling bacterial load at a time point later than 10‐days post‐infection was not feasible due to the substantial host mortality rate. <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> was recovered by a perfusion bleed as previously described (El Shazely et al. <xref rid="eva70068-bib-0017" ref-type="bibr">2019</xref>; Haine et al. <xref rid="eva70068-bib-0021" ref-type="bibr">2008</xref>). Each group consisted of 15 beetles, divided into three replicates. The beetles were placed over ice for 10–15 min. They were washed with 70% ethyl alcohol and carefully dried. After making a small incision in the abdominal lateral periphery, 500 μL of phosphate buffer saline (PBS, Chem Solute, Cat # 8435.0100) was injected into the hemocoel using a 22‐gauge needle (Henke Sass Wolf FINE‐JECT, Cat # 4710004020) that was inserted between the head and thorax. Then, from the abdominal incision, the outflow was collected into a sterile 1.5‐mL tube. The collected hemolymph was vortexed, and then 100 μL was plated on MH agar. We performed serial dilution of the hemolymph. CFUs were counted manually 2 days after the plates were incubated at 30°C.</p></sec><sec id="eva70068-sec-0011"><label>2.5</label><title>Host Survival</title><p>We also checked whether the virulence of AMP‐resistant strains as inferred from the survival of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> is controlled by the host phenoloxidase and other components of the AMP defence cocktail. Each group was injected with one of nine <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains (Figures <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S1</xref> and <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S2</xref>). Each group consisted of 30 beetles divided into three replicates. Negative control was injected with ringer solution (sham‐infected). The study only included female beetles. Mortality was monitored for 30‐days post‐injection.</p></sec><sec id="eva70068-sec-0012"><label>2.6</label><title>Data Analysis</title><p>All the data were analyzed in R version 4.4.0 [40].</p><sec id="eva70068-sec-0013"><label>2.6.1</label><title>Quantification of Infection in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> With Different Knockdown Treatments</title><p>The sham‐infected group showed no recovered <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> CFU. Thus, it was excluded from further analysis. First, we analyzed whether the sensitivity of particular AMP‐resistant strains toward knockdown of PPO and a cocktail of AMPs T1T2T4 could explain the variations in the number of CFU of the recovered <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains at two time points of infection (1‐ and 7‐days post‐infection). To account for the nested ontogeny of the nine <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains (Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>), a mixed model was fitted to the dataset, and “lines” was implemented as a random factor. The CFU data were best fitted when Box–Cox transformed (power transform).</p><p>We used the function “lme” from “nlme” package to run a linear mixed model on the Box–Cox transformed data. The heteroscedasticity of the variances between each knockdown treatment was modeled using the function “varIdent” implemented in the weight of the lmm model. <italic toggle="yes">Post hoc</italic> comparisons were performed using “lsmeans” with a “FDR” adjustment from package “lsmeans”. Models were assessed and compared using “Anova” function from package “car”.</p></sec><sec id="eva70068-sec-0014"><label>2.6.2</label><title>Host Survival Analysis</title><p>We tested whether the AMP resistance of the infecting strains and knockdown treatment of the beetles as well as the interaction between them explained the mortality of the beetles over 30 days. Based on the assumption of nonconstant hazard using Weibull errors, we analyzed the data using the “survreg” function from the “survival” package. Post hoc comparisons were performed using “pairwise_survdiff” from package “survminer” with the “Benjamini–Hochberg” adjustment.</p></sec></sec></sec><sec sec-type="results" id="eva70068-sec-0015"><label>3</label><title>Results</title><p>We first studied the bacterial load in beetles injected with the ancestral strain of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> from our panel (SH1000) and then beetle mortality when either phenoloxidase or the combination of tenecins 1, 2, and 4 were knocked down. We then studied in the same way the following strains with the prediction that they would have higher bacterial loads in beetles where either phenoloxidase or the combination of tenecins 1, 2, and 4 were knocked down and that these knockdown beetles would suffer higher mortalities compared to injections with the ancestral strain. We tested a tenecin 1‐resistant <italic toggle="yes">rpo <styled-content style="fixed-case" toggle="no">S. aureus</styled-content>
+</italic> mutant; <italic toggle="yes">rpo</italic> is a gene that encodes an RNA polymerase subunit and is known to increase AMP and rifampin resistance (El Shazely et al. <xref rid="eva70068-bib-0018" ref-type="bibr">2020</xref>; Mariam et al. <xref rid="eva70068-bib-0041" ref-type="bibr">2004</xref>). We then tested strains with mutations in <italic toggle="yes">pmt</italic> or <italic toggle="yes">nsa</italic> operons or double mutations in either <italic toggle="yes">pmt‐rpo</italic> or <italic toggle="yes">nsa‐rpo</italic>. <italic toggle="yes">Pmt</italic> is related to envelope stress responses; <italic toggle="yes">nsa</italic> codes for a nisin‐associated susceptibility two‐component system (Yoshida et al. <xref rid="eva70068-bib-0050" ref-type="bibr">2011</xref>). The mortality rate and the bacterial load of AMP‐resistant mutants were compared to their respective sensitive procedural controls.</p><sec id="eva70068-sec-0016"><label>3.1</label><title>The Knockdown of Phenoloxidase or the <styled-content style="fixed-case" toggle="no">AMP</styled-content> Combination Did Not Affect the Bacterial Load of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic> SH1000</styled-content> (Ancestor Strain) but Increased the Mortality of Infected Hosts</title><p>The in vivo survival of the ancestral strain of the pathogen <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> (SH1000) in the insect host (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content>) was neither affected by knockdown of the two phenoloxidase genes PO1 and PO2 (Figure <xref rid="eva70068-fig-0001" ref-type="fig">1A</xref>) nor by the combined knockdown treatment of tenecin 1 (defensin), tenecin 2 (coleoptericin), and tenecin 4 (attacin) genes (Figure <xref rid="eva70068-fig-0001" ref-type="fig">1B</xref>) when compared to individuals with normal expression levels 1 or 7‐days post‐infection (data for day 1 are presented for this (Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S5</xref>) and all subsequent experiments in the supplement only (Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S6</xref>)). Please note that the application of RNAi and hence also the controls differ between the PO and the AMP knockdowns (for more detail, see the Section 2). They can therefore not be directly compared.</p><fig position="float" fig-type="FIGURE" id="eva70068-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>(A, B) Bacterial load of the ancestor <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> strain (SH1000) in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content> recovered 7‐days post‐infection. The bacterial load recovered 1‐day post‐infection is represented in Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S5</xref>. The colony‐forming units (CFUs) recovered from 100 μL of hemolymph are represented on a log scale by box plots showing quartiles and medians. The bars represent the 1.5 interquartile. Control ancestor (Anc). (solid outline) refers to the bacterial load of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> in beetles that receive control RNAi. (A) The PO knockdown (dashed outline) did not affect in vivo colonization at any time point (linear model of box–cox transformed bacterial loads; prophenoloxidase knockdown treatment: <italic toggle="yes">F</italic>
+<sub>1,57</sub> = 0.1351, <italic toggle="yes">p</italic> = 0.6823; time point: <italic toggle="yes">F</italic>
+<sub>1,57</sub> = 31.9626, <italic toggle="yes">p</italic> &lt; 0.0001). Knockdown Ancs (dashed outline) refers to the bacterial load of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> in beetles with knockdown expression of prophenoloxidase. (B) The triple AMP knockdown (dashed) did not affect in vivo colonization at any time point compared to beetles with normal expression of tenecin 1, 2, and 4. Control (solid) (linear model of box–cox transformed bacterial load; T1T2T4 knockdown treatment: <italic toggle="yes">F</italic>
+<sub>1,57</sub> = 4.7655, <italic toggle="yes">p</italic> = 0.033; time point: <italic toggle="yes">F</italic>
+<sub>1,57</sub> = 12.02, <italic toggle="yes">p</italic> = 0.001)and knockdown Anc. (dashed outline) refer to the bacterial load of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> in beetles with knockdown expression of tenecin 1, 2, and 4. (C, D) Survival of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with ancestor <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> strain SH1000. The <italic toggle="yes">p</italic> value is calculated by the log rank test of differences of the censored survival curves computed by function “survdiff” from package “survival” in R. (C) The survival of beetles injected with the ancestor “Anc.” <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> (<italic toggle="yes">X</italic>
+<sup>2</sup> = 19.1, df = 3, <italic toggle="yes">p</italic> = 0.0003) tends to decrease by PO knockdown (<italic toggle="yes">X</italic>
+<sup>2</sup> = 19.1, df = 3, <italic toggle="yes">p</italic> = 0.09), while the sham‐infected (beetles injected with ringer solution) did not vary by knockdown treatment (<italic toggle="yes">X</italic>
+<sup>2</sup> = 19.1, df = 3, <italic toggle="yes">p</italic> = 0.56). Control (solid) and knockdown (dashed) refer to the beetles with normal or knockdown PO expression, respectively. (D) Survival of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with ancestor strain (<italic toggle="yes">X</italic>
+<sup>2</sup> = 46.6, df = 3, <italic toggle="yes">p</italic> &lt; 0.0001), Anc., decreased by triple AMP knockdown (dashed) compared to beetles with normal expression of tenecin 1, 2, and 4 (<italic toggle="yes">X</italic>
+<sup>2</sup> = 46.6, df = 3, <italic toggle="yes">p</italic> = 0.04), control (solid), while the sham‐infected did not vary significantly by knockdown treatment (<italic toggle="yes">X</italic>
+<sup>2</sup> = 46.6, df = 3, <italic toggle="yes">p</italic> = 0.97). Control (solid) and knockdown (dashed) refer to the beetles with normal or knockdown tenecins (1, 2, and 4) expression, respectively (<italic toggle="yes">n</italic> = 15 beetles/group for A‐B and <italic toggle="yes">n</italic> = 30 beetles/group for C‐D divided into three replicates; ns: <italic toggle="yes">p</italic> &gt; 0.05 and *: <italic toggle="yes">p</italic> &lt; 0.05).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="EVA-18-e70068-g002.jpg"><?image-name EVA-18-e70068-g002.jpg?><?image-size 64114?><?image-md5 0902353bae59f1cbbebc948b4300d901?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 662?><?image-original-width 1064?><?image-scaled-height 441?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/0a00/11802329/0902353bae59/EVA-18-e70068-g002.jpg?><?thumb-name EVA-18-e70068-g002.gif?><?thumb-size 3342?><?thumb-md5 f96b4d3d9ed9eaa9242bd406b99d2ad1?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 128?><?thumb-cloudpmc-urn urn:cdn:blobs/0a00/11802329/f96b4d3d9ed9/EVA-18-e70068-g002.gif?></graphic></fig><p>The survival of the host insects, when infected with the same strain of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> (Figure <xref rid="eva70068-fig-0001" ref-type="fig">1C</xref>), tended to decrease by 23% when PO was knocked down (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 19.1, df = 3, <italic toggle="yes">p</italic> = 0.09), with a mean age at death after injection of 12.9 days (survival rate 60%, number of death events = 12 of 30 beetles). Beetles that received control RNAi and peptidoglycan injections and infected with SH1000 showed a mean age at death after injection of 12.4 days (survival rate 83.33%, number of death events = 5 of 30 beetles). The survival of sham‐infected PO knockdown procedural control beetles (survival rate 93.3%, number of death events = 2 of 30 beetles) did not differ compared to those beetles that received the control dsRNA (survival rate 96.67%, number of death events = 1 of 30 beetles, <italic toggle="yes">Χ</italic>
+<sup>2</sup> = 19.1, df = 3, <italic toggle="yes">p</italic> = 0.56), both with mean age at death after injection of 13 days.</p><p>
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content> with T1T2T4 knockdown infected with ancestral <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strain had a mean age at death after injection of 16.3 days compared to beetles injected with control RNAi with a mean age at death after injection of 22.8 days (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 46.6, df = 3, <italic toggle="yes">p</italic> = 0.04, Figure <xref rid="eva70068-fig-0001" ref-type="fig">1D</xref>). The observed result is due to both bacterial infection and knockdown treatment because the survival of T1T2T4 knockdown sham‐infected beetles (procedural control) was not affected (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 46.6, df = 3, <italic toggle="yes">p</italic> = 0.60).</p></sec><sec id="eva70068-sec-0017"><label>3.2</label><title>The Tenecin 1‐Resistant <italic toggle="no">Rpo</italic>
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> Mutant is Cross‐Sensitive to Phenoloxidase But Cross‐Resistant to the <styled-content style="fixed-case" toggle="no">T1T2T4</styled-content> Defense Cocktail</title><p>The bacterial load 1‐day post‐infection in host insects injected with <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> that belongs to line 1 (Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>) including the control strain C1 and <italic toggle="yes">rpo</italic> mutants neither differ with PO knockdown treatment nor with strain sensitivity toward AMPS (Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S6A</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2A</xref>). At 7‐days post‐infection, knocking down the phenoloxidase genes increased the bacterial load of bacteria harboring a mutation in the <italic toggle="yes">rpo</italic> operon compared to that of control beetles (Figure <xref rid="eva70068-fig-0002" ref-type="fig">2A</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2A</xref>).</p><table-wrap position="float" id="eva70068-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Statistical pairwise comparisons for CFUs recovered from infected beetles at different time points reported in Figures <xref rid="eva70068-fig-0001" ref-type="fig">1</xref>, <xref rid="eva70068-fig-0002" ref-type="fig">2</xref>, <xref rid="eva70068-fig-0003" ref-type="fig">3</xref>, <xref rid="eva70068-fig-0004" ref-type="fig">4</xref> and Figures <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S6</xref> and <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S7</xref>.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Contrast of bacterial load in host with different RNAi treatment</th><th align="center" valign="bottom" rowspan="1" colspan="1">Bacterial strain</th><th align="center" valign="bottom" rowspan="1" colspan="1">Time point</th><th align="center" valign="bottom" rowspan="1" colspan="1">Estimated marginal means difference</th><th align="center" valign="bottom" rowspan="1" colspan="1">SE</th><th align="center" valign="bottom" rowspan="1" colspan="1">DF</th><th align="center" valign="bottom" rowspan="1" colspan="1">T. ratio</th><th align="center" valign="bottom" rowspan="1" colspan="1">Adjusted <italic toggle="yes">p</italic> (FDR)</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="8" valign="top" rowspan="1">A</td></tr><tr><td align="left" style="padding-left:10%" rowspan="16" valign="top" colspan="1">PO KD vs. Control</td><td align="center" valign="top" rowspan="1" colspan="1">C1</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">0.799</td><td align="center" valign="top" rowspan="1" colspan="1">1.23</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">0.649</td><td align="center" valign="top" rowspan="1" colspan="1">0.8268</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">C1</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−0.388</td><td align="center" valign="top" rowspan="1" colspan="1">1.23</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">−0.315</td><td align="center" valign="top" rowspan="1" colspan="1">0.8601</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">2.512</td><td align="center" valign="top" rowspan="1" colspan="1">1.38</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">1.824</td><td align="center" valign="top" rowspan="1" colspan="1">0.1572</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">6.462</td><td align="center" valign="top" rowspan="1" colspan="1">1.38</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">4.693</td><td align="center" valign="top" rowspan="1" colspan="1">0.0001</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">C2</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">0.483</td><td align="center" valign="top" rowspan="1" colspan="1">1.07</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">0.454</td><td align="center" valign="top" rowspan="1" colspan="1">0.8417</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">C2</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−0.916</td><td align="center" valign="top" rowspan="1" colspan="1">1.07</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">−0.859</td><td align="center" valign="top" rowspan="1" colspan="1">0.7813</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">pmt</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">−0.674</td><td align="center" valign="top" rowspan="1" colspan="1">1.65</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">−0.407</td><td align="center" valign="top" rowspan="1" colspan="1">0.8417</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">pmt</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−4.714</td><td align="center" valign="top" rowspan="1" colspan="1">1.65</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">−2.849</td><td align="center" valign="top" rowspan="1" colspan="1">0.0184</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">pmt‐rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">−0.905</td><td align="center" valign="top" rowspan="1" colspan="1">1.4</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">−0.649</td><td align="center" valign="top" rowspan="1" colspan="1">0.8268</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">pmt‐rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−4.041</td><td align="center" valign="top" rowspan="1" colspan="1">1.4</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">−2.896</td><td align="center" valign="top" rowspan="1" colspan="1">0.0184</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">nsa</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">0.673</td><td align="center" valign="top" rowspan="1" colspan="1">1.46</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">0.459</td><td align="center" valign="top" rowspan="1" colspan="1">0.8417</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">nsa</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−3.85</td><td align="center" valign="top" rowspan="1" colspan="1">1.46</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">−2.63</td><td align="center" valign="top" rowspan="1" colspan="1">0.0283</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">C3</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">−0.219</td><td align="center" valign="top" rowspan="1" colspan="1">1.45</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">−0.151</td><td align="center" valign="top" rowspan="1" colspan="1">0.9076</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">C3</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−3.194</td><td align="center" valign="top" rowspan="1" colspan="1">1.45</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">−2.196</td><td align="center" valign="top" rowspan="1" colspan="1">0.0764</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">nsa‐rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">−0.245</td><td align="center" valign="top" rowspan="1" colspan="1">2.11</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">−0.116</td><td align="center" valign="top" rowspan="1" colspan="1">0.9076</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">nsa‐rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">7.012</td><td align="center" valign="top" rowspan="1" colspan="1">2.11</td><td align="center" valign="top" rowspan="1" colspan="1">446</td><td align="center" valign="top" rowspan="1" colspan="1">3.321</td><td align="center" valign="top" rowspan="1" colspan="1">0.0078</td></tr><tr><td align="left" colspan="8" valign="top" rowspan="1">B</td></tr><tr><td align="left" style="padding-left:10%" rowspan="16" valign="top" colspan="1">T1T2T4 KD vs. Control</td><td align="center" valign="top" rowspan="1" colspan="1">C1</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">2.864</td><td align="center" valign="top" rowspan="1" colspan="1">1.84</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">1.558</td><td align="center" valign="top" rowspan="1" colspan="1">0.2385</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">C1</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−5.011</td><td align="center" valign="top" rowspan="1" colspan="1">1.84</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">−2.726</td><td align="center" valign="top" rowspan="1" colspan="1">0.0328</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">2.015</td><td align="center" valign="top" rowspan="1" colspan="1">1.78</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">1.129</td><td align="center" valign="top" rowspan="1" colspan="1">0.346</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">2.259</td><td align="center" valign="top" rowspan="1" colspan="1">1.78</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">1.266</td><td align="center" valign="top" rowspan="1" colspan="1">0.3124</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">C2</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">2.985</td><td align="center" valign="top" rowspan="1" colspan="1">1.9</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">1.574</td><td align="center" valign="top" rowspan="1" colspan="1">0.2385</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">C2</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−4.78</td><td align="center" valign="top" rowspan="1" colspan="1">1.9</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">−2.521</td><td align="center" valign="top" rowspan="1" colspan="1">0.0385</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">pmt</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">−2.916</td><td align="center" valign="top" rowspan="1" colspan="1">2.35</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">−1.242</td><td align="center" valign="top" rowspan="1" colspan="1">0.3124</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">pmt</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−6.187</td><td align="center" valign="top" rowspan="1" colspan="1">2.31</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">−2.683</td><td align="center" valign="top" rowspan="1" colspan="1">0.0328</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">pmt‐rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">2.927</td><td align="center" valign="top" rowspan="1" colspan="1">1.95</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">1.501</td><td align="center" valign="top" rowspan="1" colspan="1">0.2385</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">pmt‐rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">1.883</td><td align="center" valign="top" rowspan="1" colspan="1">1.95</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">0.966</td><td align="center" valign="top" rowspan="1" colspan="1">0.412</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">nsa</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">0.458</td><td align="center" valign="top" rowspan="1" colspan="1">1.5</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">0.305</td><td align="center" valign="top" rowspan="1" colspan="1">0.7606</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">nsa</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−2.739</td><td align="center" valign="top" rowspan="1" colspan="1">1.5</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">−1.822</td><td align="center" valign="top" rowspan="1" colspan="1">0.1844</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">C3</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">−1.059</td><td align="center" valign="top" rowspan="1" colspan="1">1.87</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">−0.567</td><td align="center" valign="top" rowspan="1" colspan="1">0.6529</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">C3</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−4.964</td><td align="center" valign="top" rowspan="1" colspan="1">1.87</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">−2.656</td><td align="center" valign="top" rowspan="1" colspan="1">0.0328</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">nsa‐rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day1</td><td align="center" valign="top" rowspan="1" colspan="1">−0.758</td><td align="center" valign="top" rowspan="1" colspan="1">1.85</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">−0.41</td><td align="center" valign="top" rowspan="1" colspan="1">0.7278</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">nsa‐rpo</italic>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Day7</td><td align="center" valign="top" rowspan="1" colspan="1">−5.283</td><td align="center" valign="top" rowspan="1" colspan="1">1.85</td><td align="center" valign="top" rowspan="1" colspan="1">445</td><td align="center" valign="top" rowspan="1" colspan="1">−2.854</td><td align="center" valign="top" rowspan="1" colspan="1">0.0328</td></tr></tbody></table><table-wrap-foot id="eva70068-ntgp-0003"><fn id="eva70068-note-0003"><p>
+<italic toggle="yes">Note:</italic> The estimated marginal means of bacterial load difference between beetles with normal versus knockdown expression of (A) phenoloxidase and (B) the AMPs tenecin 1, tenecin 2, and tenecin 4 were computed from the contrasts between factors using “contrast” function from “lsmeans” package. The <italic toggle="yes">p</italic> values reported here are adjusted using the false discovery rate (FDR) method.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="eva70068-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>(A, B) Bacterial load of the tenecin 1 (defensin)‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> harboring a mutation in <italic toggle="yes">rpo</italic> operon in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content> 7‐days post‐infection. The bacterial load recovered 1‐day post‐infection is represented in Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S6</xref>. The colony‐forming units (CFUs) recovered from 100 μL of hemolymph are represented on a log scale by box plots showing quartiles and medians. The bars represent the 1.5 interquartile. C1 refers to bacterial load of the tenecin‐sensitive control <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> (line 1, Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>). <italic toggle="yes">rpo</italic> refers to the bacterial load of tenecin‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> with mutation in <italic toggle="yes">rpo</italic> operon. Statistical pairwise comparison results are shown in Table <xref rid="eva70068-tbl-0002" ref-type="table">2</xref>. (A) The phenoloxidase knockdown PO KD (dashed outline) increased the colonization of <italic toggle="yes">rpo</italic> mutant (<italic toggle="yes">p</italic> = 0.0001), unlike the unselected control C1. The bacterial load is detected in either beetles with normal (control) or knockdown expression of prophenoloxidase (knockdown), represented by solid and dashed outlines, respectively. (B) The triple AMP knockdown (dashed) did not affect colonization of tenecin‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>, <italic toggle="yes">rpo</italic>, by day‐7 post‐infection compared to beetles with normal expression of tenecin 1, 2, and 4, control (solid), unlike the unselected control C1, which increased significantly (<italic toggle="yes">p</italic> = 0.03). The bacterial load is detected in either beetles with normal (control) or knockdown expression of tenecin 1, tenecin 2, and tenecin 4 (knockdown). (C, D) Survival of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> strain harboring a mutation in <italic toggle="yes">rpo</italic> operon. The <italic toggle="yes">p</italic> value is calculated by the log rank test of differences of the censored survival curves computed by function “survdiff” from package “survival” in R. (C) Survival of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> was affected neither by PO knockdown nor by bacterial AMP sensitivity (<italic toggle="yes">X</italic>
+<sup>2</sup> = 5.5, df = 3, <italic toggle="yes">p</italic> = 0.1). Control (solid) and knockdown (dashed) refer to the beetles with normal or knockdown PO expression, respectively. (D) Triple AMP knockdown treatment (<italic toggle="yes">X</italic>
+<sup>2</sup> = 53.5, df = 3, <italic toggle="yes">p</italic> &lt; 0.0001) (dashed) increased the survival rate of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with <italic toggle="yes">rpo</italic> mutant compared to control (<italic toggle="yes">p</italic> &lt; 0.0001), beetles with normal expression of tenecin 1, 2, and 4, in contrary to those infected with the unselected control tenecin‐sensitive strain, C1 (<italic toggle="yes">p</italic> &lt; 0.0001). Control (solid) and knockdown (dashed) refer to the beetles with normal or knockdown tenecins (1, 2, and 4) expression, respectively (<italic toggle="yes">n</italic> = 15 beetles/group for A‐B and <italic toggle="yes">n</italic> = 30 beetles/group for C‐D divided into three replicates; ns: <italic toggle="yes">p</italic> &gt; 0.05, *: <italic toggle="yes">p</italic> &lt; 0.05 and ****: <italic toggle="yes">p</italic> ≤ 0.0001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="EVA-18-e70068-g003.jpg"><?image-name EVA-18-e70068-g003.jpg?><?image-size 74603?><?image-md5 ca7c6c82e48551c5831c6a92989ea5ee?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 665?><?image-original-width 1064?><?image-scaled-height 443?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/0a00/11802329/ca7c6c82e485/EVA-18-e70068-g003.jpg?><?thumb-name EVA-18-e70068-g003.gif?><?thumb-size 3818?><?thumb-md5 736ccea01c399c2a70764814fcd6b34c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 128?><?thumb-cloudpmc-urn urn:cdn:blobs/0a00/11802329/736ccea01c39/EVA-18-e70068-g003.gif?></graphic></fig><p>The bacterial load of hosts injected with the tenecin‐sensitive unselected control (C1) measured 7‐days post‐infection was significantly higher with T1T2T4 knockdown treatment compared to that of control beetles (Figure <xref rid="eva70068-fig-0002" ref-type="fig">2B</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2B</xref>). By contrast, in the case of insects infected with <italic toggle="yes">rpo</italic> mutant bacteria, bacterial load at 7 days did not change with the T1T2T4 knockdown treatment (Figure <xref rid="eva70068-fig-0002" ref-type="fig">2B</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2B</xref>). Neither the bacterial load of the tenecin‐sensitive C1 strain nor the tenecin 1‐resistant <italic toggle="yes">rpo</italic> mutants varied by AMP knockdown 1‐day post‐infection (Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S6B</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2B</xref>). While we have different controls for different strains because of the selection history of these strains, we provide a comparison between strains in different host knockdown phenotypes by computing the effect sizes of bacterial loads for all strains used in our study in the supplement (see Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S7</xref>).</p><p>The survival of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> that belongs to line 1 was neither affected by bacterial genotype nor by phenoloxidase knockdown treatment (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 5.5, df = 3, Figure <xref rid="eva70068-fig-0002" ref-type="fig">2C</xref>). However, hosts infected with unselected control bacteria C1 followed the same survival pattern (Figure <xref rid="eva70068-fig-0002" ref-type="fig">2D</xref>) as those infected with the ancestral strain (Figure <xref rid="eva70068-fig-0001" ref-type="fig">1D</xref>). The T1T2T4 knockdown treatment increased the mortality of beetles infected with C1 <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> by 60% with a mean age at death after the injection of 16.7 days compared to the beetles with normal expression levels of T1T2T4 with mean age at death after the injection of 25 days (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 53.5, df = 3, <italic toggle="yes">p</italic> &lt; 0.0001). <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with the <italic toggle="yes">rpo</italic> mutant had a higher mortality rate in hosts with normal expression levels of T1T2T4 with a mean age at death after injection of 19.3 days. However, beetles with the knockdown expression of T1T2T4 and infected with <italic toggle="yes">rpo</italic> mutant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> showed a significantly decreased mortality rate by 66.67% with a mean age at death after the injection of 18.4 days (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 53.5, df = 3, <italic toggle="yes">p</italic> &lt; 0.0001).</p></sec><sec id="eva70068-sec-0018"><label>3.3</label><title>
+<styled-content style="fixed-case" toggle="no">AMP</styled-content>‐Resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> Harboring a Mutation in <italic toggle="no">Pmt, Pmt‐Rpo,</italic> or <italic toggle="no">Nsa</italic> Operons Shows Cross‐Sensitivity Toward Phenoloxidase While Only <italic toggle="no">Pmt</italic> Mutants Are Cross‐Sensitive to One or More Components of the Defense Cocktail <styled-content style="fixed-case" toggle="no">T1T2T4</styled-content>
+</title><p>The knockdown of phenoloxidase did not affect the in‐host survival of any of the <italic toggle="yes">pmt</italic>, <italic toggle="yes">pmt‐rpo</italic>, or <italic toggle="yes">nsa</italic> mutants nor the unselected control 1‐day post‐infection (Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S6C</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2A</xref>). However, 7‐days post‐infection, the bacterial load of tenecin 1‐resistant <italic toggle="yes">pmt</italic> and <italic toggle="yes">pmt‐rpo</italic> and tenecin 1‐ and tenecin 2‐resistant <italic toggle="yes">nsa</italic> mutant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> stains increased significantly with PO knockdown treatment (Figure <xref rid="eva70068-fig-0003" ref-type="fig">3A</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2A</xref>).</p><fig position="float" fig-type="FIGURE" id="eva70068-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>(A, B) Bacterial load of tenecin‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> (line 2, Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>) 7‐days post‐infection harboring a mutation in <italic toggle="yes">pmt, pmt‐rpo</italic>, or <italic toggle="yes">nsa</italic>operon compared to the tenecin‐sensitive <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> C2. The bacterial load recovered 1‐day post‐infection is represented in Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S6</xref>. The colony‐forming units (CFUs) recovered from 100 μL of hemolymph are represented on a log scale by box plots showing quartiles and medians. The bars represent the 1.5 interquartile. Statistical pairwise comparison results are shown in Table <xref rid="eva70068-tbl-0002" ref-type="table">2</xref>. (A) The PO knockdown (dashed outline) increased colonization of tenecin‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> in beetles by day 7 for all mutants compared to those with normal expression levels of prophenoloxidase, control (solid outline), unlike the unselected control tenecin‐sensitive <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strain C2. Control (solid) and knockdown (dashed) refer to the beetles with normal or knockdown PO expression, respectively. (B) The triple AMP knockdown (dashed outline) increased the colonization of AMP‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> by day‐7 post‐infection for the <italic toggle="yes">pmt</italic> mutant and the unselected control C2 compared to beetles with normal expression of tenecin 1, 2, and 4, control (solid outline). The bacterial load is detected in either beetles with normal (control) or knockdown expression of tenecin 1, tenecin 2, and tenecin 4 (knockdown). (C, D) The survival rate of beetles infected with tenecin‐resistant strains harboring mutation in <italic toggle="yes">pmt</italic>, <italic toggle="yes">pmt‐rpo</italic>, or <italic toggle="yes">nsa</italic> operon compared to the tenecin‐sensitive <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> C2. The <italic toggle="yes">p</italic> value is calculated by the log rank test of differences of survival. (C) PO KD treatment, knockdown (dashed line), decreased the survival rate of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with <italic toggle="yes">pmt</italic> mutant (<italic toggle="yes">p</italic> = 0.0047) as well as those infected with the unselected control strain, C2 (<italic toggle="yes">p</italic> = 0.0002) compared to those with normal expression levels of prophenoloxidase, control (solid line). The mortality rates of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with <italic toggle="yes">pmt‐rpo</italic> and <italic toggle="yes">nsa</italic> mutants were not affected by PO knockdown (<italic toggle="yes">X</italic>
+<sup>2</sup> = 37.5, df = 7, <italic toggle="yes">p</italic> &lt; 0.0001). Control (solid) and knockdown (dashed) refer to the beetles with normal or knockdown PO expression, respectively. (D) The triple AMP knockdown treatment (dashed) decreased the survival rate of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with unselected control strain, C2 (<italic toggle="yes">p</italic> = 0.04) compared to beetles with normal expression of tenecin 1, 2, and 4, control (solid). The mortality rates of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with <italic toggle="yes">pmt</italic>, <italic toggle="yes">pmt‐rpo</italic>, and <italic toggle="yes">nsa</italic> mutants were not affected by the triple AMP knockdown (<italic toggle="yes">X</italic>
+<sup>2</sup> = 20.4, df = 7, <italic toggle="yes">p</italic> = 0.005). Control (solid) and knockdown (dashed) refer to the beetles with normal or knockdown tenecins (1, 2 and 4) expression, respectively (<italic toggle="yes">n</italic> = 15 beetles/group for A‐B and <italic toggle="yes">n</italic> = 30 beetles/group for C‐D divided into three replicates; ns: <italic toggle="yes">p</italic> &gt; 0.05, *: <italic toggle="yes">p</italic> &lt; 0.05, **: <italic toggle="yes">p</italic> ≤ 0.01 and ***: <italic toggle="yes">p</italic> ≤ 0.001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="EVA-18-e70068-g001.jpg"><?image-name EVA-18-e70068-g001.jpg?><?image-size 87982?><?image-md5 aae6557ea80eac6be011dc6b17777891?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 660?><?image-original-width 1064?><?image-scaled-height 440?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/0a00/11802329/aae6557ea80e/EVA-18-e70068-g001.jpg?><?thumb-name EVA-18-e70068-g001.gif?><?thumb-size 4300?><?thumb-md5 d9e4b3224970fb173fa2957f8d67e679?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 128?><?thumb-cloudpmc-urn urn:cdn:blobs/0a00/11802329/d9e4b3224970/EVA-18-e70068-g001.gif?></graphic></fig><p>Similarly, the number of recovered CFUs of the tenecin 1‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> with a mutation in the <italic toggle="yes">pmt</italic> operon increased significantly with the T1T2T4 knockdown treatment 7‐days post‐infection (Figure <xref rid="eva70068-fig-0003" ref-type="fig">3B</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2B</xref>). However, at the same time point post infection, the infection load of the tenecin 1‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> harboring an additional mutation in the <italic toggle="yes">rpo</italic> operon (<italic toggle="yes">pmt‐rpo</italic>) did not change with the T1T2T4 knockdown. Therefore, the <italic toggle="yes">pmt</italic> mutant is sensitive, while the <italic toggle="yes">pmt‐rpo</italic> mutant is in‐sensitive to coleoptericin (tenecin 2), attacin (tenecin 4) or both. The tenecin 1‐ and tenecin 2‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> harboring a mutation in <italic toggle="yes">nsa</italic> operon showed a similar pattern as <italic toggle="yes">pmt‐rpo</italic> mutant as bacterial load was not affected by the T1T2T4 knockdown treatment (Table <xref rid="eva70068-tbl-0002" ref-type="table">2B</xref>).</p><p>Knockdown of phenoloxidase affected the survival of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> (Figure <xref rid="eva70068-fig-0003" ref-type="fig">3C</xref>) that belongs to line 2 (Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>). The mortality of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> with a mutation in <italic toggle="yes">pmt</italic> operon increased significantly with PO knockdown treatment (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 37.5, df = 7, <italic toggle="yes">p</italic> = 0.004). Beetles with a knockdown expression of phenoloxidase and infected with tenecin‐sensitive control <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> (C2) showed reduced survival compared to control beetles (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 37.5, df = 7, <italic toggle="yes">p</italic> = 0.0002). This was not found for <italic toggle="yes">pmt‐rpo</italic> (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 37.5, df = 7, <italic toggle="yes">p</italic> = 0.223) and <italic toggle="yes">nsa</italic> (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 37.5, df = 7, <italic toggle="yes">p</italic> = 0.223) mutants. Therefore, phenoloxidase limits the virulence of <italic toggle="yes">pmt</italic> mutant and unselected control (C2).</p><p>The survival of beetles infected with unselected control bacteria (C2) was significantly lower with host T1T2T4 knockdown treatment (Figure <xref rid="eva70068-fig-0003" ref-type="fig">3D</xref>) compared to beetles injected with control RNAi (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 20.4, df = 7, <italic toggle="yes">p</italic> = 0.04). However, the T1T2T4 knockdown treatment did not affect the mortality rate of the line 2 descended T1‐ and T1T2‐selected <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains, which (T1‐2L, T1‐2S, and T1T2‐2) harbor mutations in <italic toggle="yes">pmt</italic> (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 20.4, df = 7, <italic toggle="yes">p</italic> = 0.95), <italic toggle="yes">pmt‐rpo</italic> (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 20.4, df = 7, <italic toggle="yes">p</italic> = 0.90), and <italic toggle="yes">nsa</italic> (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 20.4, df = 7, <italic toggle="yes">p</italic> = 0.95), respectively.</p></sec><sec id="eva70068-sec-0019"><label>3.4</label><title>The Tenecin 1‐ and Tenecin 2‐Resistant <italic toggle="no">Nsa‐Rpo</italic>
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> Mutant Are Cross‐Resistant to Phenoloxidase, While Cross‐Sensitive to the In Vivo Defense Cocktail <styled-content style="fixed-case" toggle="no">T1T2T4</styled-content>
+</title><p>In‐host survival 1‐day post‐infection of the T1T2‐sensitive unselected control <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> (C3) was not affected by the knockdown of host phenoloxidase at any time point post infection (Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S6E</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2A</xref>).</p><p>At normal levels of PO expression, the bacterial load at 7‐days post‐infection of hosts injected with T1T2‐selected <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> (T1T2‐3) harboring mutations in both <italic toggle="yes">nsa</italic> and <italic toggle="yes">rpo</italic> operons was significantly higher than when host PO was knocked down (Figure <xref rid="eva70068-fig-0004" ref-type="fig">4A</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2A</xref>). The knockdown had no effect at earlier infection time point.</p><fig position="float" fig-type="FIGURE" id="eva70068-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>(A, B) Bacterial load of tenecin‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> (line 3, Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>) harboring a mutation in <italic toggle="yes">nsa‐rpo</italic> operon compared to the tenecin‐sensitive <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> C3, 7‐days post‐infection. The bacterial load recovered 1‐day post‐infection is represented in Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S6</xref>. The colony‐forming units (CFUs) recovered from 100 μL of hemolymph are represented on a log scale by box plots showing quartiles and medians. The bars represent the 1.5 interquartile. Statistical pairwise comparison results are shown in Table <xref rid="eva70068-tbl-0002" ref-type="table">2</xref>. (A) The PO knockdown (dashed) decreased the colonization of tenecin‐resistant <italic toggle="yes">nsa‐rpo <styled-content style="fixed-case" toggle="no">S. aureus</styled-content>
+</italic> mutants by day‐7 post‐infection (<italic toggle="yes">p</italic> = 0.0078) compared to those with normal expression levels of prophenoloxidase (solid). The tenecin‐sensitive C3 <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strain was not affected by PO knockdown treatment (<italic toggle="yes">p</italic> = 0.0764). Control (solid) and knockdown (dashed) refer to the beetles with normal or knockdown PO expression, respectively. (B) The triple AMP knockdown (dashed) increased the colonization of both tenecin‐resistant <italic toggle="yes">
+<styled-content style="fixed-case" toggle="no">S. aureus</styled-content> nsa‐rpo</italic> mutants (<italic toggle="yes">p</italic> = 0.0328) and the tenecin‐sensitive unselected control strain C3 by day 7 (<italic toggle="yes">p</italic> = 0.0328) compared to beetles with normal expression of tenecin 1, 2, and 4, control (solid). The bacterial load is detected in either beetles with normal (control) or knockdown expression of tenecin 1, tenecin 2, and tenecin 4 (knockdown). (C, D) The survival rate of beetles infected with tenecin‐resistant strains harboring mutation in <italic toggle="yes">nsa‐rpo</italic> mutant operon compared to the tenecin‐sensitive <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> C3. The <italic toggle="yes">p</italic> value is calculated by the log rank test of differences of survival. (C) PO treatment (dashed) increased the survival rate of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with <italic toggle="yes">nsa‐rpo</italic> mutant (<italic toggle="yes">p</italic> &lt; 0.00001), while decreased the survival rate of those infected with the unselected control strain, C3 (<italic toggle="yes">p</italic> = 0.0007) compared to those with normal expression levels of prophenoloxidase, control (solid) (<italic toggle="yes">X</italic>
+<sup>2</sup> = 37, df = 3, <italic toggle="yes">p</italic> &lt; 0.0001). Control (solid) and knockdown (dashed) refer to the beetles with normal or knockdown PO expression, respectively. (D) Triple AMP knockdown treatment (dashed) decreased the survival rate of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with the unselected control strain, C3 (<italic toggle="yes">p</italic> = 0.02) compared to beetles with normal expression of tenecin 1, 2, and 4, control (solid). However, it did not affect those infected with <italic toggle="yes">nsa‐rpo</italic> mutant (<italic toggle="yes">X</italic>
+<sup>2</sup> = 14.8, df = 3, <italic toggle="yes">p</italic> = 0.002). Control (solid) and knockdown (dashed) refer to the beetles with normal or knocked‐down tenecins (1, 2 and 4) expression, respectively (<italic toggle="yes">n</italic> = 15 beetles/group for A‐B and <italic toggle="yes">n</italic> = 30 beetles/group for C‐D divided into three replicates; ns: <italic toggle="yes">p</italic> &gt; 0.05, *: <italic toggle="yes">p</italic> &lt; 0.05, ***: <italic toggle="yes">p</italic> ≤ 0.001 and ****: <italic toggle="yes">p</italic> ≤ 0.0001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="EVA-18-e70068-g004.jpg"><?image-name EVA-18-e70068-g004.jpg?><?image-size 74222?><?image-md5 e5718a0abd3f7379ba4fbd39bb85310e?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 661?><?image-original-width 1064?><?image-scaled-height 440?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/0a00/11802329/e5718a0abd3f/EVA-18-e70068-g004.jpg?><?thumb-name EVA-18-e70068-g004.gif?><?thumb-size 3832?><?thumb-md5 b9aeac3934567297081beaa16b0df227?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 128?><?thumb-cloudpmc-urn urn:cdn:blobs/0a00/11802329/b9aeac393456/EVA-18-e70068-g004.gif?></graphic></fig><p>When host T1T2T4 had been knocked down, the bacterial load of the unselected control (C3) or <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> (T1T2‐3) harboring a mutation in both <italic toggle="yes">nsa</italic> and <italic toggle="yes">rpo</italic> operons was significantly higher compared to control beetles 7‐days post‐infection (Figure <xref rid="eva70068-fig-0004" ref-type="fig">4B</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2B</xref>). However, 1‐day post‐infection, the bacterial load of both strains (C3 and <italic toggle="yes">nsa‐rpo</italic>) was not affected by the knockdown treatment of T1T2T4 genes (Figure <xref rid="eva70068-supitem-0001" ref-type="supplementary-material">S6F</xref>, Table <xref rid="eva70068-tbl-0002" ref-type="table">2B</xref>).</p><p>In <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">T. molitor</italic>
+</styled-content> infected with <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> descended from line‐3 (listed in Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>), host survival was affected by knocking down the expression of phenoloxidase gene regardless of the strain sensitivity to tenecins (Figure <xref rid="eva70068-fig-0004" ref-type="fig">4C</xref>). The mortality of hosts injected with T1T2‐sensitive unselected control (C3) increased approximately 33% with PO knockdown treatment (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 37, df = 3, <italic toggle="yes">p</italic> = 0.001). However, the mortality of T1T2‐resistant <italic toggle="yes">nsa‐rpo</italic> mutant injected insects decreased 53.3% with PO knockdown treatment (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 37, df = 3, <italic toggle="yes">p</italic> &lt; 0.0001).</p><p>Similar to the ancestor SH1000 and the unselected control strains C1 and C2, the survival of beetles infected with the unselected control strain C3 (Table <xref rid="eva70068-tbl-0001" ref-type="table">1</xref>) decreased significantly with T1T2T4 knockdown treatment (Figure <xref rid="eva70068-fig-0004" ref-type="fig">4D</xref>) compared to control beetles (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 14.8, df = 3, <italic toggle="yes">p</italic> = 0.02). The host mortality rate caused by the <italic toggle="yes">nsa‐rpo</italic> mutant infection was high regardless of knockdown treatment (<italic toggle="yes">Χ</italic>
+<sup>2</sup> = 14.8, df = 3, <italic toggle="yes">p</italic> = 0.91), with mean age at death after injection of 16.5 and 18.4 days for the beetles with normal and knockdown expression levels of T1T2T4, respectively.</p></sec></sec><sec sec-type="discussion" id="eva70068-sec-0020"><label>4</label><title>Discussion</title><p>To understand the in vivo pathogenesis of AMP‐resistant bacteria, we used <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content> as a host and found that the majority of AMP‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> showed collaterally increased sensitivity to other immune effectors in vivo. All our strains with AMP resistance mutations, except for the strain with a double mutation in both the <italic toggle="yes">nsa</italic> and <italic toggle="yes">rpo</italic> operons, were sensitive to phenoloxidase. The tenecin 1‐ and tenecin 2‐resistant <italic toggle="yes">nsa‐rpo</italic> double mutant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>, however, showed sensitivity to other AMPs in vivo. The latter result was also found for strains with a mutation in the <italic toggle="yes">pmt</italic> operon that were sensitive to one or more components of the in vivo AMP defense cocktail, as revealed by simplifying this cocktail. In short, all AMP‐resistant mutants investigated here showed collaterally increased sensitivity in vivo to at least one of the other components of the insect immune system that we experimentally manipulated using RNAi. Taken together, our results are consistent with the idea that bacterial resistance to host immune effectors can be costly: resistance to one immune effector shows negative pleiotropy with one or more other immune effectors. This contrasts with some findings on antimicrobial resistance, where resistant strains can show increased in vivo fitness and virulence (Roux et al. <xref rid="eva70068-bib-0046" ref-type="bibr">2015</xref>).</p><p>We found that for all the <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> strains selected for AMP resistance studied, except for those harboring mutations in the <italic toggle="yes">nsa</italic>‐<italic toggle="yes">rpo</italic> operons, knockdown of phenoloxidase increased the bacterial load. This shows the important role of phenoloxidase in insect antibacterial defenses. The effectiveness of phenoloxidase in insect immune responses is consistent with the findings of Ayres and Schneider (<xref rid="eva70068-bib-0004" ref-type="bibr">2008</xref>) who reported that disrupting the melanization pathways in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">D. melanogaster</italic>
+</styled-content> (CG3066) increased both the bacterial load and mortality in the case of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Salmonella typhimurium</italic>
+</styled-content> and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Listeria monocytogenes</italic>
+</styled-content> infections. However, phenoloxidase is not always effective in this way; for example, phenoloxidase knockdown did not influence the bacterial load of <italic toggle="yes">Pseudomonas rettgeri</italic> (Duneau et al. <xref rid="eva70068-bib-0016" ref-type="bibr">2017</xref>) nor of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">E. coli</italic>
+</styled-content> (Ayres and Schneider <xref rid="eva70068-bib-0004" ref-type="bibr">2008</xref>) in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">D. melanogaster</italic>
+</styled-content>. Here, we report that also different strains of the same pathogen display different sensitivity to the melanization pathway, almost certainly caused by the selected mutations providing AMP resistance. The phenoloxidase response is activated via the recognition of membrane structural components of bacterial cells (Cerenius, Lee, and Söderhäll <xref rid="eva70068-bib-0008" ref-type="bibr">2008</xref>). AMP resistance usually includes modifications of the bacterial membranes (Andersson, Hughes, and Kubicek‐Sutherland <xref rid="eva70068-bib-0002" ref-type="bibr">2016</xref>). Therefore, it is possible that such cell surface modifications render the AMP‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> more susceptible to recognition by the PPO‐activating system resulting in increased sensitivity to phenoloxidase‐dependent immune responses. It is worth noting that the T1T2‐resistant <italic toggle="yes">nsa‐rpo</italic> mutants, the only mutants in our set that are sensitive to phagocytosis (El Shazely et al. <xref rid="eva70068-bib-0017" ref-type="bibr">2019</xref>), also show resistance to phenoloxidase. Moreover, knockdown of the beetle phenoloxidase prior to infection with <italic toggle="yes">nsa‐rpo</italic> mutants decreased both bacterial load and virulence in the host. A possible explanation for the reduction in virulence of the <italic toggle="yes">nsa‐rpo</italic> mutants that we observed is reduced collateral damage to the Malpighian tubules (an equivalent of the human kidney) that can be caused by phenoloxidase (Khan, Prakash, and Agashe <xref rid="eva70068-bib-0034" ref-type="bibr">2017</xref>). To the best of our knowledge, no previous studies discussed the sensitivity of pathogens selected to endogenous AMPs toward phenoloxidase‐dependent immune responses.</p><p>Consistent with previous studies (Keshavarz, Zanchi, and Rolff <xref rid="eva70068-bib-0032" ref-type="bibr">2023</xref>; Zanchi, Johnston, and Rolff <xref rid="eva70068-bib-0051" ref-type="bibr">2017</xref>), we find a lot of variation in bacterial loads that is increasing over time in both control and knockdown beetles for the majority of bacterial strains tested. Similar increases in variation have even been found in <italic toggle="yes">Drosophila</italic> with isogenic backgrounds (Duneau et al. <xref rid="eva70068-bib-0016" ref-type="bibr">2017</xref>) and <italic toggle="yes">Drosophila</italic> populations infected with one of either <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Lactobacillus lactis</italic>
+</styled-content>, <italic toggle="yes">Providencia burholderia</italic>, or <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Enterobacter cloacae</italic>
+</styled-content> (Franz et al. <xref rid="eva70068-bib-0020" ref-type="bibr">2023</xref>; Hidalgo et al. <xref rid="eva70068-bib-0024" ref-type="bibr">2022</xref>). While such patterns seem to be common, the underlying reasons for this are still unclear (Duneau and Ferdy <xref rid="eva70068-bib-0015" ref-type="bibr">2022</xref>). Theoretical work suggests feedbacks between host and pathogens (Ellner et al. <xref rid="eva70068-bib-0019" ref-type="bibr">2021</xref>), which awaits experimental testing. The reason for the differences in survival caused by control lines across experiments is more likely explained by the fact that not all experiments could be carried out simultaneously and that it cannot be ruled out that mutations occur during passaging. The most meaningful comparisons are therefore the comparisons within the experiments; this is reflected in our statistical models.</p><p>Another interesting observation in our data is that the differences in bacterial loads and their changes caused by knockdowns of either AMPs or phenoloxidase are not always mirrored in differences in survival (see Figure <xref rid="eva70068-fig-0003" ref-type="fig">3</xref>). It is unclear at the moment whether this is caused by a possible lack of statistical power for the <italic toggle="yes">nsaS/R</italic> mutants, for example. An alternative interpretation is that host resistance or tolerance, the ability of a host to curtail the damage of a given pathogen load (Kutzer and Armitage <xref rid="eva70068-bib-0036" ref-type="bibr">2016</xref>), toward a pathogen can be a strain‐specific response, in our case related to a specific AMP resistance mutation. While this is intriguing, it clearly requires additional work.</p><p>The number of bacterial AMP resistance mechanisms seems limited and rather generic (Joo, Fu, and Otto <xref rid="eva70068-bib-0030" ref-type="bibr">2016</xref>). Consequently, we expect that bacteria with evolved resistance to one AMP will also display cross‐resistance to other AMPs, especially in the case of AMPs with related structure. While not studied yet, it would be very interesting to study if and how such cross‐resistance contributes to the evolution of small but significant changes in AMP efficacy as reported in fruit flies (Unckless, Howick, and Lazzaro <xref rid="eva70068-bib-0049" ref-type="bibr">2016</xref>). We previously reported that our tenecin‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> showed cross‐resistance toward melittin and colistin but had increased sensitivity toward pexiganan and vancomycin (El Shazely et al. <xref rid="eva70068-bib-0018" ref-type="bibr">2020</xref>; Makarova et al. <xref rid="eva70068-bib-0039" ref-type="bibr">2018</xref>). In the present work, tenecin 1‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> harboring a mutation in the <italic toggle="yes">pmt</italic> operon showed increased sensitivity to tenecins 2 and 4. The same result was found for the tenecin 1‐ and tenecin 2‐resistant <italic toggle="yes">nsa‐rpo</italic>
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> mutant strains. This finding explains the lower bacterial load of those particular two strains in vivo compared to other AMP‐resistant mutants at day‐14 post‐infection (El Shazely et al. <xref rid="eva70068-bib-0017" ref-type="bibr">2019</xref>). Here, we showed that AMP resistance can confer either cross‐resistance or collateral sensitivity to the host's other AMPs, and again this was dependent on the resistance mutation.</p><p>The T1T2T4 knockdown did not influence the virulence of the AMP‐resistant strains except for the tenecin 1‐resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content> harboring a mutation in the <italic toggle="yes">rpo</italic> operon, where virulence was decreased compared to that of the unselected tenecin‐sensitive control. It is unclear why the <italic toggle="yes">rpo</italic> mutant caused a lower host mortality rate in the case of T1T2T4 knockdown treatment.</p><p>Given the notion that a single mutation can cause various phenotypic changes that regulate the evolution of resistance and susceptibility to various drugs simultaneously (Lázár et al. <xref rid="eva70068-bib-0037" ref-type="bibr">2013</xref>), adaptations to one immune effector (e.g., AMPs) may result in increased sensitivity to another modulator defining the outcomes of the host–pathogen interaction. This might explain why AMP‐resistant bacteria are not abundant in nature (Spohn et al. <xref rid="eva70068-bib-0047" ref-type="bibr">2019</xref>), although there is ample opportunity for resistance selection, for example, in environments such as the animal gut (Bevins and Salzman <xref rid="eva70068-bib-0007" ref-type="bibr">2011</xref>). During the last decade, collateral sensitivity for bacterial strains under selection by pairs of antibiotics has been re‐described (Imamovic and Sommer <xref rid="eva70068-bib-0026" ref-type="bibr">2013</xref>; Lázár et al. <xref rid="eva70068-bib-0037" ref-type="bibr">2013</xref>). However, our study is the first to investigate the collateral sensitivity of bacteria that have evolved resistance to selected AMPs of the host (Bell and Gouyon <xref rid="eva70068-bib-0006" ref-type="bibr">2003</xref>) to other host immune effectors. Our results suggest that overcoming the different hurdles to establish a successful infection (Hall, Bento, and Ebert <xref rid="eva70068-bib-0022" ref-type="bibr">2017</xref>) can be hampered by antagonistic pleiotropy: resistance to one defense comes at the cost of increased sensitivity to another defense.</p></sec><sec sec-type="COI-statement" id="eva70068-sec-1015"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="eva70068-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Appendix S1:
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EVA-18-e70068-s001.zip" position="float" orientation="portrait"><?suppdata-name EVA-18-e70068-s001.zip?><?suppdata-size 6768588?><?suppdata-md5 9cc90511b632c3acbb5faa676aacccda?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type zip?><?suppdata-cloudpmc-urn urn:app:0a00/11802329/9cc90511b632/EVA-18-e70068-s001.zip?></media></supplementary-material></sec></body><back><ack id="eva70068-sec-0021"><title>Acknowledgments</title><p>We thank Stuart Reynolds and Charlotte Rafaluk and two anonymous reviewers for their comments on the manuscript and Arek Urbański for discussions. Many thanks to Caroline Zanchi for discussion and statistical advice and to Sophie Van Linthout and Muhammad Elshafeey for helping with the qRTPCR and to Sabine Kretschmer and Elisa Bittermann for technical support. Open Access funding enabled and organized by Projekt DEAL.</p></ack><sec sec-type="data-availability" id="eva70068-sec-0023"><title>Data Availability Statement</title><p>The raw data for all figures and the qPCR data for the RNAi knockdowns are available on refubium (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://refubium.fu-berlin.de/?locale-attribute=en" ext-link-type="uri" specific-use="software is-supplemented-by">https://refubium.fu‐berlin.de/?locale‐attribute=en</ext-link>), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://doi.org/10.17169/refubium-38491" ext-link-type="uri" specific-use="dataset is-supplemented-by">http://doi.org/10.17169/refubium‐38491</ext-link>.</p></sec><ref-list content-type="cited-references" id="eva70068-bibl-0001"><title>References</title><ref id="eva70068-bib-0001"><mixed-citation publication-type="journal" id="eva70068-cit-0001">
+<string-name name-style="western">
+<surname>Ahmad</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Majaz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Nouroz</surname>
+</string-name>. <year>2020</year>. “<article-title>Two‐Component Systems Regulate ABC Transporters in Antimicrobial Peptide Production, Immunity and Resistance</article-title>.” <source>Microbiology</source>
+<volume>166</volume>, no. <issue>1</issue>: <fpage>4</fpage>–<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1099/mic.0.000823</pub-id>.<pub-id pub-id-type="pmid">31204967</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0002"><mixed-citation publication-type="journal" id="eva70068-cit-0002">
+<string-name name-style="western">
+<surname>Andersson</surname>, <given-names>D. I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Hughes</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. Z.</given-names>
+<surname>Kubicek‐Sutherland</surname>
+</string-name>. <year>2016</year>. “<article-title>Mechanisms and Consequences of Bacterial Resistance to Antimicrobial Peptides</article-title>.” <source>Drug Resistance Updates</source>
+<volume>26</volume>: <fpage>43</fpage>–<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1016/j.drup.2016.04.002</pub-id>.<pub-id pub-id-type="pmid">27180309</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0003"><mixed-citation publication-type="journal" id="eva70068-cit-0003">
+<string-name name-style="western">
+<surname>Arii</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kawada‐Matsuo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Oogai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Noguchi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Komatsuzawa</surname>
+</string-name>. <year>2019</year>. “<article-title>Single Mutations in BraRS Confer High Resistance Against Nisin A in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content>
+</article-title>.” <source>MicrobiologyOpen</source>
+<volume>8</volume>, no. <issue>11</issue>: <elocation-id>e791</elocation-id>. <pub-id pub-id-type="doi">10.1002/mbo3.791</pub-id>.<pub-id pub-id-type="pmid">30656859</pub-id>
+<pub-id pub-id-type="pmcid">PMC6854852</pub-id></mixed-citation></ref><ref id="eva70068-bib-0004"><mixed-citation publication-type="journal" id="eva70068-cit-0004">
+<string-name name-style="western">
+<surname>Ayres</surname>, <given-names>J. S.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Schneider</surname>
+</string-name>. <year>2008</year>. “<article-title>A Signaling Protease Required for Melanization in Drosophila Affects Resistance and Tolerance of Infections</article-title>.” <source>PLoS Biology</source>
+<volume>6</volume>, no. <issue>12</issue>: <fpage>2764</fpage>–<lpage>2773</lpage>. <pub-id pub-id-type="doi">10.1371/journal.pbio.0060305</pub-id>.<pub-id pub-id-type="pmid">19071960</pub-id>
+<pub-id pub-id-type="pmcid">PMC2596860</pub-id></mixed-citation></ref><ref id="eva70068-bib-0005"><mixed-citation publication-type="journal" id="eva70068-cit-0005">
+<string-name name-style="western">
+<surname>Barbosa</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Römhild</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Rosenstiel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Schulenburg</surname>
+</string-name>. <year>2019</year>. “<article-title>Evolutionary Stability of Collateral Sensitivity to Antibiotics in the Model Pathogen <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Pseudomonas aeruginosa</italic>
+</styled-content>
+</article-title>.” <source>eLife</source>
+<volume>8</volume>: <elocation-id>e51481</elocation-id>. <pub-id pub-id-type="doi">10.7554/eLife.51481</pub-id>.<pub-id pub-id-type="pmid">31658946</pub-id>
+<pub-id pub-id-type="pmcid">PMC6881144</pub-id></mixed-citation></ref><ref id="eva70068-bib-0006"><mixed-citation publication-type="journal" id="eva70068-cit-0006">
+<string-name name-style="western">
+<surname>Bell</surname>, <given-names>G.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>P.‐H.</given-names>
+<surname>Gouyon</surname>
+</string-name>. <year>2003</year>. “<article-title>Arming the Enemy: The Evolution of Resistance to Self‐Proteins</article-title>.” <source>Microbiology</source>
+<volume>149</volume>, no. <issue>6</issue>: <fpage>1367</fpage>–<lpage>1375</lpage>. <pub-id pub-id-type="doi">10.1099/mic.0.26265-0</pub-id>.<pub-id pub-id-type="pmid">12777478</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0007"><mixed-citation publication-type="journal" id="eva70068-cit-0007">
+<string-name name-style="western">
+<surname>Bevins</surname>, <given-names>C. L.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>N. H.</given-names>
+<surname>Salzman</surname>
+</string-name>. <year>2011</year>. “<article-title>Paneth Cells, Antimicrobial Peptides and Maintenance of Intestinal Homeostasis</article-title>.” <source>Nature Reviews Microbiology</source>
+<volume>9</volume>, no. <issue>5</issue>: <fpage>356</fpage>–<lpage>368</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro2546</pub-id>.<pub-id pub-id-type="pmid">21423246</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0008"><mixed-citation publication-type="journal" id="eva70068-cit-0008">
+<string-name name-style="western">
+<surname>Cerenius</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B. L.</given-names>
+<surname>Lee</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Söderhäll</surname>
+</string-name>. <year>2008</year>. “<article-title>The proPO‐System: Pros and Cons for Its Role in Invertebrate Immunity</article-title>.” <source>Trends in Immunology</source>
+<volume>29</volume>, no. <issue>6</issue>: <fpage>263</fpage>–<lpage>271</lpage>. <pub-id pub-id-type="doi">10.1016/j.it.2008.02.009</pub-id>.<pub-id pub-id-type="pmid">18457993</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0009"><mixed-citation publication-type="journal" id="eva70068-cit-0009">
+<string-name name-style="western">
+<surname>Chae</surname>, <given-names>J.‐H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kurokawa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.‐I.</given-names>
+<surname>So</surname>
+</string-name>, et al. <year>2012</year>. “<article-title>Purification and Characterization of Tenecin 4, A New Anti‐Gram‐Negative Bacterial Peptide, From the Beetle <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content>
+</article-title>.” <source>Developmental &amp; Comparative Immunology</source>
+<volume>36</volume>, no. <issue>3</issue>: <fpage>540</fpage>–<lpage>546</lpage>. <pub-id pub-id-type="doi">10.1016/j.dci.2011.09.010</pub-id>.<pub-id pub-id-type="pmid">22001126</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0010"><mixed-citation publication-type="journal" id="eva70068-cit-0010">
+<string-name name-style="western">
+<surname>Chatterjee</surname>, <given-names>S. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.‐S.</given-names>
+<surname>Joo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Duong</surname>
+</string-name>, et al. <year>2013</year>. “<article-title>Essential <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> Toxin Export System</article-title>.” <source>Nature Medicine</source>
+<volume>19</volume>, no. <issue>3</issue>: <fpage>364</fpage>–<lpage>367</lpage>. <pub-id pub-id-type="doi">10.1038/nm.3047</pub-id>.<pub-id pub-id-type="pmcid">PMC3594369</pub-id><pub-id pub-id-type="pmid">23396209</pub-id></mixed-citation></ref><ref id="eva70068-bib-0011"><mixed-citation publication-type="journal" id="eva70068-cit-0011">
+<string-name name-style="western">
+<surname>Cheung</surname>, <given-names>G. Y. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E. L.</given-names>
+<surname>Fisher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>McCausland</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Antimicrobial Peptide Resistance Mechanism Contributes to <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> Infection</article-title>.” <source>Journal of Infectious Diseases</source>
+<volume>217</volume>, no. <issue>7</issue>: <fpage>1153</fpage>–<lpage>1159</lpage>. <pub-id pub-id-type="doi">10.1093/infdis/jiy024</pub-id>.<pub-id pub-id-type="pmid">29351622</pub-id>
+<pub-id pub-id-type="pmcid">PMC5939666</pub-id></mixed-citation></ref><ref id="eva70068-bib-0012"><mixed-citation publication-type="journal" id="eva70068-cit-0012">
+<string-name name-style="western">
+<surname>Cho</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Misra</surname>
+</string-name>. <year>2021</year>. “<article-title>Mutational Activation of Antibiotic‐Resistant Mechanisms in the Absence of Major Drug Efflux Systems of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Escherichia coli</italic>
+</styled-content>
+</article-title>.” <source>Journal of Bacteriology</source>
+<volume>203</volume>, no. <issue>14</issue>: <elocation-id>e0010921</elocation-id>. <pub-id pub-id-type="doi">10.1128/JB.00109-21</pub-id>.<pub-id pub-id-type="pmid">33972351</pub-id>
+<pub-id pub-id-type="pmcid">PMC8223954</pub-id></mixed-citation></ref><ref id="eva70068-bib-0013"><mixed-citation publication-type="journal" id="eva70068-cit-0013">
+<string-name name-style="western">
+<surname>Dobson</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Purves</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2014</year>. “<article-title>Increased Survival of Experimentally Evolved Antimicrobial Peptide‐Resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> in an Animal Host</article-title>.” <source>Evolutionary Applications</source>
+<volume>7</volume>, no. <issue>8</issue>: <fpage>905</fpage>–<lpage>912</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12184</pub-id>.<pub-id pub-id-type="pmid">25469169</pub-id>
+<pub-id pub-id-type="pmcid">PMC4211720</pub-id></mixed-citation></ref><ref id="eva70068-bib-0014"><mixed-citation publication-type="journal" id="eva70068-cit-0014">
+<string-name name-style="western">
+<surname>Dudzic</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kondo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Ueda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Bergman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Lemaitre</surname>
+</string-name>. <year>2015</year>. “<article-title>Drosophila Innate Immunity: Regional and Functional Specialization of Prophenoloxidases</article-title>.” <source>BMC Biology</source>
+<volume>13</volume>, no. <issue>1</issue>: <fpage>81</fpage>. <pub-id pub-id-type="doi">10.1186/s12915-015-0193-6</pub-id>.<pub-id pub-id-type="pmid">26437768</pub-id>
+<pub-id pub-id-type="pmcid">PMC4595066</pub-id></mixed-citation></ref><ref id="eva70068-bib-0015"><mixed-citation publication-type="journal" id="eva70068-cit-0015">
+<string-name name-style="western">
+<surname>Duneau</surname>, <given-names>D.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>J.‐B.</given-names>
+<surname>Ferdy</surname>
+</string-name>. <year>2022</year>. “<article-title>Pathogen Within‐Host Dynamics and Disease Outcome: What Can We Learn From Insect Studies?</article-title>” <source>Current Opinion in Insect Science</source>
+<volume>52</volume>: <elocation-id>100925</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.cois.2022.100925</pub-id>.<pub-id pub-id-type="pmid">35489681</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0016"><mixed-citation publication-type="journal" id="eva70068-cit-0016">
+<string-name name-style="western">
+<surname>Duneau</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.‐B.</given-names>
+<surname>Ferdy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Revah</surname>
+</string-name>, et al. <year>2017</year>. “<article-title>Stochastic Variation in the Initial Phase of Bacterial Infection Predicts the Probability of Survival in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">D. melanogaster</italic>
+</styled-content>
+</article-title>.” <source>eLife</source>
+<volume>6</volume>: <elocation-id>e28298</elocation-id>. <pub-id pub-id-type="doi">10.7554/eLife.28298</pub-id>.<pub-id pub-id-type="pmid">29022878</pub-id>
+<pub-id pub-id-type="pmcid">PMC5703640</pub-id></mixed-citation></ref><ref id="eva70068-bib-0017"><mixed-citation publication-type="journal" id="eva70068-cit-0017">
+<string-name name-style="western">
+<surname>El Shazely</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Urbański</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. R.</given-names>
+<surname>Johnston</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2019</year>. “<article-title>In Vivo Exposure of Insect AMP Resistant <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> to an Insect Immune System</article-title>.” <source>Insect Biochemistry and Molecular Biology</source>
+<volume>110</volume>: <fpage>60</fpage>–<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1016/j.ibmb.2019.04.017</pub-id>.<pub-id pub-id-type="pmid">31051236</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0018"><mixed-citation publication-type="journal" id="eva70068-cit-0018">
+<string-name name-style="western">
+<surname>El Shazely</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. R.</given-names>
+<surname>Johnston</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2020</year>. “<article-title>Resistance Evolution Against Antimicrobial Peptides in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> Alters Pharmacodynamics Beyond the MIC</article-title>.” <source>Frontiers in Microbiology</source>
+<volume>11</volume>: <elocation-id>103</elocation-id>. <pub-id pub-id-type="doi">10.3389/fmicb.2020.00103</pub-id>.<pub-id pub-id-type="pmid">32117132</pub-id>
+<pub-id pub-id-type="pmcid">PMC7033599</pub-id></mixed-citation></ref><ref id="eva70068-bib-0019"><mixed-citation publication-type="journal" id="eva70068-cit-0019">
+<string-name name-style="western">
+<surname>Ellner</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Buchon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Dörr</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. P.</given-names>
+<surname>Lazzaro</surname>
+</string-name>. <year>2021</year>. “<article-title>Host‐Pathogen Immune Feedbacks Can Explain Widely Divergent Outcomes From Similar Infections (Preprint)</article-title>.” <source>Systems Biology</source>. B 288: 20210786. <pub-id pub-id-type="doi">10.1101/2021.01.08.425954</pub-id>.<pub-id pub-id-type="pmcid">PMC8150042</pub-id><pub-id pub-id-type="pmid">34034518</pub-id></mixed-citation></ref><ref id="eva70068-bib-0020"><mixed-citation publication-type="journal" id="eva70068-cit-0020">
+<string-name name-style="western">
+<surname>Franz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. A. O.</given-names>
+<surname>Armitage</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. R.</given-names>
+<surname>Regoes</surname>
+</string-name>. <year>2023</year>. “<article-title>Virulence Decomposition for Bifurcating Infections</article-title>.” <source>Proceedings of the Royal Society B: Biological Sciences</source>
+<volume>290</volume>, no. <issue>1998</issue>: <elocation-id>20230396</elocation-id>. <pub-id pub-id-type="doi">10.1098/rspb.2023.0396</pub-id>.<pub-id pub-id-type="pmcid">PMC10170194</pub-id><pub-id pub-id-type="pmid">37161327</pub-id></mixed-citation></ref><ref id="eva70068-bib-0021"><mixed-citation publication-type="journal" id="eva70068-cit-0021">
+<string-name name-style="western">
+<surname>Haine</surname>, <given-names>E. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Moret</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. T.</given-names>
+<surname>Siva‐Jothy</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2008</year>. “<article-title>Antimicrobial Defense and Persistent Infection in Insects</article-title>.” <source>Science</source>
+<volume>322</volume>, no. <issue>5905</issue>: <fpage>1257</fpage>–<lpage>1259</lpage>. <pub-id pub-id-type="doi">10.1126/science.1165265</pub-id>.<pub-id pub-id-type="pmid">19023083</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0022"><mixed-citation publication-type="journal" id="eva70068-cit-0022">
+<string-name name-style="western">
+<surname>Hall</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bento</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ebert</surname>
+</string-name>. <year>2017</year>. “<article-title>The Evolutionary Consequences of Stepwise Infection Processes</article-title>.” <source>Trends in Ecology &amp; Evolution</source>
+<volume>32</volume>, no. <issue>8</issue>: <fpage>612</fpage>–<lpage>623</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2017.05.009</pub-id>.<pub-id pub-id-type="pmid">28648806</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0023"><mixed-citation publication-type="journal" id="eva70068-cit-0023">
+<string-name name-style="western">
+<surname>Hanson</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kondo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Lemaitre</surname>
+</string-name>. <year>2019</year>. “<article-title>Synergy and Remarkable Specificity of Antimicrobial Peptides In Vivo Using a Systematic Knockout Approach</article-title>.” <source>eLife</source>
+<volume>8</volume>: <elocation-id>e44341</elocation-id>.<pub-id pub-id-type="pmid">30803481</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7554/eLife.44341</pub-id><pub-id pub-id-type="pmcid">PMC6398976</pub-id></mixed-citation></ref><ref id="eva70068-bib-0024"><mixed-citation publication-type="journal" id="eva70068-cit-0024">
+<string-name name-style="western">
+<surname>Hidalgo</surname>, <given-names>B. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Silva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Franz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. R.</given-names>
+<surname>Regoes</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. A. O.</given-names>
+<surname>Armitage</surname>
+</string-name>. <year>2022</year>. “<article-title>Decomposing Virulence to Understand Bacterial Clearance in Persistent Infections</article-title>.” <source>Nature Communications</source>
+<volume>13</volume>, no. <issue>1</issue>: <fpage>5023</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-022-32118-1</pub-id>.<pub-id pub-id-type="pmcid">PMC9418333</pub-id><pub-id pub-id-type="pmid">36028497</pub-id></mixed-citation></ref><ref id="eva70068-bib-0025"><mixed-citation publication-type="journal" id="eva70068-cit-0025">
+<string-name name-style="western">
+<surname>Hiron</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Falord</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Valle</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Débarbouillé</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Msadek</surname>
+</string-name>. <year>2011</year>. “<article-title>Bacitracin and Nisin Resistance in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content>: A Novel Pathway Involving the BraS/BraR Two‐Component System (SA2417/SA2418) and Both the BraD/BraE and VraD/VraE ABC Transporters: Multi‐Component Bacitracin Resistance Pathway in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content>
+</article-title>.” <source>Molecular Microbiology</source>
+<volume>81</volume>, no. <issue>3</issue>: <fpage>602</fpage>–<lpage>622</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2958.2011.07735.x</pub-id>.<pub-id pub-id-type="pmid">21696458</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0026"><mixed-citation publication-type="journal" id="eva70068-cit-0026">
+<string-name name-style="western">
+<surname>Imamovic</surname>, <given-names>L.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>M. O. A.</given-names>
+<surname>Sommer</surname>
+</string-name>. <year>2013</year>. “<article-title>Use of Collateral Sensitivity Networks to Design Drug Cycling Protocols That Avoid Resistance Development</article-title>.” <source>Science Translational Medicine</source>
+<volume>5</volume>, no. <issue>204</issue>: <fpage>204ra132</fpage>. <pub-id pub-id-type="doi">10.1126/scitranslmed.3006609</pub-id>.<pub-id pub-id-type="pmid">24068739</pub-id></mixed-citation></ref><ref id="eva70068-bib-0027"><mixed-citation publication-type="journal" id="eva70068-cit-0027">
+<string-name name-style="western">
+<surname>Johnston</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Dobson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2016</year>. “<article-title>Genomic signatures of experimental adaptation to antimicrobial peptides in <italic toggle="yes">Staphylococcus aureus</italic>
+</article-title>.” <source>G3: Genes, Genomes, Genetics</source>
+<volume>6</volume>: <fpage>1535</fpage>–<lpage>1539</lpage>. <pub-id pub-id-type="doi">10.1534/g3.115.023622</pub-id>.<pub-id pub-id-type="pmid">27172179</pub-id>
+<pub-id pub-id-type="pmcid">PMC4889650</pub-id></mixed-citation></ref><ref id="eva70068-bib-0028"><mixed-citation publication-type="journal" id="eva70068-cit-0028">
+<string-name name-style="western">
+<surname>Johnston</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Makarova</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2014</year>. “<article-title>Inducible Defenses Stay Up Late: Temporal Patterns of Immune Gene Expression in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content>
+</article-title>.” <source>G3: Genes, Genomes, Genetics</source>
+<volume>4</volume>, no. <issue>6</issue>: <fpage>947</fpage>–<lpage>955</lpage>. <pub-id pub-id-type="doi">10.1534/g3.113.008516</pub-id>.<pub-id pub-id-type="pmcid">PMC4065263</pub-id><pub-id pub-id-type="pmid">24318927</pub-id></mixed-citation></ref><ref id="eva70068-bib-0029"><mixed-citation publication-type="journal" id="eva70068-cit-0029">
+<string-name name-style="western">
+<surname>Johnston</surname>, <given-names>P. R.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2015</year>. “<article-title>Host and Symbiont Jointly Control Gut Microbiota During Complete Metamorphosis</article-title>.” <source>PLoS Pathogens</source>
+<volume>11</volume>, no. <issue>11</issue>: <elocation-id>e1005246</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.ppat.1005246</pub-id>.<pub-id pub-id-type="pmid">26544881</pub-id>
+<pub-id pub-id-type="pmcid">PMC4636265</pub-id></mixed-citation></ref><ref id="eva70068-bib-0030"><mixed-citation publication-type="journal" id="eva70068-cit-0030">
+<string-name name-style="western">
+<surname>Joo</surname>, <given-names>H.‐S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.‐I.</given-names>
+<surname>Fu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Otto</surname>
+</string-name>. <year>2016</year>. “<article-title>Bacterial Strategies of Resistance to Antimicrobial Peptides</article-title>.” <source>Philosophical Transactions of the Royal Society, B: Biological Sciences</source>
+<volume>371</volume>, no. <issue>1695</issue>: <elocation-id>20150292</elocation-id>. <pub-id pub-id-type="doi">10.1098/rstb.2015.0292</pub-id>.<pub-id pub-id-type="pmcid">PMC4874390</pub-id><pub-id pub-id-type="pmid">27160595</pub-id></mixed-citation></ref><ref id="eva70068-bib-0031"><mixed-citation publication-type="journal" id="eva70068-cit-0031">
+<string-name name-style="western">
+<surname>Keehnen</surname>, <given-names>N. L. P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Theopold</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. W.</given-names>
+<surname>Wheat</surname>
+</string-name>. <year>2017</year>. “<article-title>Insect Antimicrobial Defences</article-title>.” <source>Advances in Insect Physiology</source>
+<volume>52</volume>: <fpage>1</fpage>–<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/bs.aiip.2017.02.003</pub-id>.</mixed-citation></ref><ref id="eva70068-bib-0032"><mixed-citation publication-type="journal" id="eva70068-cit-0032">
+<string-name name-style="western">
+<surname>Keshavarz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zanchi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2023</year>. “<article-title>The Effect of Combined Knockdowns of Attacins on Survival and Bacterial Load in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content>
+</article-title>.” <source>Frontiers in Immunology</source>
+<volume>14</volume>: <elocation-id>1140627</elocation-id>. <pub-id pub-id-type="doi">10.3389/fimmu.2023.1140627</pub-id>.<pub-id pub-id-type="pmid">37063911</pub-id>
+<pub-id pub-id-type="pmcid">PMC10090678</pub-id></mixed-citation></ref><ref id="eva70068-bib-0033"><mixed-citation publication-type="journal" id="eva70068-cit-0033">
+<string-name name-style="western">
+<surname>Khan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Agashe</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2017</year>. “<article-title>Early‐Life Inflammation, Immune Response and Ageing</article-title>.” <source>Proceedings of the Royal Society B: Biological Sciences</source>
+<volume>284</volume>, no. <issue>1850</issue>: <elocation-id>20170125</elocation-id>. <pub-id pub-id-type="doi">10.1098/rspb.2017.0125</pub-id>.<pub-id pub-id-type="pmcid">PMC5360934</pub-id><pub-id pub-id-type="pmid">28275145</pub-id></mixed-citation></ref><ref id="eva70068-bib-0034"><mixed-citation publication-type="journal" id="eva70068-cit-0034">
+<string-name name-style="western">
+<surname>Khan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Prakash</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Agashe</surname>
+</string-name>. <year>2017</year>. “<article-title>Experimental Evolution of Insect Immune Memory Versus Pathogen Resistance</article-title>.” <source>Proceedings of the Royal Society B: Biological Sciences</source>
+<volume>284</volume>, no. <issue>1869</issue>: <elocation-id>20171583</elocation-id>. <pub-id pub-id-type="doi">10.1098/rspb.2017.1583</pub-id>.<pub-id pub-id-type="pmcid">PMC5745399</pub-id><pub-id pub-id-type="pmid">29237849</pub-id></mixed-citation></ref><ref id="eva70068-bib-0035"><mixed-citation publication-type="journal" id="eva70068-cit-0035">
+<string-name name-style="western">
+<surname>Koprivnjak</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Peschel</surname>
+</string-name>. <year>2011</year>. “<article-title>Bacterial Resistance Mechanisms Against Host Defense Peptides</article-title>.” <source>Cellular and Molecular Life Sciences</source>
+<volume>68</volume>, no. <issue>13</issue>: <fpage>2243</fpage>–<lpage>2254</lpage>. <pub-id pub-id-type="doi">10.1007/s00018-011-0716-4</pub-id>.<pub-id pub-id-type="pmid">21560069</pub-id>
+<pub-id pub-id-type="pmcid">PMC11115334</pub-id></mixed-citation></ref><ref id="eva70068-bib-0036"><mixed-citation publication-type="journal" id="eva70068-cit-0036">
+<string-name name-style="western">
+<surname>Kutzer</surname>, <given-names>M. A. M.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>S. A. O.</given-names>
+<surname>Armitage</surname>
+</string-name>. <year>2016</year>. “<article-title>Maximising Fitness in the Face of Parasites: A Review of Host Tolerance</article-title>.” <source>Zoology</source>
+<volume>119</volume>, no. <issue>4</issue>: <fpage>281</fpage>–<lpage>289</lpage>. <pub-id pub-id-type="doi">10.1016/j.zool.2016.05.011</pub-id>.<pub-id pub-id-type="pmid">27373338</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0037"><mixed-citation publication-type="journal" id="eva70068-cit-0037">
+<string-name name-style="western">
+<surname>Lázár</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Pal Singh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Spohn</surname>
+</string-name>, et al. <year>2013</year>. “<article-title>Bacterial Evolution of Antibiotic Hypersensitivity</article-title>.” <source>Molecular Systems Biology</source>
+<volume>9</volume>, no. <issue>1</issue>: <fpage>700</fpage>. <pub-id pub-id-type="doi">10.1038/msb.2013.57</pub-id>.<pub-id pub-id-type="pmid">24169403</pub-id>
+<pub-id pub-id-type="pmcid">PMC3817406</pub-id></mixed-citation></ref><ref id="eva70068-bib-0038"><mixed-citation publication-type="journal" id="eva70068-cit-0038">
+<string-name name-style="western">
+<surname>Lazzaro</surname>, <given-names>B. P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zasloff</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2020</year>. “<article-title>Antimicrobial Peptides: Application Informed by Evolution</article-title>.” <source>Science</source>
+<volume>368</volume>, no. <issue>6490</issue>: <elocation-id>eaau5480</elocation-id>. <pub-id pub-id-type="doi">10.1126/science.aau5480</pub-id>.<pub-id pub-id-type="pmid">32355003</pub-id>
+<pub-id pub-id-type="pmcid">PMC8097767</pub-id></mixed-citation></ref><ref id="eva70068-bib-0039"><mixed-citation publication-type="journal" id="eva70068-cit-0039">
+<string-name name-style="western">
+<surname>Makarova</surname>, <given-names>O.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Johnston</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rodriguez‐Rojas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>El Shazely</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Morales</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2018</year>. “<article-title>Genomics of Experimental Adaptation of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> to a Natural Combination of Insect Antimicrobial Peptides</article-title>.” <source>Scientific Reports</source>
+<volume>8</volume>, no. <issue>1</issue>: <fpage>15359</fpage>. <pub-id pub-id-type="doi">10.1038/s41598-018-33593-7</pub-id>.<pub-id pub-id-type="pmid">30337550</pub-id>
+<pub-id pub-id-type="pmcid">PMC6193990</pub-id></mixed-citation></ref><ref id="eva70068-bib-0040"><mixed-citation publication-type="journal" id="eva70068-cit-0040">
+<string-name name-style="western">
+<surname>Makarova</surname>, <given-names>O.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rodriguez‐Rojas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Eravci</surname>
+</string-name>, et al. <year>2016</year>. “<article-title>Antimicrobial Defence and Persistent Infection in Insects Revisited</article-title>.” <source>Philosophical Transactions of the Royal Society, B: Biological Sciences</source>
+<volume>371</volume>, no. <issue>1695</issue>: <elocation-id>20150296</elocation-id>. <pub-id pub-id-type="doi">10.1098/rstb.2015.0296</pub-id>.<pub-id pub-id-type="pmcid">PMC4874393</pub-id><pub-id pub-id-type="pmid">27160598</pub-id></mixed-citation></ref><ref id="eva70068-bib-0041"><mixed-citation publication-type="journal" id="eva70068-cit-0041">
+<string-name name-style="western">
+<surname>Mariam</surname>, <given-names>D. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Mengistu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Hoffner</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. I.</given-names>
+<surname>Andersson</surname>
+</string-name>. <year>2004</year>. “<article-title>Effect of rpoB Mutations Conferring Rifampin Resistance on Fitness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Mycobacterium tuberculosis</italic>
+</styled-content>
+</article-title>.” <source>Antimicrobial Agents and Chemotherapy</source>
+<volume>48</volume>, no. <issue>4</issue>: <fpage>1289</fpage>–<lpage>1294</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.48.4.1289-1294.2004</pub-id>.<pub-id pub-id-type="pmid">15047531</pub-id>
+<pub-id pub-id-type="pmcid">PMC375340</pub-id></mixed-citation></ref><ref id="eva70068-bib-0042"><mixed-citation publication-type="journal" id="eva70068-cit-0042">
+<string-name name-style="western">
+<surname>McGonigle</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Purves</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2016</year>. “<article-title>Intracellular Survival of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content> During Persistent Infection in the Insect <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content>
+</article-title>.” <source>Developmental &amp; Comparative Immunology</source>
+<volume>59</volume>: <fpage>34</fpage>–<lpage>38</lpage>. <pub-id pub-id-type="doi">10.1016/j.dci.2016.01.002</pub-id>.<pub-id pub-id-type="pmid">26778297</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0043"><mixed-citation publication-type="journal" id="eva70068-cit-0043">
+<string-name name-style="western">
+<surname>Moon</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kurata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Natori</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. L.</given-names>
+<surname>Lee</surname>
+</string-name>. <year>1994</year>. “<article-title>Purification and Molecular Cloning of cDNA for an Inducible Antibacterial Protein From Larvae of the Coleopteran, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Tenebrio molitor</italic>
+</styled-content>
+</article-title>.” <source>Journal of Biochemistry</source>
+<volume>116</volume>, no. <issue>1</issue>: <fpage>53</fpage>–<lpage>58</lpage>. <pub-id pub-id-type="doi">10.1093/oxfordjournals.jbchem.a124502</pub-id>.<pub-id pub-id-type="pmid">7798186</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0044"><mixed-citation publication-type="journal" id="eva70068-cit-0044">
+<string-name name-style="western">
+<surname>Mylonakis</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Podsiadlowski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Muhammed</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vilcinskas</surname>
+</string-name>. <year>2016</year>. “<article-title>Diversity, Evolution and Medical Applications of Insect Antimicrobial Peptides</article-title>.” <source>Philosophical Transactions of the Royal Society, B: Biological Sciences</source>
+<volume>371</volume>, no. <issue>1695</issue>: <elocation-id>20150290</elocation-id>. <pub-id pub-id-type="doi">10.1098/rstb.2015.0290</pub-id>.<pub-id pub-id-type="pmcid">PMC4874388</pub-id><pub-id pub-id-type="pmid">27160593</pub-id></mixed-citation></ref><ref id="eva70068-bib-0045"><mixed-citation publication-type="journal" id="eva70068-cit-0045">
+<string-name name-style="western">
+<surname>Roh</surname>, <given-names>K.‐B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.‐H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lee</surname>
+</string-name>, et al. <year>2009</year>. “<article-title>Proteolytic Cascade for the Activation of the Insect Toll Pathway Induced by the Fungal Cell Wall Component</article-title>.” <source>Journal of Biological Chemistry</source>
+<volume>284</volume>, no. <issue>29</issue>: <fpage>19474</fpage>–<lpage>19481</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M109.007419</pub-id>.<pub-id pub-id-type="pmid">19473968</pub-id>
+<pub-id pub-id-type="pmcid">PMC2740573</pub-id></mixed-citation></ref><ref id="eva70068-bib-0046"><mixed-citation publication-type="journal" id="eva70068-cit-0046">
+<string-name name-style="western">
+<surname>Roux</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Danilchanka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Guillard</surname>
+</string-name>, et al. <year>2015</year>. “<article-title>Fitness Cost of Antibiotic Susceptibility During Bacterial Infection</article-title>.” <source>Science Translational Medicine</source>
+<volume>7</volume>, no. <issue>297</issue>: <elocation-id>297ra114</elocation-id>. <pub-id pub-id-type="doi">10.1126/scitranslmed.aab1621</pub-id>.<pub-id pub-id-type="pmid">26203082</pub-id></mixed-citation></ref><ref id="eva70068-bib-0047"><mixed-citation publication-type="journal" id="eva70068-cit-0047">
+<string-name name-style="western">
+<surname>Spohn</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Daruka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Lázár</surname>
+</string-name>, et al. <year>2019</year>. “<article-title>Integrated Evolutionary Analysis Reveals Antimicrobial Peptides With Limited Resistance</article-title>.” <source>Nature Communications</source>
+<volume>10</volume>, no. <issue>1</issue>: <fpage>4538</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-019-12364-6</pub-id>.<pub-id pub-id-type="pmcid">PMC6778101</pub-id><pub-id pub-id-type="pmid">31586049</pub-id></mixed-citation></ref><ref id="eva70068-bib-0048"><mixed-citation publication-type="journal" id="eva70068-cit-0048">
+<string-name name-style="western">
+<surname>Szybalski</surname>, <given-names>W.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Bryson</surname>
+</string-name>. <year>1952</year>. “<article-title>Genetic Studies on Microbial Cross Resistance to Toxic Agents. I. Cross Resistance of <italic toggle="yes">Escherichia coli</italic> to Fifteen Antibiotics</article-title>.” <source>Journal of Bacteriology</source>
+<volume>64</volume>: <fpage>489</fpage>–<lpage>499</lpage>.<pub-id pub-id-type="pmid">12999676</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/jb.64.4.489-499.1952</pub-id><pub-id pub-id-type="pmcid">PMC169383</pub-id></mixed-citation></ref><ref id="eva70068-bib-0049"><mixed-citation publication-type="journal" id="eva70068-cit-0049">
+<string-name name-style="western">
+<surname>Unckless</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>V. M.</given-names>
+<surname>Howick</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. P.</given-names>
+<surname>Lazzaro</surname>
+</string-name>. <year>2016</year>. “<article-title>Convergent Balancing Selection on an Antimicrobial Peptide in Drosophila</article-title>.” <source>Current Biology</source>
+<volume>26</volume>, no. <issue>2</issue>: <fpage>257</fpage>–<lpage>262</lpage>. <pub-id pub-id-type="doi">10.1016/j.cub.2015.11.063</pub-id>.<pub-id pub-id-type="pmid">26776733</pub-id>
+<pub-id pub-id-type="pmcid">PMC4729654</pub-id></mixed-citation></ref><ref id="eva70068-bib-0050"><mixed-citation publication-type="journal" id="eva70068-cit-0050">
+<string-name name-style="western">
+<surname>Yoshida</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Matsuo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Oogai</surname>
+</string-name>, et al. <year>2011</year>. “<article-title>Bacitracin Sensing and Resistance in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Staphylococcus aureus</italic>
+</styled-content>: Bacitracin Sensing and Resistance in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">S. aureus</italic>
+</styled-content>
+</article-title>.” <source>FEMS Microbiology Letters</source>
+<volume>320</volume>, no. <issue>1</issue>: <fpage>33</fpage>–<lpage>39</lpage>. <pub-id pub-id-type="doi">10.1111/j.1574-6968.2011.02291.x</pub-id>.<pub-id pub-id-type="pmid">21517944</pub-id>
+</mixed-citation></ref><ref id="eva70068-bib-0051"><mixed-citation publication-type="journal" id="eva70068-cit-0051">
+<string-name name-style="western">
+<surname>Zanchi</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P. R.</given-names>
+<surname>Johnston</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rolff</surname>
+</string-name>. <year>2017</year>. “<article-title>Evolution of Defence Cocktails: Antimicrobial Peptide Combinations Reduce Mortality and Persistent Infection</article-title>.” <source>Molecular Ecology</source>
+<volume>26</volume>, no. <issue>19</issue>: <fpage>5334</fpage>–<lpage>5343</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14267</pub-id>.<pub-id pub-id-type="pmid">28762573</pub-id>
+</mixed-citation></ref></ref-list></back></article>
