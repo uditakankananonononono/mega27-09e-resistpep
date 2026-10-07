@@ -233,3 +233,28 @@ blinding. Candidate choice is driven by structure/availability, not effect.
   not. Bac7 remains partial, not adopted; no digitization or outcome scoring.
   Source endpoint:
   https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10145973/supplementaryFiles
+
+## Pass 5 - targeted deposit and older-source checks
+
+14. Figshare 1007001 (LL-37 mutagenesis/pathoadaptation): INELIGIBLE for
+    present lineage-MIC estimand. Deposit describes mucoid conversion and
+    mutagenesis in P. aeruginosa, not a serial-passage AMP MIC panel.
+    https://plos.figshare.com/articles/dataset/_Cationic_Antimicrobial_Peptides_Promote_Microbial_Mutagenesis_and_Pathoadaptation_in_Chronic_Infections_/1007001
+15. Royal Society Figshare 5955796: INELIGIBLE as experimental data.
+    Deposit is additional theoretical simulation/pharmacodynamic concepts.
+    https://rs.figshare.com/articles/journal_contribution/Additional_Simulation_Results_and_Pharamacodynamic_Concepts_from_Predicting_drug_resistance_evolution_insights_from_antimicrobial_peptides_and_antibiotics/5955796
+6. Dobson 2016 follow-through corrects the earlier presumed limitation:
+   primary text DOES describe five selection lines per treatment with
+   unselected passage controls; study analyzes clones derived from Dobson
+   2013. It cannot be called sequencing-only solely from its abstract.
+   Primary supplementaryFiles returns a zip containing a zero-byte
+   supp_g3.115.023622_TableS2.pdf, not an inspectable full supplement.
+   Per-lineage primary MIC matrix remains unverified, not proved absent.
+   Follow upstream Dobson 2013 rather than count a derivative as new units.
+   https://pmc.ncbi.nlm.nih.gov/articles/PMC4889650/
+   https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4889650/supplementaryFiles
+
+Query scope: domain-targeted Dryad/Figshare/Zenodo AMP serial-passage
+resistance and general iseganan/melittin/pexiganan lineage panels.
+Non-peptide antibiotics, honey, cyclic lipopeptide biocontrol and integron
+records are off-scope search returns, not screened AMP datasets.
