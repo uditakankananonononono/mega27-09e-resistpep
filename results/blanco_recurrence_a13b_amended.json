@@ -1,0 +1,23 @@
+{
+ "lock_commit": "36fe1c224923b90fa04bcdf0220a92969bf55d98+A13b f27e8cfce2abc3ae8f9be2eae37012ec9a27b97d",
+ "n_cds": 4324,
+ "lines": 14,
+ "events_mapped": 14,
+ "unmapped": [
+  [
+   "DA61754",
+   "btuE2"
+  ],
+  [
+   "DA61770",
+   "hydG"
+  ]
+ ],
+ "T_obs": 2,
+ "contrib": {
+  "LL-37:650": 3,
+  "PR-39:1451": 6
+ },
+ "null_mean": 0.0,
+ "p": 0.0
+}
