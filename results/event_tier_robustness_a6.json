@@ -1,0 +1,1882 @@
+{
+  "prereg": "A6",
+  "lock_commit": "8769356e6204dec1291720f5fa843a0755a2f01e",
+  "guard_a5_counts": {
+    "total_records": 405,
+    "spohn_evolved": 383,
+    "blanco_evolved": 16,
+    "blanco_control_excluded": 3,
+    "bac7_evolved": 3
+  },
+  "guard_within_study_match": true,
+  "tier_map": {
+    "Del 1 nt": "A",
+    "Del 11 nt": "A",
+    "Del 23 nt": "A",
+    "Del 4 nt": "A",
+    "Del 5 nt": "A",
+    "Del 6 nt": "A",
+    "Ins 1 nt": "A",
+    "SNP": "A",
+    "SNPs": "A",
+    "insertion": "A",
+    "insertion (IC3-like element, 1.4 kb)": "A",
+    "intergenic mutation": "A",
+    "large_deletion": "B",
+    "short_deletion": "A",
+    "single nucleotide polymorphism": "A"
+  },
+  "strict_cross_study_tierA": [
+    "sbma"
+  ],
+  "a5_all_tier_cross_study": [
+    "sbma"
+  ],
+  "sbmA_event_ledger": [
+    {
+      "study": "bac7_2023",
+      "amp": "Bac7(1-22)",
+      "line": "B1",
+      "mutation_type": "insertion (IC3-like element, 1.4 kb)",
+      "tier": "A",
+      "event_id": "A|bac7_2023|B1|sbmA|insertion (IC3-like element, 1.4 kb)",
+      "independence": "one event per independent strain/clone; coordinate check not available in A5 extraction (disclosed)"
+    },
+    {
+      "study": "bac7_2023",
+      "amp": "Bac7(1-22)",
+      "line": "B2",
+      "mutation_type": "single nucleotide polymorphism",
+      "tier": "A",
+      "event_id": "A|bac7_2023|B2|sbmA|single nucleotide polymorphism",
+      "independence": "one event per independent strain/clone; coordinate check not available in A5 extraction (disclosed)"
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "mutation_type": "short_deletion",
+      "tier": "A",
+      "event_id": "A|spohn2019|short_deletion|sbmA|392,493",
+      "independence": "independent unless identical coordinates; start recorded"
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "mutation_type": "large_deletion 5466 bp @ 388,423",
+      "tier": "B",
+      "event_id": "B|spohn2019|block|L5466|S388,423",
+      "independence": "coalesced structural event per A6.3"
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "mutation_type": "large_deletion 7615 bp @ 388,423",
+      "tier": "B",
+      "event_id": "B|spohn2019|block|L7615|S388,423",
+      "independence": "coalesced structural event per A6.3"
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5+PR39",
+      "line": "BAC5_10+BAC5_3+BAC5_5+PR39_1+PR39_10+PR39_7",
+      "mutation_type": "large_deletion 8821 bp @ 388,423",
+      "tier": "B",
+      "event_id": "B|spohn2019|block|L8821|S388,423",
+      "independence": "coalesced structural event per A6.3"
+    }
+  ],
+  "spohn_block_count": 6,
+  "all_recurrent_genes": [
+    {
+      "gene": "sbmA",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 5,
+      "mutation_types": [
+        "large_deletion",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 3,
+      "tierB_lines": 8,
+      "direct_events": 3,
+      "block_events": 3,
+      "n_studies": 2,
+      "studies": [
+        "bac7_2023",
+        "spohn2019"
+      ],
+      "strict_cross_study": true
+    },
+    {
+      "gene": "sbmA",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 3,
+      "tierB_lines": 8,
+      "direct_events": 3,
+      "block_events": 3,
+      "n_studies": 2,
+      "studies": [
+        "bac7_2023",
+        "spohn2019"
+      ],
+      "strict_cross_study": true
+    },
+    {
+      "gene": "sbmA",
+      "study": "bac7_2023",
+      "amp": "Bac7(1-22)",
+      "n_lines": 2,
+      "mutation_types": [
+        "insertion (IC3-like element, 1.4 kb)",
+        "single nucleotide polymorphism"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 3,
+      "tierB_lines": 8,
+      "direct_events": 3,
+      "block_events": 3,
+      "n_studies": 2,
+      "studies": [
+        "bac7_2023",
+        "spohn2019"
+      ],
+      "strict_cross_study": true
+    },
+    {
+      "gene": "sspB",
+      "study": "blanco2020",
+      "amp": "PR-39",
+      "n_lines": 6,
+      "mutation_types": [
+        "Del 5 nt",
+        "Ins 1 nt",
+        "SNP"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 6,
+      "tierB_lines": 0,
+      "direct_events": 6,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "blanco2020"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "ampH",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 8,
+      "direct_events": 0,
+      "block_events": 3,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "ampH",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 8,
+      "direct_events": 0,
+      "block_events": 3,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "argF",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "basS",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 4,
+      "mutation_types": [
+        "SNPs",
+        "insertion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 9,
+      "tierB_lines": 0,
+      "direct_events": 9,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insA",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insB1",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insX",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagA",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagB",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagE",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagF",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagG",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagH",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagI",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yaiT",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 8,
+      "direct_events": 0,
+      "block_events": 3,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yaiT",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 8,
+      "direct_events": 0,
+      "block_events": 3,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yaiV",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 8,
+      "direct_events": 0,
+      "block_events": 3,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yaiV",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 8,
+      "direct_events": 0,
+      "block_events": 3,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yaiW",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 7,
+      "direct_events": 0,
+      "block_events": 2,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yaiY",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 7,
+      "direct_events": 0,
+      "block_events": 2,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yaiZ",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 7,
+      "direct_events": 0,
+      "block_events": 2,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yejK",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 4,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 6,
+      "tierB_lines": 0,
+      "direct_events": 2,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yejL",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 4,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 6,
+      "tierB_lines": 0,
+      "direct_events": 2,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "ykgS",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "basR",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 3,
+      "mutation_types": [
+        "SNPs"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 4,
+      "tierB_lines": 0,
+      "direct_events": 3,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "ddlA",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 6,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "ddlA",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 6,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "iraP",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 6,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "iraP",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 6,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "lptC",
+      "study": "spohn2019",
+      "amp": "LL37",
+      "n_lines": 3,
+      "mutation_types": [
+        "SNPs",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 4,
+      "tierB_lines": 0,
+      "direct_events": 4,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "macA",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 3,
+      "mutation_types": [
+        "SNPs",
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 4,
+      "tierB_lines": 0,
+      "direct_events": 5,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "mraW",
+      "study": "blanco2020",
+      "amp": "LL-37",
+      "n_lines": 3,
+      "mutation_types": [
+        "Del 11 nt",
+        "Del 23 nt"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 3,
+      "tierB_lines": 0,
+      "direct_events": 3,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "blanco2020"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "pitA",
+      "study": "spohn2019",
+      "amp": "LL37",
+      "n_lines": 3,
+      "mutation_types": [
+        "insertion",
+        "large_deletion",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 4,
+      "tierB_lines": 2,
+      "direct_events": 4,
+      "block_events": 2,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "waaY",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 3,
+      "mutation_types": [
+        "insertion",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 8,
+      "tierB_lines": 0,
+      "direct_events": 6,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "wzzE",
+      "study": "spohn2019",
+      "amp": "LL37",
+      "n_lines": 3,
+      "mutation_types": [
+        "SNPs",
+        "insertion",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 3,
+      "tierB_lines": 0,
+      "direct_events": 3,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yaiW",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 7,
+      "direct_events": 0,
+      "block_events": 2,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yaiY",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 7,
+      "direct_events": 0,
+      "block_events": 2,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yaiZ",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 7,
+      "direct_events": 0,
+      "block_events": 2,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "aceE",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 2,
+      "mutation_types": [
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 2,
+      "tierB_lines": 0,
+      "direct_events": 2,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "argF",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "argF",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "argF",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "basS",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 9,
+      "tierB_lines": 0,
+      "direct_events": 9,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "basS",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 9,
+      "tierB_lines": 0,
+      "direct_events": 9,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "dcuC",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 2,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 2,
+      "tierB_lines": 0,
+      "direct_events": 2,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insA",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insA",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insA",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insB1",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insB1",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insB1",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insX",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insX",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "insX",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "pagP",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 2,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 2,
+      "tierB_lines": 0,
+      "direct_events": 2,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "pitA",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 4,
+      "tierB_lines": 2,
+      "direct_events": 4,
+      "block_events": 2,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "skp",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 2,
+      "tierB_lines": 0,
+      "direct_events": 2,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "waaY",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 8,
+      "tierB_lines": 0,
+      "direct_events": 6,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "waaY",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 8,
+      "tierB_lines": 0,
+      "direct_events": 6,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "wecA",
+      "study": "spohn2019",
+      "amp": "LL37",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 2,
+      "tierB_lines": 0,
+      "direct_events": 2,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagA",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagA",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagA",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagB",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagB",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagB",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagE",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagE",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagE",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagF",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagF",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagF",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagG",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagG",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagG",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagH",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagH",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagH",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagI",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagI",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yagI",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "ybjX",
+      "study": "spohn2019",
+      "amp": "PR39",
+      "n_lines": 2,
+      "mutation_types": [
+        "intergenic mutation",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 4,
+      "tierB_lines": 0,
+      "direct_events": 4,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "ybjX",
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs",
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 4,
+      "tierB_lines": 0,
+      "direct_events": 4,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yejK",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 6,
+      "tierB_lines": 0,
+      "direct_events": 2,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yejL",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 6,
+      "tierB_lines": 0,
+      "direct_events": 2,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "yejM",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false,
+      "tierA_lines": 2,
+      "tierB_lines": 0,
+      "direct_events": 1,
+      "block_events": 0,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "ykgS",
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "ykgS",
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    },
+    {
+      "gene": "ykgS",
+      "study": "spohn2019",
+      "amp": "PEX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true,
+      "tierA_lines": 0,
+      "tierB_lines": 11,
+      "direct_events": 0,
+      "block_events": 1,
+      "n_studies": 1,
+      "studies": [
+        "spohn2019"
+      ],
+      "strict_cross_study": false
+    }
+  ]
+}
