@@ -1,0 +1,113 @@
+{
+ "lock_commit": "7d0699e67224f60e38d8052f12500c4055277f60",
+ "n_lines": 60,
+ "S_sbmA_deletion_lines": [
+  "BAC5_10",
+  "BAC5_3",
+  "BAC5_5",
+  "BAC5_7",
+  "PR39_1",
+  "PR39_10",
+  "PR39_2",
+  "PR39_7"
+ ],
+ "W_waaY_lines": [
+  "BAC5_10",
+  "BAC5_3",
+  "BAC5_7",
+  "CAP18_8",
+  "HBD3_10",
+  "HBD3_3",
+  "PR39_1",
+  "PR39_2"
+ ],
+ "B_basS_lines": [
+  "CAP18_10",
+  "CAP18_2",
+  "CAP18_5",
+  "CAP18_6",
+  "HBD3_3",
+  "PEX_4",
+  "PEX_7",
+  "PR39_1",
+  "PR39_2"
+ ],
+ "W_and_S": {
+  "observed": 5,
+  "overlap_lines": [
+   "BAC5_10",
+   "BAC5_3",
+   "BAC5_7",
+   "PR39_1",
+   "PR39_2"
+  ],
+  "hypergeometric_p": 0.0004983720047821309,
+  "amp_stratified_null_mean": 1.99773,
+  "amp_stratified_p": 0.0046
+ },
+ "B_and_S": {
+  "observed": 2,
+  "overlap_lines": [
+   "PR39_1",
+   "PR39_2"
+  ],
+  "hypergeometric_p": 0.34388912945794436,
+  "amp_stratified_null_mean": 0.80191,
+  "amp_stratified_p": 0.13518
+ },
+ "W_and_B": {
+  "observed": 3,
+  "overlap_lines": [
+   "HBD3_3",
+   "PR39_1",
+   "PR39_2"
+  ],
+  "hypergeometric_p": 0.09049458635204702,
+  "amp_stratified_null_mean": 0.99702,
+  "amp_stratified_p": 0.0402
+ },
+ "per_amp": {
+  "BAC5": {
+   "S": 4,
+   "W": 3,
+   "B": 0
+  },
+  "CAP18": {
+   "S": 0,
+   "W": 1,
+   "B": 4
+  },
+  "HBD3": {
+   "S": 0,
+   "W": 2,
+   "B": 1
+  },
+  "PEX": {
+   "S": 0,
+   "W": 0,
+   "B": 2
+  },
+  "PR39": {
+   "S": 4,
+   "W": 2,
+   "B": 2
+  }
+ },
+ "waaY_types_in_S_lines": {
+  "PR39_1": [
+   "short_deletion"
+  ],
+  "BAC5_10": [
+   "short_deletion"
+  ],
+  "BAC5_3": [
+   "insertion"
+  ],
+  "BAC5_7": [
+   "insertion"
+  ],
+  "PR39_2": [
+   "SNPs"
+  ]
+ }
+}
