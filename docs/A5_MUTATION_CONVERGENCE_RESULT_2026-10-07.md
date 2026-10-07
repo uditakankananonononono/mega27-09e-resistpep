@@ -1,4 +1,28 @@
 # A5 cross-study mutation convergence result
+
+## JUDGE-DRIVEN AMENDMENT 2026-10-07 (judge round 1; docs/JUDGE_ROUND_A5_CHATGPT_2026-10-07.md)
+The original text below is preserved unchanged; this amendment records the
+claim-strength ruling and is the rule-8 fold-back of the judge's critique.
+- Adopted headline wording: "Parallel recurrence of sbmA disruption across
+  independent proline-rich antimicrobial peptide evolution experiments."
+  The judge ruled "convergence" an OVERCLAIM at current evidence; "recurrence"
+  and "parallel recurrence" are the accepted formulations.
+- Framing correction: positive evidence is TWO independent E. coli studies
+  (Spohn 2019, Bac7 2023). Blanco 2020 (S. maltophilia) is a negative/
+  contrastive observation, not a third confirmation; ">=2 of 3 studies" must
+  not be read as three independent confirmations.
+- Evidence tiers adopted: Tier A direct disruption (point mutation, IS
+  insertion, small/local deletion) vs Tier B large-deletion membership only.
+  Spohn PR39 (5/10, includes direct short deletions) and Bac7 (2/3, IS + point
+  mutation) carry direct-disruption evidence; Spohn BAC5 (4/10) is Tier B only.
+- Judge verdict: valid descriptive observation; the novel component is the
+  cross-study synthesis, not SbmA biology itself. Most serious weakness:
+  mutation opportunity and independence of mutational events.
+- Upgrade path: prereg addendum A6 locks the judge's minimum computable
+  upgrades (strict Tier-A recurrence, event-independence classification,
+  all-recurrent-genes comparison). Orthology resolution and a
+  mutation-opportunity null require external references and are deferred to
+  the queued annotation unit.
 Locked at 429b2ce3207bb4d022ed5fc0c2fdb84a3deade00 before reading Spohn
 MOESM9 values. Blanco/Bac7 gene exposure disclosed in the lock.
 
