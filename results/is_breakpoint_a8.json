@@ -1,0 +1,127 @@
+{
+ "lock_commit": "d60c91633498123605e05ecab3230559475e1440",
+ "n_distinct_breakpoints": 9,
+ "n_IS_features": 48,
+ "IS_bp_covered": 51159,
+ "primary_W200": {
+  "observed": 4,
+  "null_mean": 0.13137,
+  "p_ge": 0.0,
+  "reps": 100000
+ },
+ "sensitivity": {
+  "50": {
+   "observed": 4,
+   "null_mean": 0.10385,
+   "p_ge": 0.0,
+   "reps": 20000
+  },
+  "500": {
+   "observed": 4,
+   "null_mean": 0.17945,
+   "p_ge": 0.0,
+   "reps": 20000
+  },
+  "1000": {
+   "observed": 4,
+   "null_mean": 0.2601,
+   "p_ge": 0.0001,
+   "reps": 20000
+  }
+ },
+ "table": [
+  {
+   "pos": 275642,
+   "blocks": [
+    "start of 11471bp@275642"
+   ],
+   "nearest_IS": "insertion sequence:IS1B",
+   "dist_IS": 1,
+   "nearest_transposase_CDS": "IS30 transposase;IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related",
+   "dist_transposase": 0
+  },
+  {
+   "pos": 287112,
+   "blocks": [
+    "end of 11471bp@275642"
+   ],
+   "nearest_IS": "insertion sequence:IS1C",
+   "dist_IS": 0,
+   "nearest_transposase_CDS": "IS1 repressor TnpA",
+   "dist_transposase": 55
+  },
+  {
+   "pos": 388423,
+   "blocks": [
+    "start of 5466bp@388423",
+    "start of 7615bp@388423",
+    "start of 8821bp@388423"
+   ],
+   "nearest_IS": "insertion sequence:IS3B",
+   "dist_IS": 1,
+   "nearest_transposase_CDS": "IS3 transposase A",
+   "dist_transposase": 66
+  },
+  {
+   "pos": 393888,
+   "blocks": [
+    "end of 5466bp@388423"
+   ],
+   "nearest_IS": "insertion sequence:IS3B",
+   "dist_IS": 5466,
+   "nearest_transposase_CDS": "IS3 transposase A",
+   "dist_transposase": 5531
+  },
+  {
+   "pos": 396037,
+   "blocks": [
+    "end of 7615bp@388423"
+   ],
+   "nearest_IS": "insertion sequence:IS3B",
+   "dist_IS": 7615,
+   "nearest_transposase_CDS": "IS3 transposase A",
+   "dist_transposase": 7680
+  },
+  {
+   "pos": 397243,
+   "blocks": [
+    "end of 8821bp@388423"
+   ],
+   "nearest_IS": "insertion sequence:IS3B",
+   "dist_IS": 8821,
+   "nearest_transposase_CDS": "IS3 transposase A",
+   "dist_transposase": 8886
+  },
+  {
+   "pos": 3624595,
+   "blocks": [
+    "start of 20801bp@3624595"
+   ],
+   "nearest_IS": "insertion sequence:IS5T",
+   "dist_IS": 20801,
+   "nearest_transposase_CDS": "putative transposase",
+   "dist_transposase": 5721
+  },
+  {
+   "pos": 3629456,
+   "blocks": [
+    "start of 15940bp@3629456"
+   ],
+   "nearest_IS": "insertion sequence:IS5T",
+   "dist_IS": 15940,
+   "nearest_transposase_CDS": "putative transposase",
+   "dist_transposase": 10582
+  },
+  {
+   "pos": 3645395,
+   "blocks": [
+    "end of 15940bp@3629456",
+    "end of 20801bp@3624595"
+   ],
+   "nearest_IS": "insertion sequence:IS5T",
+   "dist_IS": 1,
+   "nearest_transposase_CDS": "IS5 transposase and trans-activator",
+   "dist_transposase": 147
+  }
+ ]
+}
