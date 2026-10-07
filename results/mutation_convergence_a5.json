@@ -1,0 +1,4255 @@
+{
+  "prereg": "A5",
+  "records": [
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "insX",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yagB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yagA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yagE",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yagF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yagG",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yagH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yagI",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "argF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "ykgS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "insB1",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "insA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "insX",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yagB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yagA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yagE",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yagF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yagG",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yagH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yagI",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "argF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "ykgS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "insB1",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "insA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "insX",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yagB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yagA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yagE",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yagF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yagG",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yagH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yagI",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "argF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "ykgS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "insB1",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "insA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "insX",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yagB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yagA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yagE",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yagF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yagG",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yagH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yagI",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "argF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "ykgS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "insB1",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "insA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "insX",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "yagB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "yagA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "yagE",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "yagF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "yagG",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "yagH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "yagI",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "argF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "ykgS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "insB1",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "insA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "insX",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "yagB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "yagA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "yagE",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "yagF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "yagG",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "yagH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "yagI",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "argF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "ykgS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "insB1",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "insA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "insX",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "yagB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "yagA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "yagE",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "yagF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "yagG",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "yagH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "yagI",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "argF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "ykgS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "insB1",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "insA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "insX",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "yagB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "yagA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "yagE",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "yagF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "yagG",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "yagH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "yagI",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "argF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "ykgS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "insB1",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "insA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "insX",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "yagB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "yagA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "yagE",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "yagF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "yagG",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "yagH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "yagI",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "argF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "ykgS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "insB1",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "insA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "insX",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "yagB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "yagA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "yagE",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "yagF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "yagG",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "yagH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "yagI",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "argF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "ykgS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "insB1",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "insA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "insX",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "yagB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "yagA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "yagE",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "yagF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "yagG",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "yagH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "yagI",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "argF",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "ykgS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "insB1",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "insA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "gene": "yaiT",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "gene": "yaiV",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "gene": "ampH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "gene": "sbmA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yaiT",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yaiV",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "ampH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "sbmA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yaiW",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yaiY",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "yaiZ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yaiT",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yaiV",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "ampH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "sbmA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yaiW",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yaiY",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yaiZ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "ddlA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "iraP",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yaiT",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yaiV",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "ampH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "sbmA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yaiW",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yaiY",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "yaiZ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "ddlA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "iraP",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yaiT",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yaiV",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "ampH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "sbmA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yaiW",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yaiY",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "yaiZ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "ddlA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "iraP",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "yaiT",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "yaiV",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "ampH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "sbmA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "yaiW",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "yaiY",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "yaiZ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "ddlA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "iraP",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "yaiT",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "yaiV",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "ampH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "sbmA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "yaiW",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "yaiY",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "yaiZ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "ddlA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "iraP",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "yaiT",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "yaiV",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "ampH",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "sbmA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "yaiW",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "yaiY",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "yaiZ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "ddlA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "iraP",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yhiN",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "pitA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "uspB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "uspA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "dtpB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "rsmJ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "prlC",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "rlmJ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "gor",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "dinQ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "arsR",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "arsB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "arsC",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "yhiS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "yhiL",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "yhiL",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "yhiM",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "yhiN",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "pitA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "uspB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "uspA",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "dtpB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "rsmJ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "prlC",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "rlmJ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "gor",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "dinQ",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "arsR",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "arsB",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "arsC",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "yhiS",
+      "mutation_type": "large_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "aceE",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_5",
+      "gene": "aceE",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_5",
+      "gene": "asmA",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_3",
+      "gene": "lptC",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_7",
+      "gene": "lptC",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "lpxC",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_4",
+      "gene": "mlaA",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_1",
+      "gene": "mlaC",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "mlaD",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_7",
+      "gene": "mlaF",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_10",
+      "gene": "pitA",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_6",
+      "gene": "pitA",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "rcsF",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_10",
+      "gene": "rffG",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_1",
+      "gene": "rpoS",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "sbmA",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "topA",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "waaY",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "waaY",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "wecA",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_3",
+      "gene": "wzzE",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "ybjX",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "ybjX",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_10",
+      "gene": "yejM",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_6",
+      "gene": "yejM",
+      "mutation_type": "short_deletion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_10",
+      "gene": "basS",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "deaD",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_10",
+      "gene": "gmhB",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_3",
+      "gene": "pitA",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "tnaB",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "waaG",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "waaY",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "waaY",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "waaY",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "wcaE",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "wecC",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_10",
+      "gene": "wzzE",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_4",
+      "gene": "ydhY",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_6",
+      "gene": "yebS",
+      "mutation_type": "insertion"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_7",
+      "gene": "hisG",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_1",
+      "gene": "lptC",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_10",
+      "gene": "lptC",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_6",
+      "gene": "lptG",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "mlaB",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "mlaE",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_10",
+      "gene": "mlaE",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "ptsP",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_6",
+      "gene": "wzzE",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_10",
+      "gene": "waaY",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "waaY",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "ddpA",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "pepP",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "skp",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "yafO",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_10",
+      "gene": "basR",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_6",
+      "gene": "basR",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "basR",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "basR",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "basS",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_5",
+      "gene": "basS",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_6",
+      "gene": "basS",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "basS",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_4",
+      "gene": "basS",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_7",
+      "gene": "basS",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "basS",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "gene": "basS",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "cvrA",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "glpX",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_7",
+      "gene": "glyA",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "hscA",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "lptD",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_6",
+      "gene": "lptG",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "macA",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "gene": "macA",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "macA",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "modB",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_3",
+      "gene": "nirB",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "paaZ",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_5",
+      "gene": "pitA",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "rplV",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_10",
+      "gene": "rpoC",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "skp",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_6",
+      "gene": "tldD",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "topA",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_1",
+      "gene": "trkH",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_10",
+      "gene": "tyrB",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "gene": "waaY",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_1",
+      "gene": "wecA",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "ybiH",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "ybjX",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_8",
+      "gene": "yciM",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_7",
+      "gene": "yeaI",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "yeaY",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_7",
+      "gene": "yebT",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_4",
+      "gene": "yebT",
+      "mutation_type": "SNPs"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_1",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_1",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_4",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_4",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "ybjX",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "macA",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_8",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_1",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_1",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_4",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_4",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "pyrE",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "rph",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "dcuC",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_10",
+      "gene": "pagP",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "dcuC",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_3",
+      "gene": "pagP",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "ybjX",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "BAC5",
+      "line": "BAC5_7",
+      "gene": "macA",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_6",
+      "gene": "yeiR",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_6",
+      "gene": "lpxT",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "CAP18",
+      "line": "CAP18_2",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_5",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "yejK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_6",
+      "gene": "yejL",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_1",
+      "gene": "fepA",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_1",
+      "gene": "fes",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "ravA",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_5",
+      "gene": "kup",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_6",
+      "gene": "yeiR",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "LL37",
+      "line": "LL37_6",
+      "gene": "lpxT",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_6",
+      "gene": "yneO",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_6",
+      "gene": "lsrK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_1",
+      "gene": "ydjA",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_1",
+      "gene": "sppA",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "ybjX",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "macA",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "yecE",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "yecN",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "gene": "yigE",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "gene": "corA",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_1",
+      "gene": "ydjA",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PEX",
+      "line": "PEX_1",
+      "gene": "sppA",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "yecE",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_10",
+      "gene": "yecN",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "gene": "yigE",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "PR39",
+      "line": "PR39_2",
+      "gene": "corA",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_6",
+      "gene": "yneO",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "spohn2019",
+      "organism": "E. coli BW25113",
+      "amp": "HBD3",
+      "line": "HBD3_6",
+      "gene": "lsrK",
+      "mutation_type": "intergenic mutation"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "No AMP",
+      "line": "DA61861",
+      "gene": "smd_0007",
+      "mutation_type": "SNP",
+      "scope": "control",
+      "source_annotation": ""
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "No AMP",
+      "line": "DA61862",
+      "gene": "smd_3461",
+      "mutation_type": "Del 6 nt",
+      "scope": "control",
+      "source_annotation": ""
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "No AMP",
+      "line": "DA61863",
+      "gene": "smd_2831",
+      "mutation_type": "SNP",
+      "scope": "control",
+      "source_annotation": ""
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "LL-37",
+      "line": "DA61754",
+      "gene": "btuE2",
+      "mutation_type": "SNP",
+      "scope": "evolved",
+      "source_annotation": "Unknown"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "LL-37",
+      "line": "DA61758",
+      "gene": "mraW",
+      "mutation_type": "Del 23 nt",
+      "scope": "evolved",
+      "source_annotation": "Modification of the expression of resistance-related genes through 16S rRNA methylation"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "LL-37",
+      "line": "DA61759",
+      "gene": "mraW",
+      "mutation_type": "Del 23 nt",
+      "scope": "evolved",
+      "source_annotation": "Modification of the expression of resistance-related genes through 16S rRNA methylation"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "LL-37",
+      "line": "DA61764",
+      "gene": "smd_0947",
+      "mutation_type": "Del 4 nt",
+      "scope": "evolved",
+      "source_annotation": "Unknown"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "LL-37",
+      "line": "DA61765",
+      "gene": "mraW",
+      "mutation_type": "Del 11 nt",
+      "scope": "evolved",
+      "source_annotation": "Modification of the expression of resistance-related genes through 16S rRNA methylation"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "LL-37",
+      "line": "DA61770",
+      "gene": "hydG",
+      "mutation_type": "SNP",
+      "scope": "evolved",
+      "source_annotation": "Regulation of the type IV pilus protein PilA and alteration of membrane permeability"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "LL-37",
+      "line": "DA61771",
+      "gene": "smd_0512",
+      "mutation_type": "SNP",
+      "scope": "evolved",
+      "source_annotation": "Unknown"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "LL-37",
+      "line": "DA61776",
+      "gene": "smd_1285",
+      "mutation_type": "Del 1 nt",
+      "scope": "evolved",
+      "source_annotation": "Unknown"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "PR-39",
+      "line": "DA62005",
+      "gene": "sspB",
+      "mutation_type": "SNP",
+      "scope": "evolved",
+      "source_annotation": "Regulation of proteases that might inactivate PR-39"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "PR-39",
+      "line": "DA61990",
+      "gene": "sspB",
+      "mutation_type": "SNP",
+      "scope": "evolved",
+      "source_annotation": "Regulation of proteases that might inactivate PR-39"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "PR-39",
+      "line": "DA62006",
+      "gene": "sspB",
+      "mutation_type": "Ins 1 nt",
+      "scope": "evolved",
+      "source_annotation": "Regulation of proteases that might inactivate PR-39"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "PR-39",
+      "line": "DA61991",
+      "gene": "sspB",
+      "mutation_type": "SNP",
+      "scope": "evolved",
+      "source_annotation": "Regulation of proteases that might inactivate PR-39"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "PR-39",
+      "line": "DA61992",
+      "gene": "sspB",
+      "mutation_type": "SNP",
+      "scope": "evolved",
+      "source_annotation": "Regulation of proteases that might inactivate PR-39"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "PR-39",
+      "line": "DA61993",
+      "gene": "sspB",
+      "mutation_type": "Del 5 nt",
+      "scope": "evolved",
+      "source_annotation": "Regulation of proteases that might inactivate PR-39"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "PR-39",
+      "line": "DA61994",
+      "gene": "smd_1828",
+      "mutation_type": "SNP",
+      "scope": "evolved",
+      "source_annotation": "Potential extrusion of PR-39"
+    },
+    {
+      "study": "blanco2020",
+      "organism": "S. maltophilia D457",
+      "amp": "PR-39",
+      "line": "DA61995",
+      "gene": "sdhA",
+      "mutation_type": "SNP",
+      "scope": "evolved",
+      "source_annotation": "Proper functioning of the ETC"
+    },
+    {
+      "study": "bac7_2023",
+      "organism": "E. coli MDR 1057",
+      "amp": "Bac7(1-22)",
+      "line": "B1",
+      "gene": "sbmA",
+      "mutation_type": "insertion (IC3-like element, 1.4 kb)",
+      "scope": "evolved",
+      "source_annotation": "cytoplasmic membrane transporter"
+    },
+    {
+      "study": "bac7_2023",
+      "organism": "E. coli MDR 1057",
+      "amp": "Bac7(1-22)",
+      "line": "B2",
+      "gene": "sbmA",
+      "mutation_type": "single nucleotide polymorphism",
+      "scope": "evolved",
+      "source_annotation": "cytoplasmic membrane transporter"
+    },
+    {
+      "study": "bac7_2023",
+      "organism": "E. coli MDR 1057",
+      "amp": "Bac7(1-22)",
+      "line": "B3",
+      "gene": "waaP",
+      "mutation_type": "single nucleotide polymorphism",
+      "scope": "evolved",
+      "source_annotation": "heptose specific lipopolysaccharide (LPS) core kinase"
+    }
+  ],
+  "counts": {
+    "total_records": 405,
+    "spohn_evolved": 383,
+    "blanco_evolved": 16,
+    "blanco_control_excluded": 3,
+    "bac7_evolved": 3
+  },
+  "within_study_recurrence": [
+    {
+      "study": "blanco2020",
+      "amp": "PR-39",
+      "gene": "sspB",
+      "n_lines": 6,
+      "mutation_types": [
+        "Del 5 nt",
+        "Ins 1 nt",
+        "SNP"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "sbmA",
+      "n_lines": 5,
+      "mutation_types": [
+        "large_deletion",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "ampH",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "ampH",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "argF",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "basS",
+      "n_lines": 4,
+      "mutation_types": [
+        "SNPs",
+        "insertion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "insA",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "insB1",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "insX",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "sbmA",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yagA",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yagB",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yagE",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yagF",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yagG",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yagH",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yagI",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "yaiT",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yaiT",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "yaiV",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yaiV",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yaiW",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yaiY",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "yaiZ",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "yejK",
+      "n_lines": 4,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "yejL",
+      "n_lines": 4,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "ykgS",
+      "n_lines": 4,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "basR",
+      "n_lines": 3,
+      "mutation_types": [
+        "SNPs"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "ddlA",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "ddlA",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "iraP",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "iraP",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "LL37",
+      "gene": "lptC",
+      "n_lines": 3,
+      "mutation_types": [
+        "SNPs",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "macA",
+      "n_lines": 3,
+      "mutation_types": [
+        "SNPs",
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "blanco2020",
+      "amp": "LL-37",
+      "gene": "mraW",
+      "n_lines": 3,
+      "mutation_types": [
+        "Del 11 nt",
+        "Del 23 nt"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "LL37",
+      "gene": "pitA",
+      "n_lines": 3,
+      "mutation_types": [
+        "insertion",
+        "large_deletion",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "waaY",
+      "n_lines": 3,
+      "mutation_types": [
+        "insertion",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "LL37",
+      "gene": "wzzE",
+      "n_lines": 3,
+      "mutation_types": [
+        "SNPs",
+        "insertion",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "yaiW",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "yaiY",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "yaiZ",
+      "n_lines": 3,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "aceE",
+      "n_lines": 2,
+      "mutation_types": [
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "argF",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "argF",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "argF",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "basS",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "basS",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "dcuC",
+      "n_lines": 2,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "insA",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "insA",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "insA",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "insB1",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "insB1",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "insB1",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "insX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "insX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "insX",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "pagP",
+      "n_lines": 2,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "pitA",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "bac7_2023",
+      "amp": "Bac7(1-22)",
+      "gene": "sbmA",
+      "n_lines": 2,
+      "mutation_types": [
+        "insertion (IC3-like element, 1.4 kb)",
+        "single nucleotide polymorphism"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "skp",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "waaY",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "waaY",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "LL37",
+      "gene": "wecA",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "yagA",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "yagA",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "yagA",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "yagB",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "yagB",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "yagB",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "yagE",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "yagE",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "yagE",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "yagF",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "yagF",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "yagF",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "yagG",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "yagG",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "yagG",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "yagH",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "yagH",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "yagH",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "yagI",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "yagI",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "yagI",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PR39",
+      "gene": "ybjX",
+      "n_lines": 2,
+      "mutation_types": [
+        "intergenic mutation",
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "BAC5",
+      "gene": "ybjX",
+      "n_lines": 2,
+      "mutation_types": [
+        "SNPs",
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "yejK",
+      "n_lines": 2,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "yejL",
+      "n_lines": 2,
+      "mutation_types": [
+        "intergenic mutation"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "yejM",
+      "n_lines": 2,
+      "mutation_types": [
+        "short_deletion"
+      ],
+      "driven_by_large_deletion": false
+    },
+    {
+      "study": "spohn2019",
+      "amp": "CAP18",
+      "gene": "ykgS",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "HBD3",
+      "gene": "ykgS",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    },
+    {
+      "study": "spohn2019",
+      "amp": "PEX",
+      "gene": "ykgS",
+      "n_lines": 2,
+      "mutation_types": [
+        "large_deletion"
+      ],
+      "driven_by_large_deletion": true
+    }
+  ],
+  "cross_study_exact_matches": [
+    {
+      "gene": "sbma",
+      "studies": [
+        "bac7_2023",
+        "spohn2019"
+      ]
+    }
+  ]
+}
