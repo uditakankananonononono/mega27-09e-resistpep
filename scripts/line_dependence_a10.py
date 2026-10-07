@@ -17,7 +17,7 @@ def tierA(g):
     return {r['line'] for r in evo if r['gene'].lower()==g and a6.tier(r['mutation_type'])=='A'}
 W=tierA('waay'); B=tierA('bass')
 # all 120 lines (some lines may have no records)
-allines=sorted({f"{r['amp']}_{i}" for r in evo for i in range(1,11)}|set(lines))
+allines=sorted({r['line'] for r in evo if r['study']=='spohn2019'}|S|W|B)  # corrected: sequenced lines per Spohn Suppl. Data 5 (38 lines; 28 adopted-AMP)
 L=len(allines)
 def hyper(k,a,b,n=L):
     return sum(comb(a,i)*comb(n-a,b-i) for i in range(k,min(a,b)+1))/comb(n,b)
