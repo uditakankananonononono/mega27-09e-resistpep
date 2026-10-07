@@ -1,0 +1,103 @@
+{
+ "lock_commit": "35256e19567241f303cc3ab615f6931490e38fbb",
+ "orthology_descriptive": {
+  "waaY": {
+   "sal": "P26472",
+   "eco": "P27240",
+   "len_sal": 232,
+   "len_eco": 232,
+   "identities": 162,
+   "identity_over_longer": 0.6982758620689655,
+   "identity_over_alignment": 0.6982758620689655,
+   "ortholog_by_rule": true
+  },
+  "phoP": {
+   "sal": "P0DM78",
+   "eco": "P23836",
+   "len_sal": 224,
+   "len_eco": 223,
+   "identities": 208,
+   "identity_over_longer": 0.9285714285714286,
+   "identity_over_alignment": 0.9285714285714286,
+   "ortholog_by_rule": true
+  }
+ },
+ "n_spohn_tierA_mapped_events": 121,
+ "unmapped": 10,
+ "observed_T": 1,
+ "null_T_mean": 0.04098,
+ "p_T_ge_obs": 0.04061,
+ "per_gene_null_hit_prob": {
+  "waay": 0.020981922684403242,
+  "phop": 0.020179628648378523,
+  "bass": 0.032586268715128375
+ },
+ "descriptive_spohn_hits": {
+  "waay": {
+   "n_events": 8,
+   "lines": [
+    "BAC5_10",
+    "BAC5_3",
+    "BAC5_7",
+    "CAP18_8",
+    "HBD3_10",
+    "HBD3_3",
+    "PR39_1",
+    "PR39_2"
+   ],
+   "types": [
+    "SNPs",
+    "insertion",
+    "short_deletion"
+   ]
+  },
+  "phop": {
+   "n_events": 0,
+   "lines": [],
+   "types": []
+  },
+  "bass": {
+   "n_events": 9,
+   "lines": [
+    "CAP18_10",
+    "CAP18_2",
+    "CAP18_5",
+    "CAP18_6",
+    "HBD3_3",
+    "PEX_4",
+    "PEX_7",
+    "PR39_1",
+    "PR39_2"
+   ],
+   "types": [
+    "SNPs",
+    "insertion"
+   ]
+  },
+  "pmrb": {
+   "n_events": 0,
+   "lines": [],
+   "types": []
+  },
+  "pmra": {
+   "n_events": 0,
+   "lines": [],
+   "types": []
+  },
+  "phoq": {
+   "n_events": 0,
+   "lines": [],
+   "types": []
+  },
+  "waap": {
+   "n_events": 0,
+   "lines": [],
+   "types": []
+  },
+  "waaz": {
+   "n_events": 0,
+   "lines": [],
+   "types": []
+  }
+ }
+}
