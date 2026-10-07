@@ -336,3 +336,6 @@ families (Dryad/Figshare/Zenodo + citation graph of all pinned cores) are
 now exhausted at this screening depth; further yield likely requires the
 queued pathway/annotation unit's external references rather than more
 deposit queries.
+
+## Pass 7 (2026-10-07): RPM paper PMC11218975 supplement check
+All data = Zenodo 10.5281/zenodo.11209304, already pinned (zenodo11209304_underlying_figures.xlsx, _pharmacodynamics.xlsx). Supplement S2 Fig (WGS heat map) is a DOCX figure, no machine-readable lineage x gene matrix. Machine-readable: Fig S8-S12 give per-strain presence of 5 genes (tpbB, oprL, lasR, wbp genes, phoQ) vs MIC for 6 AMPs, 42 strains. Organism is P. aeruginosa PA14, no sbmA-like locus tested, so it adds no power to the E. coli sbmA question. Possible use: a 5-gene genotype-to-MIC association test (needs a new prereg; low novelty: the paper already ran GLMMs, S2 Table). Verdict: no new eligible lineage dataset. Not pursued.
