@@ -1,0 +1,451 @@
+{
+  "prereg": "A4",
+  "source": "PMC7529437 Table 1",
+  "pdf_xml_verified_rows": 29,
+  "controls_reported": 4,
+  "unreported_controls_imputed": 0,
+  "treatments": [
+    {
+      "drug": "LL-37",
+      "sequence": "LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES",
+      "chemistry": "terminal modification not explicitly specified",
+      "control_rows": [
+        {
+          "population": "DA61805",
+          "raw_mic": "100"
+        },
+        {
+          "population": "DA61806",
+          "raw_mic": "100"
+        },
+        {
+          "population": "DA61807",
+          "raw_mic": "100"
+        },
+        {
+          "population": "DA61808",
+          "raw_mic": "100"
+        }
+      ],
+      "control_median_mic": 100.0,
+      "ancestor_mic": 100.0,
+      "populations": [
+        {
+          "population": "DA61715",
+          "raw_mic": ">200",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 200.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 1.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 1.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61716",
+          "raw_mic": ">200",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 200.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 1.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 1.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61717",
+          "raw_mic": ">200",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 200.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 1.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 1.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61718",
+          "raw_mic": "200",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 200.0,
+            "upper": 200.0,
+            "lower_open": false,
+            "upper_open": false
+          },
+          "net_log2_interval": {
+            "lower": 1.0,
+            "upper": 1.0,
+            "lower_open": false,
+            "upper_open": false
+          },
+          "ancestor_log2_interval": {
+            "lower": 1.0,
+            "upper": 1.0,
+            "lower_open": false,
+            "upper_open": false
+          }
+        },
+        {
+          "population": "DA61719",
+          "raw_mic": ">200",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 200.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 1.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 1.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61720",
+          "raw_mic": ">200",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 200.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 1.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 1.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61721",
+          "raw_mic": "200",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 200.0,
+            "upper": 200.0,
+            "lower_open": false,
+            "upper_open": false
+          },
+          "net_log2_interval": {
+            "lower": 1.0,
+            "upper": 1.0,
+            "lower_open": false,
+            "upper_open": false
+          },
+          "ancestor_log2_interval": {
+            "lower": 1.0,
+            "upper": 1.0,
+            "lower_open": false,
+            "upper_open": false
+          }
+        },
+        {
+          "population": "DA61722",
+          "raw_mic": "200",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 200.0,
+            "upper": 200.0,
+            "lower_open": false,
+            "upper_open": false
+          },
+          "net_log2_interval": {
+            "lower": 1.0,
+            "upper": 1.0,
+            "lower_open": false,
+            "upper_open": false
+          },
+          "ancestor_log2_interval": {
+            "lower": 1.0,
+            "upper": 1.0,
+            "lower_open": false,
+            "upper_open": false
+          }
+        }
+      ],
+      "median_net_log2_interval": {
+        "lower": 1.0,
+        "upper": null,
+        "lower_open": true,
+        "upper_open": true
+      },
+      "Spohn_A3_point": 4.3502,
+      "Spohn_point_in_interval": true,
+      "descriptive_order": "not_ordered",
+      "comparison_caveat": "Different species/media; Spohn chemistry not adjudicated; A3 point rounded to 4 decimals"
+    },
+    {
+      "drug": "PR-39",
+      "sequence": "RRRPRPPYLPRPRPPPFFPPRLPPRIPPGFPPRFPPRFP",
+      "chemistry": "C-terminal amidated",
+      "control_rows": [
+        {
+          "population": "DA61805",
+          "raw_mic": "7.5"
+        },
+        {
+          "population": "DA61806",
+          "raw_mic": "7.5"
+        },
+        {
+          "population": "DA61807",
+          "raw_mic": "7.5"
+        },
+        {
+          "population": "DA61808",
+          "raw_mic": "7.5"
+        }
+      ],
+      "control_median_mic": 7.5,
+      "ancestor_mic": 7.5,
+      "populations": [
+        {
+          "population": "DA61723",
+          "raw_mic": ">60",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 60.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61724",
+          "raw_mic": ">60",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 60.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61725",
+          "raw_mic": ">60",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 60.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61726",
+          "raw_mic": ">60",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 60.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61727",
+          "raw_mic": ">60",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 60.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61728",
+          "raw_mic": ">60",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 60.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61729",
+          "raw_mic": ">60",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 60.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        },
+        {
+          "population": "DA61730",
+          "raw_mic": ">60",
+          "unit": "mg/liter",
+          "mic_interval": {
+            "lower": 60.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "net_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          },
+          "ancestor_log2_interval": {
+            "lower": 3.0,
+            "upper": null,
+            "lower_open": true,
+            "upper_open": true
+          }
+        }
+      ],
+      "median_net_log2_interval": {
+        "lower": 3.0,
+        "upper": null,
+        "lower_open": true,
+        "upper_open": true
+      },
+      "Spohn_A3_point": 1.2925,
+      "Spohn_point_in_interval": false,
+      "descriptive_order": "Blanco_median_above_Spohn_point",
+      "comparison_caveat": "Different species/media; Spohn chemistry not adjudicated; A3 point rounded to 4 decimals"
+    }
+  ]
+}
