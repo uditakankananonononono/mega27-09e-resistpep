@@ -1,0 +1,49 @@
+{
+ "lock_commit": "9e50efd7569b3e9e2ef95e4294cf826d03560f88",
+ "n_events_by_study": {
+  "spohn2019": 121,
+  "blanco2020": 7,
+  "bac7_2023": 3
+ },
+ "unmapped_records": {
+  "spohn2019|yejM": 2,
+  "spohn2019|yebS": 1,
+  "spohn2019|ybiH": 1,
+  "spohn2019|yciM": 1,
+  "spohn2019|yeaI": 1,
+  "spohn2019|yebT": 2,
+  "spohn2019|yneO": 2,
+  "blanco2020|btuE2": 1,
+  "blanco2020|mraW": 3,
+  "blanco2020|smd_0947": 1,
+  "blanco2020|hydG": 1,
+  "blanco2020|smd_0512": 1,
+  "blanco2020|smd_1285": 1,
+  "blanco2020|smd_1828": 1
+ },
+ "observed_S1": 1,
+ "observed_genes_ge2_studies": [
+  "sbma"
+ ],
+ "null_S1_mean": 0.40521,
+ "null_S1_quantiles": {
+  "0.5": 0.0,
+  "0.95": 2.0,
+  "0.99": 2.0
+ },
+ "p_S1": 0.33945,
+ "p_sbmA_specific_descriptive": 0.00011,
+ "sbmA_len": 1221,
+ "universe_n": 4290,
+ "reps": 100000,
+ "post_lock_sensitivity_ecoli_only": {
+  "n_events_by_study": {
+   "bac7_2023": 3,
+   "spohn2019": 121
+  },
+  "observed_S1": 1,
+  "null_S1_mean": 0.12021,
+  "p_S1": 0.11571,
+  "p_sbmA_specific_descriptive": 5e-05
+ }
+}
