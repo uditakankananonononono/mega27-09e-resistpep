@@ -1,0 +1,56 @@
+{
+ "lock_commit": "36fe1c224923b90fa04bcdf0220a92969bf55d98",
+ "n_cds": 4324,
+ "lines": 5,
+ "events_mapped": 5,
+ "unmapped": [
+  [
+   "DA61754",
+   "btuE2"
+  ],
+  [
+   "DA61758",
+   "mraW"
+  ],
+  [
+   "DA61759",
+   "mraW"
+  ],
+  [
+   "DA61765",
+   "mraW"
+  ],
+  [
+   "DA61770",
+   "hydG"
+  ],
+  [
+   "DA62005",
+   "sspB"
+  ],
+  [
+   "DA61990",
+   "sspB"
+  ],
+  [
+   "DA62006",
+   "sspB"
+  ],
+  [
+   "DA61991",
+   "sspB"
+  ],
+  [
+   "DA61992",
+   "sspB"
+  ],
+  [
+   "DA61993",
+   "sspB"
+  ]
+ ],
+ "T_obs": 0,
+ "contrib": {},
+ "null_mean": 0.0,
+ "p": 1.0
+}
