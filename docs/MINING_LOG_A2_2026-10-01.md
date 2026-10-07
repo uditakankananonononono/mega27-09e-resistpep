@@ -339,3 +339,13 @@ deposit queries.
 
 ## Pass 7 (2026-10-07): RPM paper PMC11218975 supplement check
 All data = Zenodo 10.5281/zenodo.11209304, already pinned (zenodo11209304_underlying_figures.xlsx, _pharmacodynamics.xlsx). Supplement S2 Fig (WGS heat map) is a DOCX figure, no machine-readable lineage x gene matrix. Machine-readable: Fig S8-S12 give per-strain presence of 5 genes (tpbB, oprL, lasR, wbp genes, phoQ) vs MIC for 6 AMPs, 42 strains. Organism is P. aeruginosa PA14, no sbmA-like locus tested, so it adds no power to the E. coli sbmA question. Possible use: a 5-gene genotype-to-MIC association test (needs a new prereg; low novelty: the paper already ran GLMMs, S2 Table). Verdict: no new eligible lineage dataset. Not pursued.
+
+## Pass 8 (2026-10-07): wider E. coli/Enterobacterales AMP experimental-evolution search
+Query families: BioProject/PRJNA text, polymyxin/colistin lineage WGS, bioRxiv collateral-sensitivity, sbmA/phoQ/lpxM passage, proline-rich AMP (apidaecin/oncocin) evolution. Sources: web_search results, fetched pages. Admission checklist recorded BEFORE any values were read.
+- PRJNA555839 (Spohn 2019 WGS reads): already our adopted base. Not new.
+- Mechanisms/Fitness costs of resistance to LL-37, CNY100HL, wheat germ histones (Lofton et al., PLOS One 2013, doi 10.1371/journal.pone.0068875; Salmonella Typhimurium LT2). Accession PRJNA203730 / SRP023134. License: PLOS open access (CC BY per journal policy; not individually verified). Untouched by us: yes. Lineages: 18 passaged, only FOUR resistant clones sequenced, one a hypermutator (>80 mutations). Mutations named in text include waaY (del bp17 FS), pmrB R13H, phoP D23N (three reconstituted). Verdict: PARTIAL. Not a lineage-level matrix; n=4; different species (gene-name matching across species would need an orthology rule, cf. A7 item (ii) unresolved). Possible use: descriptive cross-species check of waaY/pmrB/phoP against our ledger, needs its own prereg; tiny n.
+- Kerek 2026, Sci Rep s41598-026-56362-3 (E. coli ATCC 25922, colistin, MEGA-plate): 5 endpoint representatives, two coding-variant genes, no canonical lipid A locus variants; colistin is a lipopeptide antibiotic outside our AMP-peptide scope; no lineage matrix. REJECT (scope, n).
+- Antibiotics 2024, 13, 452 (colistin, P. aeruginosa, 3 lineages): wrong species/class. REJECT.
+- eLife 78834 (colistin evolution, pathogenic E. coli): page blocked by client challenge, not read; colistin scope issue as above. UNVERIFIED, not admitted.
+- Others surfaced and already known/ineligible: Dobson 2013, Yu 2025 mSystems (PMC11915801), Maron 2025, Bac7 2023.
+Net: zero new fully eligible lineage-level E. coli datasets. Next per parent: option (c), a new analysis class on existing data.
