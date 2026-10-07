@@ -1,0 +1,809 @@
+1. Int J Food Microbiol. 2022 Nov 16;381:109905. doi: 
+10.1016/j.ijfoodmicro.2022.109905. Epub 2022 Aug 29.
+
+Co-culture with Acinetobacter johnsonii enhances benzalkonium chloride 
+resistance in Salmonella enterica via triggering lipid A modifications.
+
+Wilson A(1), Fegan N(2), Turner MS(3).
+
+Author information:
+(1)School of Agriculture and Food Sciences, University of Queensland, St Lucia, 
+Queensland 4072, Australia; CSIRO Agriculture and Food, 39 Kessels Rd, Coopers 
+Plains, Queensland 4108, Australia.
+(2)CSIRO Agriculture and Food, 39 Kessels Rd, Coopers Plains, Queensland 4108, 
+Australia.
+(3)School of Agriculture and Food Sciences, University of Queensland, St Lucia, 
+Queensland 4072, Australia. Electronic address: m.turner2@uq.edu.au.
+
+Salmonella enterica is one of the leading causes of foodborne gastroenteritis 
+worldwide. In the food production environment, many bacterial species co-exist 
+on surfaces in biofilm structures, which can act as reservoirs of microbial 
+contamination of food products. Polymicrobial biofilms have been shown to have 
+greater tolerance to antimicrobials, such as disinfectants, however the 
+mechanistic basis of this is poorly understood. In this study, S. enterica 
+subsp. enterica serovar Liverpool was co-cultured in mixed-species biofilms with 
+bacteria isolated from the food production environment and challenged with the 
+cationic biocide disinfectant, benzalkonium chloride (BC). Co-culture with the 
+common environmental bacterium Acinetobacter johnsonii resulted in >200-fold 
+higher resistance of S. Liverpool to BC, compared to mono-culture biofilms. The 
+transcriptional response of S. enterica to biofilm co-culture was determined 
+using a dual RNA-seq strategy. Genes controlled by the PhoPQ and PmrAB 
+two-component systems, involved in lipid A modification and associated with 
+cationic antimicrobial peptide resistance (CAMP) of S. Liverpool, were 
+significantly upregulated. Deletion of either the phoP or pmrA genes resulted in 
+an increase in susceptibility to BC, suggesting that activation of their 
+regulons during co-culture enhances BC resistance. S. Liverpool lipid A profiles 
+changed significantly upon co-culturing, with greater incorporation of both 
+phosphoethanolamine and palmitate, which was dependent upon activation of PhoPQ 
+and PmrAB. We conclude that when grown in the presence of A. johnsonii, S. 
+Liverpool increases its tolerance to cationic BC disinfection by remodelling its 
+cell envelope including reducing the net negative charge of lipid A and 
+increasing lipid A acyl density.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijfoodmicro.2022.109905
+PMID: 36095868 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest None.
+
+
+2. Microb Drug Resist. 2020 Oct;26(10):1163-1173. doi: 10.1089/mdr.2019.0412.
+Epub  2020 May 5.
+
+Regulatory Role of the Two-Component System BasSR in the Expression of the EmrD 
+Multidrug Efflux in Escherichia coli.
+
+Yu L(1), Li W(1), Xue M(2), Li J(1), Chen X(1), Ni J(1), Shang F(1), Xue T(1).
+
+Author information:
+(1)School of Life Sciences, Anhui Agricultural University, Hefei, China.
+(2)Anhui Province Key Laboratory of Veterinary Pathobiology and Disease Control, 
+Hefei, China.
+
+Due to excessive use of antimicrobial agents in the treatment of infectious 
+diseases, bacteria have developed resistance to antibacterial drugs and toxic 
+compounds. The development of multidrug efflux pumps is one of the important 
+mechanisms of bacterial drug resistance. A multidrug efflux pump, EmrD, 
+belonging to the major facilitator superfamily of transporters, confers 
+resistance to many antimicrobial agents. BasSR, a typical two-component signal 
+transduction system (TCS), regulates susceptibility to the cationic 
+antimicrobial peptide, polymyxin B, and the anionic bile detergent, deoxycholic 
+acid, in Escherichia coli. However, whether or not the BasSR TCS affects 
+susceptibility or resistance to other antimicrobial agents and transcription of 
+emrD has not been reported in E. coli. In the present study, we constructed the 
+basSR mutants of wild-type MG1655 and clinical strain APECX40 and performed 
+antimicrobial susceptibility testing, antibacterial activity assays, real-time 
+reverse transcription-PCR experiments and electrophoretic mobility shift assays 
+(EMSA) to investigate the molecular mechanism by which BasSR regulates the EmrD 
+multidrug efflux pump. Results showed that the basSR mutation increased cell 
+susceptibility to eight antimicrobial agents, including ciprofloxacin, 
+norfloxacin, doxycycline, tetracycline, clindamycin, lincomycin, erythromycin, 
+and sodium dodecyl sulfate, by downregulating the transcriptional levels of 
+emrD. Furthermore, EMSA indicated that BasR could directly bind to the emrD 
+promoter. Therefore, this study was the first to demonstrate that BasSR 
+activates transcription of emrD by binding directly to its promoter region, and 
+then decreases susceptibility to various antimicrobial agents in E. coli 
+strains, APECX40 and MG1655.
+
+DOI: 10.1089/mdr.2019.0412
+PMID: 32379525 [Indexed for MEDLINE]
+
+
+3. PLoS One. 2013 Jul 23;8(7):e68875. doi: 10.1371/journal.pone.0068875. Print 
+2013.
+
+Mechanisms and fitness costs of resistance to antimicrobial peptides LL-37, 
+CNY100HL and wheat germ histones.
+
+Lofton H(1), Pränting M, Thulin E, Andersson DI.
+
+Author information:
+(1)Department of Medical Biochemistry and Microbiology, Uppsala University, 
+Uppsala, Sweden.
+
+Antimicrobial peptides (AMPs) represent a potential new class of antimicrobial 
+drugs with potent and broad-spectrum activities. However, knowledge about the 
+mechanisms and rates of resistance development to AMPs and the resulting effects 
+on fitness and cross-resistance is limited. We isolated antimicrobial peptide 
+(AMP) resistant Salmonella typhimurium LT2 mutants by serially passaging several 
+independent bacterial lineages in progressively increasing concentrations of 
+LL-37, CNY100HL and Wheat Germ Histones. Significant AMP resistance developed in 
+15/18 independent bacterial lineages. Resistance mutations were identified by 
+whole genome sequencing in two-component signal transduction systems (pmrB and 
+phoP) as well as in the LPS core biosynthesis pathway (waaY, also designated 
+rfaY). In most cases, resistance was associated with a reduced fitness, observed 
+as a decreased growth rate, which was dependent on growth conditions and 
+mutation type. Importantly, mutations in waaY decreased bacterial susceptibility 
+to all tested AMPs and the mutant outcompeted the wild type parental strain at 
+AMP concentrations below the MIC for the wild type. Our data suggests that 
+resistance to antimicrobial peptides can develop rapidly through mechanisms that 
+confer cross-resistance to several AMPs. Importantly, AMP-resistant mutants can 
+have a competitive advantage over the wild type strain at AMP concentrations 
+similar to those found near human epithelial cells. These results suggest that 
+resistant mutants could both be selected de novo and maintained by exposure to 
+our own natural repertoire of defence molecules.
+
+DOI: 10.1371/journal.pone.0068875
+PMCID: PMC3720879
+PMID: 23894360 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+4. PLoS One. 2012;7(11):e49588. doi: 10.1371/journal.pone.0049588. Epub 2012 Nov 
+15.
+
+An altered immune response, but not individual cationic antimicrobial peptides, 
+is associated with the oral attenuation of Ara4N-deficient Salmonella enterica 
+serovar Typhimurium in mice.
+
+Strandberg KL(1), Richards SM, Tamayo R, Reeves LT, Gunn JS.
+
+Author information:
+(1)Center for Microbial Interface Biology, The Ohio State University, Columbus, 
+Ohio, United States of America.
+
+Salmonella enterica serovar Typhimurium (S. Typhimurium) uses two-component 
+regulatory systems (TCRS) to respond to stimuli in the local microenvironment. 
+Upon infection, the Salmonella TCRSs PhoP-PhoQ (PhoPQ) and PmrA-PmrB (PmrAB) are 
+activated by environmental signals in the intestinal lumen and within host 
+cells. TCRS-mediated gene expression results in lipopolysaccharide (LPS) 
+modification and cationic antimicrobial peptide resistance. The PmrA-regulated 
+pmrHFIJKLM operon mediates 4-amino-4-deoxy-L-arabinose (Ara4N) production and 
+attachment to the lipid A of LPS. A ΔpmrF S. Typhimurium strain cannot produce 
+Ara4N, exhibits increased sensitivity to cationic antimicrobial peptide 
+(CAMP)-mediated killing, and attenuated virulence in mice upon oral infection. 
+CAMPs are predicted to play a role in elimination of Salmonella, and may 
+activate PhoPQ and PmrAB in vivo, which could increase bacterial resistance to 
+host defenses. Competition experiments between wild type (WT) and ΔpmrF mutant 
+strains of S. Typhimurium indicated that selection against this mutant first 
+occurs within the intestinal lumen early during infection. However, CRAMP and 
+active cryptdins alone are not responsible for elimination of Ara4N-deficient 
+bacteria in vivo. Investigation into the early immune response to ΔpmrF showed 
+that it differed slightly from the early immune response to WT S. Typhimurium. 
+Further investigation into the early immune response to infection of Peyer's 
+patches suggests a role for IL-13 in the attenution of the ΔpmrF mutant strain. 
+Thus, prominent CAMPs present in the mouse intestine are not responsible for the 
+selection against the ΔpmrF strain in this location, but limited alterations in 
+innate immune induction were observed that affect bacterial survival and 
+virulence.
+
+DOI: 10.1371/journal.pone.0049588
+PMCID: PMC3499468
+PMID: 23166721 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+5. Infect Immun. 2012 Nov;80(11):3930-8. doi: 10.1128/IAI.00672-12. Epub 2012 Aug
+ 27.
+
+Cathelicidin antimicrobial peptide expression is not induced or required for 
+bacterial clearance during salmonella enterica infection of human 
+monocyte-derived macrophages.
+
+Strandberg KL(1), Richards SM, Gunn JS.
+
+Author information:
+(1)Microbial Infection and Immunity, Center for Microbial Interface Biology, The 
+Ohio State University, Columbus, Ohio, USA.
+
+Salmonella enterica serovar Typhimurium is able to resist antimicrobial peptide 
+killing by induction of the PhoP-PhoQ and PmrA-PmrB two-component systems and 
+the lipopolysaccharide (LPS) modifications they mediate. Murine cathelin-related 
+antimicrobial peptide (CRAMP) has been reported to inhibit S. Typhimurium growth 
+in vitro and in vivo. We hypothesize that infection of human monocyte-derived 
+macrophages (MDMs) with Salmonella enterica serovar Typhi and S. Typhimurium 
+will induce human cathelicidin antimicrobial peptide (CAMP) production, and 
+exposure to LL-37 (processed, active form of CAMP/hCAP18) will lead to 
+upregulation of PmrAB-mediated LPS modifications and increased survival in vivo. 
+Unlike in mouse macrophages, in which CRAMP is upregulated during infection, 
+camp gene expression was not induced in human MDMs infected with S. Typhi or S. 
+Typhimurium. Upon infection, intracellular levels of ΔphoPQ, ΔpmrAB, and PhoP(c) 
+S. Typhi decreased over time but were not further inhibited by the vitamin 
+D(3)-induced increase in camp expression. MDMs infected with wild-type (WT) S. 
+Typhi or S. Typhimurium released similar levels of proinflammatory cytokines; 
+however, the LPS modification mutant strains dramatically differed in 
+MDM-elicited cytokine levels. Overall, these findings indicate that camp is not 
+induced during Salmonella infection of MDMs nor is key to Salmonella 
+intracellular clearance. However, the cytokine responses from MDMs infected with 
+WT or LPS modification mutant strains differ significantly, indicating a role 
+for LPS modifications in altering the host inflammatory response. Our findings 
+also suggest that S. Typhi and S. Typhimurium elicit different proinflammatory 
+responses from MDMs, despite being capable of adding similar modifications to 
+their LPS structures.
+
+DOI: 10.1128/IAI.00672-12
+PMCID: PMC3486046
+PMID: 22927052 [Indexed for MEDLINE]
+
+
+6. J Bacteriol. 2010 Apr;192(8):2140-9. doi: 10.1128/JB.00016-10. Epub 2010 Feb
+12.
+
+Protecting against antimicrobial effectors in the phagosome allows SodCII to 
+contribute to virulence in Salmonella enterica serovar Typhimurium.
+
+Kim B(1), Richards SM, Gunn JS, Slauch JM.
+
+Author information:
+(1)Department of Microbiology, University of Illinois, B103 Chemical and Life 
+Sciences Laboratory, 601 S. Goodwin Ave., Urbana, IL 61801, USA.
+
+Salmonella enterica serovar Typhimurium replicates in macrophages, where it is 
+subjected to antimicrobial substances, including superoxide, antimicrobial 
+peptides, and proteases. The bacterium produces two periplasmic superoxide 
+dismutases, SodCI and SodCII. Although both are expressed during infection, only 
+SodCI contributes to virulence in the mouse by combating phagocytic superoxide. 
+The differential contribution to virulence is at least partially due to inherent 
+differences in the SodCI and SodCII proteins that are independent of enzymatic 
+activity. SodCII is protease sensitive, and like other periplasmic proteins, it 
+is released by osmotic shock. In contrast, SodCI is protease resistant and is 
+retained within the periplasm after osmotic shock, a phenomenon that we term 
+"tethering." We hypothesize that in the macrophage, antimicrobial peptides 
+transiently disrupt the outer membrane. SodCII is released and/or phagocytic 
+proteases gain access to the periplasm, and SodCII is degraded. SodCI is 
+tethered within the periplasm and is protease resistant, thereby remaining to 
+combat superoxide. Here we test aspects of this model. SodCII was released by 
+the antimicrobial peptide polymyxin B or a mouse macrophage antimicrobial 
+peptide (CRAMP), while SodCI remained tethered within the periplasm. A 
+Salmonella pmrA constitutive mutant no longer released SodCII in vitro. 
+Moreover, in the constitutive pmrA background, SodCII could contribute to 
+survival of Salmonella during infection. SodCII also provided a virulence 
+benefit in mice genetically defective in production of CRAMP. Thus, consistent 
+with our model, protecting the outer membrane against antimicrobial peptides 
+allows SodCII to contribute to virulence in vivo. These data also suggest direct 
+in vivo cooperative interactions between macrophage antimicrobial effectors.
+
+DOI: 10.1128/JB.00016-10
+PMCID: PMC2849443
+PMID: 20154132 [Indexed for MEDLINE]
+
+
+7. FEMS Microbiol Lett. 2009 Feb;291(1):73-9. doi: 
+10.1111/j.1574-6968.2008.01437.x. Epub 2008 Dec 3.
+
+Downregulation of RpoN-controlled genes protects Salmonella cells from killing 
+by the cationic antimicrobial peptide polymyxin B.
+
+Barchiesi J(1), Espariz M, Checa SK, Soncini FC.
+
+Author information:
+(1)Departamento de Microbiología, Instituto de Biología Molecular y Celular de 
+Rosario, Consejo Nacional de Investigaciones Científicas y Técnicas, Facultad de 
+Ciencias Bioquímicas y Farmacéuticas, Universidad Nacional de Rosario, Rosario, 
+Argentina.
+
+Salmonella enterica polymyxin B (PM) resistance is modulated mainly by 
+substitutions of the acyl chains and the phosphate groups on the lipid A moiety 
+of lipopolysaccharide. These modifications are mediated by genes under the 
+control of the PmrA/PmrB and PhoP/PhoQ two-component regulatory systems. In this 
+study, a deletion in the gene encoding the alternative sigma(54) factor, rpoN, 
+was shown to increase PM resistance without affecting protamine sensitivity. The 
+results presented here showed that the increased polymyxin resistance observed 
+in the DeltarpoN mutant occurs through a PmrA/PhoP-independent pathway. 
+Downregulation of one or more genes belonging to the RpoN regulon may provide an 
+additional mechanism of defence against membrane-permeabilizing antimicrobial 
+peptides that helps the pathogen to survive in different environments.
+
+DOI: 10.1111/j.1574-6968.2008.01437.x
+PMID: 19076233 [Indexed for MEDLINE]
+
+
+8. J Bacteriol. 2007 Jul;189(13):4911-9. doi: 10.1128/JB.00451-07. Epub 2007 May
+4.
+
+Release of the lipopolysaccharide deacylase PagL from latency compensates for a 
+lack of lipopolysaccharide aminoarabinose modification-dependent resistance to 
+the antimicrobial peptide polymyxin B in Salmonella enterica.
+
+Kawasaki K(1), China K, Nishijima M.
+
+Author information:
+(1)Faculty of Pharmaceutical Sciences, Doshisha Women's College, Kodo, 
+Kyotanabe, Kyoto 610-0395, Japan. kkawasak@dwc.doshisha.ac.jp
+
+Salmonella enterica modifies its lipopolysaccharide (LPS), including the lipid A 
+portion, to adapt to its environments. The lipid A 3-O-deacylase PagL exhibits 
+latency; deacylation of lipid A is not usually observed in vivo despite the 
+expression of PagL, which is under the control of a two-component regulatory 
+system, PhoP-PhoQ. In contrast, PagL is released from latency in pmrA and pmrE 
+mutants, both of which are deficient in aminoarabinose-modified lipid A, 
+although the biological significance of this is not clear. The attachment of 
+aminoarabinose to lipid A decreases the net anionic charge at the membrane's 
+surface and reduces electrostatic repulsion between neighboring LPS molecules, 
+leading to increases in bacterial resistance to cationic antimicrobial peptides, 
+including polymyxin B. Here we examined the effects of the release of PagL from 
+latency on resistance to polymyxin B. The pmrA pagL and pmrE pagL double mutants 
+were more susceptible to polymyxin B than were the parental pmrA and pmrE 
+mutants, respectively. Furthermore, introduction of the PagL expression plasmid 
+into the pmrA pagL double mutant increased the resistance to polymyxin B. In 
+addition, PagL-dependent deacylation of lipid A was observed in a mutant in 
+which lipid A could not be modified with phosphoethanolamine, which partly 
+contributes to the PmrA-dependent resistance to polymyxin B. These results, 
+taken together, suggest that the release of PagL from latency compensates for 
+the loss of resistance to polymyxin B that is due to a lack of other 
+modifications to LPS.
+
+DOI: 10.1128/JB.00451-07
+PMCID: PMC1913436
+PMID: 17483225 [Indexed for MEDLINE]
+
+
+9. Infect Immun. 2007 Jul;75(7):3305-14. doi: 10.1128/IAI.00351-07. Epub 2007 Apr
+ 23.
+
+Identification of an orphan response regulator required for the virulence of 
+Francisella spp. and transcription of pathogenicity island genes.
+
+Mohapatra NP(1), Soni S, Bell BL, Warren R, Ernst RK, Muszynski A, Carlson RW, 
+Gunn JS.
+
+Author information:
+(1)Center for Microbial Interface Biology, Department of Molecular Biology, 
+Immunology and Medical Genetics, The Ohio State University, 460 W. 12th Avenue, 
+Columbus, OH 43210-1214, USA.
+
+Francisella tularensis is a category A agent of biowarfare/biodefense. Little is 
+known about the regulation of virulence gene expression in Francisella spp. 
+Comparatively few regulatory factors exist in Francisella, including those 
+belonging to two-component systems (TCS). However, orphan members of typical TCS 
+can be identified. To determine if orphan TCS members affect Francisella gene 
+expression, a gene encoding a product with high similarity to the Salmonella 
+PmrA response regulator (FTT1557c/FNU0663.2) was deleted in Francisella novicida 
+(a model organism for F. tularensis). The F. novicida pmrA mutant was defective 
+in survival/growth within human and murine macrophage cell lines and was 100% 
+defective in virulence in mice at a dose of up to 10(8) CFU. In addition, the 
+mutant strain demonstrated increased susceptibility to antimicrobial peptide 
+killing, but no differences were observed between the lipid A of the mutant and 
+the parental strain, as has been observed with pmrA mutants of other microbes. 
+The F. novicida pmrA mutant was 100% protective as a single-dose vaccine when 
+challenge was with 10(6) CFU of F. novicida but did not protect against type A 
+Schu S4 wild-type challenge. DNA microarray analysis identified 65 genes 
+regulated by PmrA. The majority of these genes were located in the region 
+surrounding pmrA or within the Francisella pathogenicity island (FPI). These FPI 
+genes are also regulated by MglA, but MglA does not regulate pmrA, nor does PmrA 
+regulate MglA. Thus, the orphan response regulator PmrA is an important factor 
+in controlling virulence in F. novicida, and a pmrA mutant strain is an 
+effective vaccine against homologous challenge.
+
+DOI: 10.1128/IAI.00351-07
+PMCID: PMC1932945
+PMID: 17452468 [Indexed for MEDLINE]
+
+
+10. J Biol Chem. 2005 Aug 5;280(31):28186-94. doi: 10.1074/jbc.M505020200. Epub
+2005  Jun 10.
+
+Resistance to the antimicrobial peptide polymyxin requires myristoylation of 
+Escherichia coli and Salmonella typhimurium lipid A.
+
+Tran AX(1), Lester ME, Stead CM, Raetz CR, Maskell DJ, McGrath SC, Cotter RJ, 
+Trent MS.
+
+Author information:
+(1)Department of Microbiology, J. H. Quillen College of Medicine, Johnson City, 
+Tennessee 37614, USA.
+
+Attachment of positively charged, amine-containing residues such as 
+4-amino-4-deoxy-l-arabinose (l-Ara4N) and phosphoethanolamine (pEtN) to 
+Escherichia coli and Salmonella typhimurium lipid A is required for resistance 
+to the cationic antimicrobial peptide, polymyxin. In an attempt to discover 
+additional lipid A modifications important for polymyxin resistance, we 
+generated polymyxin-sensitive mutants of an E. coli pmrA(C) strain, WD101. A 
+subset of polymyxin-sensitive mutants produced a lipid A that lacked both the 
+3'-acyloxyacyl-linked myristate (C(14)) and l-Ara4N, even though the necessary 
+enzymatic machinery required to synthesize l-Ara4N-modified lipid A was present. 
+Inactivation of lpxM in both E. coli and S. typhimurium resulted in the loss of 
+l-Ara4N addition, as well as, increased sensitivity to polymyxin. However, 
+decoration of the lipid A phosphate groups with pEtN residues was not effected 
+in lpxM mutants. In summary, we demonstrate that attachment of l-Ara4N to the 
+phosphate groups of lipid A and the subsequent resistance to polymyxin is 
+dependent upon the presence of the secondary linked myristoyl group.
+
+DOI: 10.1074/jbc.M505020200
+PMID: 15951433 [Indexed for MEDLINE]
+
+
+11. J Biol Chem. 2005 Apr 15;280(15):14765-72. doi: 10.1074/jbc.M413900200. Epub 
+2005 Feb 14.
+
+Transcriptional regulation of the 4-amino-4-deoxy-L-arabinose biosynthetic genes 
+in Yersinia pestis.
+
+Winfield MD(1), Latifi T, Groisman EA.
+
+Author information:
+(1)Department of Molecular Microbiology, Howard Hughes Medical Institute, 
+Washington University School of Medicine, St. Louis, Missouri 63110, USA.
+
+Inducible membrane remodeling is an adaptive mechanism that enables 
+Gram-negative bacteria to resist killing by cationic antimicrobial peptides and 
+to avoid eliciting an immune response. Addition of 4-amino-4-deoxy-l -arabinose 
+(4-aminoarabinose) moieties to the phosphate residues of the lipid A portion of 
+the lipopolysaccharide decreases the net negative charge of the bacterial 
+membrane resulting in protection from the cationic antimicrobial peptide 
+polymyxin B. In Salmonella enterica serovar Typhimurium, the PmrA/PmrB 
+two-component regulatory system governs resistance to polymyxin B by controlling 
+transcription of the 4-aminoarabinose biosynthetic genes. Transcription of 
+PmrA-activated genes is induced by Fe(3+), which is sensed by PmrA cognate 
+sensor PmrB, and by low Mg(2+), in a mechanism that requires not only the PmrA 
+and PmrB proteins but also the Mg(2+)-responding PhoP/PhoQ system and the 
+PhoP-activated PmrD protein, a post-translational activator of the PmrA protein. 
+Surprisingly, Yersinia pestis can promote PhoP-dependent modification of its 
+lipid A with 4-aminoarabinose despite lacking a PmrD protein. Here we report 
+that Yersinia uses different promoters to transcribe the 4-aminoarabinose 
+biosynthetic genes pbgP and ugd depending on the inducing signal. This is 
+accomplished by the presence of distinct binding sites for the PmrA and PhoP 
+proteins in the promoters of the pbgP and ugd genes. Our results demonstrate 
+that closely related bacterial species may use disparate regulatory pathways to 
+control genes encoding conserved proteins.
+
+DOI: 10.1074/jbc.M413900200
+PMID: 15710615 [Indexed for MEDLINE]
+
+
+12. Infect Immun. 2000 Nov;68(11):6139-46. doi: 10.1128/IAI.68.11.6139-6146.2000.
+
+Genetic and functional analysis of a PmrA-PmrB-regulated locus necessary for 
+lipopolysaccharide modification, antimicrobial peptide resistance, and oral 
+virulence of Salmonella enterica serovar typhimurium.
+
+Gunn JS(1), Ryan SS, Van Velkinburgh JC, Ernst RK, Miller SI.
+
+Author information:
+(1)Department of Microbiology, University of Texas Health Science Center at San 
+Antonio, San Antonio, Texas 78229, USA. gunnj@uthscsa.edu
+
+The two-component regulatory system PmrA-PmrB confers resistance of Salmonella 
+spp. to cationic antimicrobial peptides (AP) such as polymyxin (PM), 
+bactericidal/permeability-increasing protein, and azurocidin. This resistance 
+occurs by transcriptional activation of two loci termed pmrE and pmrHFIJKLM. 
+Both pmrE and pmrHFIJKLM produce products required for the biosynthesis of lipid 
+A with 4-aminoarabinose (Ara4N). Ara4N addition creates a more positively 
+charged lipopolysaccharide (LPS) and thus reduces cationic AP binding. 
+Experiments were conducted to further analyze the regulation of the pmrHFIJKLM 
+operon and the role of this operon and the surrounding genomic region in LPS 
+modification and antimicrobial peptide resistance. The pmrHFIJKLM genes are 
+cotranscribed and over 3,000-fold regulated by PmrA-PmrB. The pmrHFIJKLM 
+promoter bound PmrA, as determined by gel shift analysis, as did a 40-bp region 
+of the PmrA-PmrB-regulated pmrCAB promoter. Construction of nonpolar mutations 
+in the pmrHFIJKLM genes showed that all except pmrM were necessary for the Ara4N 
+addition to lipid A and PM resistance. The flanking genes of the operon (pmrG 
+and pmrD) were not necessary for PM resistance, but pmrD was shown to be 
+regulated by the PhoP-PhoQ regulatory system. BALB/c mice inoculated with pmrA 
+and pmrHFIJKLM mutant strains demonstrated virulence attenuation when the 
+strains were administered orally but not when they were administered 
+intraperitoneally, indicating that Ara4N addition may be important for 
+resistance to host innate defenses within intestinal tissues.
+
+DOI: 10.1128/IAI.68.11.6139-6146.2000
+PMCID: PMC97691
+PMID: 11035717 [Indexed for MEDLINE]
+
+
+13. J Bacteriol. 1996 Dec;178(23):6857-64. doi: 10.1128/jb.178.23.6857-6864.1996.
+
+PhoP-PhoQ activates transcription of pmrAB, encoding a two-component regulatory 
+system involved in Salmonella typhimurium antimicrobial peptide resistance.
+
+Gunn JS(1), Miller SI.
+
+Author information:
+(1)University of Washington, Seattle 98195, USA.
+
+Antimicrobial cationic peptides are a host defense mechanism of many animal 
+species including mammals, insects, and amphibians. Salmonella typhimurium is an 
+enteric and intracellular pathogen that interacts with antimicrobial peptides 
+within neutrophil and macrophage phagosomes and at intestinal mucosal surfaces. 
+The Salmonella spp. virulence regulators, PhoP and PhoQ, activate the 
+transcription of genes (pag) within macrophage phagosomes necessary for 
+resistance to cationic antimicrobial peptides. One PhoP-activated gene, pagB, 
+forms an operon with pmrAB (5' pagB-pmrA-pmrB 3'), a two-component regulatory 
+system involved in resistance to the antimicrobial peptides polymyxin, 
+azurocidin (CAP37), bactericidal/permeability-increasing protein (BPI or CAP57), 
+protamine, and polylysine. Expression of pmrAB increased transcription of 
+pagB-pmrAB by activation of a promoter 5' to pagB. pmrAB is also expressed from 
+a second promoter, not regulated by PhoP-PhoQ or PmrA-PmrB, located within the 
+pagB coding sequence. S. typhimurium strains with increased pag locus expression 
+were demonstrated to be polymyxin resistant because of induction of pagB-pmrAB; 
+however, PmrA-PmrB was not responsible for the increased sensitivity of 
+PhoP-null mutants to NP-1 defensin. Therefore, PhoP regulates at least two 
+separate networks of genes responsible for cationic antimicrobial peptide 
+resistance. These data suggest that resistance to the polymyxin-CAP family is 
+controlled by a cascade of regulatory protein expression that activates 
+transcription upon environmental sensing.
+
+DOI: 10.1128/jb.178.23.6857-6864.1996
+PMCID: PMC178586
+PMID: 8955307 [Indexed for MEDLINE]
+
+
+14. Med Drug Discov. 2021 Mar;9:100078. doi: 10.1016/j.medidd.2020.100078. Epub
+2020  Dec 30.
+
+Emerging peptide antibiotics with therapeutic potential.
+
+Upert G(1), Luther A(2), Obrecht D(1), Ermert P(1).
+
+Author information:
+(1)Polyphor Ltd, Hegenheimermattweg 125, 4123 Allschwil, Switzerland.
+(2)Bachem AG, Hauptstrasse 114, 4416 Bubendorf, Switzerland.
+
+This review covers some of the recent progress in the field of peptide 
+antibiotics with a focus on compounds with novel or established mode of action 
+and with demonstrated efficacy in animal infection models. Novel drug discovery 
+approaches, linear and macrocyclic peptide antibiotics, lipopeptides like the 
+polymyxins as well as peptides addressing targets located in the plasma membrane 
+or in the outer membrane of bacterial cells are discussed.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.medidd.2020.100078
+PMCID: PMC7773004
+PMID: 33398258
+
+Conflict of interest statement: Gregory Upert, Daniel Obrecht and Philipp Ermert 
+are employees of Polyphor Ltd. Anatol Luther is an employee of Bachem AG.
+
+
+15. Front Microbiol. 2020 May 13;11:909. doi: 10.3389/fmicb.2020.00909.
+eCollection  2020.
+
+Thanatin Impairs Lipopolysaccharide Transport Complex Assembly by Targeting 
+LptC-LptA Interaction and Decreasing LptA Stability.
+
+Moura ECCM(1), Baeta T(2), Romanelli A(3), Laguri C(2), Martorana AM(1), Erba 
+E(3), Simorre JP(2), Sperandeo P(1), Polissi A(1).
+
+Author information:
+(1)Dipartimento di Scienze Farmacologiche e Biomolecolari, Università degli 
+Studi di Milano, Milan, Italy.
+(2)Université Grenoble Alpes, CNRS, CEA, IBS, Grenoble, France.
+(3)Dipartimento di Scienze Farmaceutiche, Università degli Studi di Milano, 
+Milan, Italy.
+
+The outer membrane (OM) of Gram-negative bacteria is a highly selective 
+permeability barrier due to its asymmetric structure with lipopolysaccharide 
+(LPS) in the outer leaflet. In Escherichia coli, LPS is transported to the cell 
+surface by the LPS transport (Lpt) system composed of seven essential proteins 
+forming a transenvelope bridge. Transport is powered by the ABC transporter 
+LptB2FGC, which extracts LPS from the inner membrane (IM) and transfers it, 
+through LptC protein, to the periplasmic protein LptA. Then, LptA delivers LPS 
+to the OM LptDE translocon for final assembly at the cell surface. The Lpt 
+protein machinery operates as a single device, since depletion of any component 
+leads to the accumulation of a modified LPS decorated with repeating units of 
+colanic acid at the IM outer leaflet. Moreover, correct machine assembly is 
+essential for LPS transit and disruption of the Lpt complex results in LptA 
+degradation. Due to its vital role in cell physiology, the Lpt system represents 
+a good target for antimicrobial drugs. Thanatin is a naturally occurring 
+antimicrobial peptide reported to cause defects in membrane assembly and 
+demonstrated in vitro to bind to the N-terminal β-strand of LptA. Since this 
+region is involved in both LptA dimerization and interaction with LptC, we 
+wanted to elucidate the mechanism of inhibition of thanatin and discriminate 
+whether its antibacterial effect is exerted by the disruption of the interaction 
+of LptA with itself or with LptC. For this purpose, we here implemented the 
+Bacterial Adenylate Cyclase Two-Hybrid (BACTH) system to probe in vivo the Lpt 
+interactome in the periplasm. With this system, we found that thanatin targets 
+both LptC-LptA and LptA-LptA interactions, with a greater inhibitory effect on 
+the former. We confirmed in vitro the disruption of LptC-LptA interaction using 
+two different biophysical techniques. Finally, we observed that in cells treated 
+with thanatin, LptA undergoes degradation and LPS decorated with colanic acid 
+accumulates. These data further support inhibition or disruption of Lpt complex 
+assembly as the main killing mechanism of thanatin against Gram-negative 
+bacteria.
+
+Copyright © 2020 Moura, Baeta, Romanelli, Laguri, Martorana, Erba, Simorre, 
+Sperandeo and Polissi.
+
+DOI: 10.3389/fmicb.2020.00909
+PMCID: PMC7237710
+PMID: 32477309
+
+
+16. Infect Immun. 2021 Jan 19;89(2):e00719-20. doi: 10.1128/IAI.00719-20. Print
+2021  Jan 19.
+
+Bile Salts Differentially Enhance Resistance of Enterohemorrhagic Escherichia 
+coli O157:H7 to Host Defense Peptides.
+
+Gadishaw-Lue C(#)(1), Banaag A(#)(1), Birstonas S(#)(1), Francis AS(1), Barnett 
+Foster D(2)(3).
+
+Author information:
+(1)Department of Chemistry and Biology, Ryerson University, Toronto, Ontario, 
+Canada.
+(2)Department of Chemistry and Biology, Ryerson University, Toronto, Ontario, 
+Canada dfoster@ryerson.ca.
+(3)Faculty of Dentistry, University of Toronto, Toronto, Ontario, Canada.
+(#)Contributed equally
+
+During passage through the human gastrointestinal tract, enterohemorrhagic 
+Escherichia coli (EHEC) is exposed to membrane-damaging bile in the small 
+intestine. We previously reported that EHEC treatment with a physiological bile 
+salt mixture upregulates basRS, encoding a two-component system, and arnBCADTEF, 
+encoding the aminoarabinose lipid A modification pathway (J. V. Kus, A. 
+Gebremedhin, V. Dang, S. L. Tran, A. Serbanescu, and D. Barnett Foster, J 
+Bacteriol 193: 4509-4515, 2011, https://doi.org/10.1128/JB.00200-11). The 
+present study examined the effect of bile salt mix (BSM) treatment on EHEC 
+resistance to three human gastrointestinal defense peptides-HD-5, HNP-1, and 
+LL-37-as well as the role of basRS and arnT in the respective responses. After 
+BSM treatment, EHEC resistance to HD-5 and HNP-1 was significantly increased in 
+a BSM-, defensin dose-dependent manner. The resistance phenotype was dependent 
+on both basRS and arnT However, the BSM treatment did not alter EHEC resistance 
+to LL-37, even when the ompT gene, encoding an LL-37 cleavage protease, was 
+disrupted. Interestingly, enteropathogenic E. coli, a related pathogen that 
+infects the small intestine, showed a similar BSM-induced resistance phenotype. 
+Using a model of EHEC infection in Galleria mellonella, we found significantly 
+lower survival rates in wax moth larvae infected with BSM-treated wild-type EHEC 
+than in those infected with a BSM-treated basS mutant, suggesting that treatment 
+with a physiological BSM enhances virulence through a basS-mediated pathway. The 
+results of this investigation provide persuasive evidence that bile salts 
+typically encountered during transit through the small intestine can serve as an 
+environmental cue for EHEC, enhancing resistance to several key host defense 
+peptides.
+
+Copyright © 2021 American Society for Microbiology.
+
+DOI: 10.1128/IAI.00719-20
+PMCID: PMC7822141
+PMID: 33229368 [Indexed for MEDLINE]
+
+
+17. Front Cell Infect Microbiol. 2012 Jul 27;2:102. doi:
+10.3389/fcimb.2012.00102.  eCollection 2012.
+
+Cationic antimicrobial peptides serve as activation signals for the Salmonella 
+Typhimurium PhoPQ and PmrAB regulons in vitro and in vivo.
+
+Richards SM(1), Strandberg KL, Conroy M, Gunn JS.
+
+Author information:
+(1)Department of Microbial Infection and Immunity, Center for Microbial 
+Interface Biology, The Ohio State University, Columbus OH, USA.
+
+Salmonella enterica serovar Typhimurium uses two-component regulatory systems 
+(TCRSs) to respond to environmental stimuli. Upon infection, the TCRSs PhoP-PhoQ 
+(PhoPQ) and PmrA-PmrB (PmrAB) are activated by environmental signals detected in 
+the lumen of the intestine and within host cells. TCRS-mediated gene expression 
+leads to upregulation of genes involved in lipopolysaccharide (LPS) modification 
+and cationic antimicrobial peptide (CAMP) resistance. This research expands on 
+previous studies which have shown that CAMPs can activate Salmonella TCRSs in 
+vitro. The focus of this work was to determine if CAMPs can act as environmental 
+signals for PhoPQ- and PmrAB-mediated gene expression in vitro, during infection 
+of macrophages and in a mouse model of infection. Monitoring of PhoPQ and PmrAB 
+activation using recombinase-based in vivo expression technology (RIVET), 
+alkaline phosphtase and β-galactosidase reporter fusion constructs demonstrated 
+that S. Typhimurium PhoQ can sense CAMPs in vitro. In mouse macrophages, the 
+cathelecidin CRAMP does not activate the PhoPQ regulon. Acidification of the 
+Salmonella-containing vacuole activates PhoP- and PmrA-regulated loci but 
+blocking acidification still does not reveal a role for CRAMP in TCRS activation 
+in mouse macrophages. However, assays performed in susceptible wild type (WT), 
+CRAMP knockout (KO), and matrilysin (a metalloproteinase necessary for 
+activating murine α-defensins) KO mice suggest CRAMP, but not α-defensins, serve 
+as a putative direct TCRS activation signal in the mouse intestine. These 
+studies provide a better understanding of the in vivo environments that result 
+in activation of these virulence-associated TCRSs.
+
+DOI: 10.3389/fcimb.2012.00102
+PMCID: PMC3417628
+PMID: 22919691 [Indexed for MEDLINE]
+
+
+18. J Bacteriol. 2009 Dec;191(23):7243-52. doi: 10.1128/JB.00688-09. Epub 2009
+Sep  18.
+
+A protein important for antimicrobial peptide resistance, YdeI/OmdA, is in the 
+periplasm and interacts with OmpD/NmpC.
+
+Pilonieta MC(1), Erickson KD, Ernst RK, Detweiler CS.
+
+Author information:
+(1)Department of Molecular, Cellular, and Developmental Biology, University of 
+Colorado at Boulder, Boulder, CO 80309, USA.
+
+Antimicrobial peptides (AMPs) kill or prevent the growth of microbes. AMPs are 
+made by virtually all single and multicellular organisms and are encountered by 
+bacteria in diverse environments, including within a host. Bacteria use 
+sensor-kinase systems to respond to AMPs or damage caused by AMPs. Salmonella 
+enterica deploys at least three different sensor-kinase systems to modify gene 
+expression in the presence of AMPs: PhoP-PhoQ, PmrA-PmrB, and RcsB-RcsC-RcsD. 
+The ydeI gene is regulated by the RcsB-RcsC-RcsD pathway and encodes a 14-kDa 
+predicted oligosaccharide/oligonucleotide binding-fold (OB-fold) protein 
+important for polymyxin B resistance in broth and also for virulence in mice. We 
+report here that ydeI is additionally regulated by the PhoP-PhoQ and PmrA-PmrB 
+sensor-kinase systems, which confer resistance to cationic AMPs by modifying 
+lipopolysaccharide (LPS). ydeI, however, is not important for known LPS 
+modifications. Two independent biochemical methods found that YdeI copurifies 
+with OmpD/NmpC, a member of the trimeric beta-barrel outer membrane general 
+porin family. Genetic analysis indicates that ompD contributes to polymyxin B 
+resistance, and both ydeI and ompD are important for resistance to cathelicidin 
+antimicrobial peptide, a mouse AMP produced by multiple cell types and expressed 
+in the gut. YdeI localizes to the periplasm, where it could interact with OmpD. 
+A second predicted periplasmic OB-fold protein, YgiW, and OmpF, another general 
+porin, also contribute to polymyxin B resistance. Collectively, the data suggest 
+that periplasmic OB-fold proteins can interact with porins to increase bacterial 
+resistance to AMPs.
+
+DOI: 10.1128/JB.00688-09
+PMCID: PMC2786563
+PMID: 19767429 [Indexed for MEDLINE]
+
+
+19. PLoS One. 2017 Dec 21;12(12):e0190095. doi: 10.1371/journal.pone.0190095. 
+eCollection 2017.
+
+Salmonella Typhimurium PagP- and UgtL-dependent resistance to antimicrobial 
+peptides contributes to the gut colonization.
+
+Goto R(1), Miki T(1), Nakamura N(1), Fujimoto M(1), Okada N(1).
+
+Author information:
+(1)Department of Microbiology, School of Pharmacy, Kitasato University, Tokyo, 
+Japan.
+
+Mucosal barrier formed by cationic antimicrobial peptides (CAMPs) is believed to 
+be crucial for host protection from pathogenic gut infection. However, some 
+pathogens can develop resistance to the CAMPs to survive in hosts. Salmonella 
+enterica is a common cause of acute diarrhea. During the course of this disease, 
+the pathogen must continuously colonize the gut lumen, which contains CAMPs. 
+However, it is incompletely understood whether the resistance of Salmonella 
+strains to CAMPs contributes to the development of gut infections. PhoPQ 
+two-component system-dependent lipid A modifications confer resistance to CAMPs 
+in S. enterica serovar Typhimurium. Therefore, we introduced mutations into the 
+PhoPQ-regulated genes in an S. Typhimurium strain, obtaining pagP ugtL and pmrA 
+mutant strains. Each mutant strain demonstrated a distinct spectrum of the 
+resistance to CAMPs. Using streptomycin mouse model for Salmonella diarrhea, we 
+show that the pagP ugtL, but not pmrA, mutant strain had a gut colonization 
+defect. Furthermore, the pagP ugtL, but not pmrA, mutant strain had decreased 
+outer membrane integrity and susceptibility to magainin 2, an alpha-helical 
+CAMP. Taken together, the PagP- and UgtL-dependent resistance to CAMPs was 
+demonstrated to contribute to sustained colonization in the gut. This may be due 
+to the robust outer membrane of S. Typhimurium, inducing the resistance to 
+alpha-helical CAMPs such as α-defensins. Our findings indicate that the 
+development of resistance to CAMPs is required for the S. Typhimurium gut 
+infection.
+
+DOI: 10.1371/journal.pone.0190095
+PMCID: PMC5739500
+PMID: 29267354 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+20. Mol Microbiol. 2004 Jul;53(1):229-41. doi: 10.1111/j.1365-2958.2004.04107.x.
+
+PhoP-regulated Salmonella resistance to the antimicrobial peptides magainin 2 
+and polymyxin B.
+
+Shi Y(1), Cromie MJ, Hsu FF, Turk J, Groisman EA.
+
+Author information:
+(1)Department of Molecular Microbiology, Campus Box 8230, Washington University, 
+St Louis, MO 63110, USA.
+
+In Salmonella enterica, the PhoP-PhoQ two-component system governs resistance to 
+structurally different antimicrobial peptides including the alpha-helical 
+magainin 2, the beta-sheet defensins and the cyclic lipopeptide polymyxin B. To 
+identify the PhoP-regulated determinants mediating peptide resistance, we 
+prepared a plasmid library from a phoP mutant, introduced it into a phoP mutant 
+and selected for magainin-resistant clones. One of the clones harboured the 
+PhoP-activated ugtL gene, deletion of which rendered Salmonella susceptible to 
+magainin 2 and polymyxin B, but not defensin HNP-1. We established that ugtL 
+encodes an inner membrane protein that promotes the formation of 
+monophosphorylated lipid A in the lipopolysaccharide. Inactivation of both ugtL 
+and the regulatory gene pmrA, which controls lipid A modifications required for 
+resistance to polymxyin B (but not to magainin 2) and is post-transcriptionally 
+activated by the PhoP-PhoQ system, resulted in a strain that was as susceptible 
+to polymyxin B as a phoP mutant. The most frequently recovered clone harboured 
+the yqjA gene, which we show is PhoP regulated and required for resistance to 
+magainin 2 but not to polymyxin B or defensin HNP-1. Our results indicate that 
+different PhoP-mediated modifications in lipid A are necessary for resistance to 
+different antimicrobial peptides.
+
+DOI: 10.1111/j.1365-2958.2004.04107.x
+PMID: 15225317 [Indexed for MEDLINE]
