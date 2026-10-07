@@ -52,3 +52,6 @@ amendment in docs/A5_MUTATION_CONVERGENCE_RESULT_2026-10-07.md; (2) Tier A/B
 direct-vs-block-membership evidence classification adopted; (3) prereg
 addendum A6 locked for the judge's minimum computable robustness analyses.
 Status of this project's judge gate: 1 of 1 - MET (2026-10-07).
+
+## 2026-10-08 manuscript round (ChatGPT)
+See docs/JUDGE_ROUND_MANUSCRIPT_2026-10-08.md. Per-need, parent approved. Wording fixes adopted; permutation analysis deferred.

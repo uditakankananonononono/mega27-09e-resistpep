@@ -1,0 +1,1010 @@
+Overall verdict
+
+This is substantially more honest than the average exploratory computational-biology project, and the manuscript does a good job retracting failed analyses rather than laundering them into a positive story. But the surviving A12 result is currently stronger as an “observation under a deliberately misspecified null” than as evidence of biological recurrence beyond chance.
+
+The biggest statistical problem is not that p < 10^-5 is mathematically impossible to obtain. It is that the null generating mechanism is far too simple for the biological process being tested. The manuscript itself admits this in Section 3.10. A skeptical ISEF judge will notice the tension immediately:
+
+“the same genes are hit repeatedly under the same AMP in independent lines beyond what a length-weighted null expects”
+
+is stronger than the actual demonstrated statement:
+
+“the observed recurrence is more extreme than expected under this particular length-weighted redraw null.”
+
+Those are not equivalent.
+
+I would currently classify the project as interesting and unusually methodologically self-aware, but not yet a high-level ISEF result. The strongest path is to turn A12 into a properly calibrated recurrence test rather than trying to rescue the failed prediction task or force a candidate.
+
+1. OVERCLAIM CHECK
+
+I am focusing on statements that either exceed the evidence or could reasonably be interpreted by a skeptical judge as a discovery claim.
+
+A. Abstract
+1. “Two descriptive observations survive.”
+
+This is too strong because the manuscript immediately says the second organism is exploratory and post hoc.
+
+The A13b result is explicitly not a clean replication:
+
+“Because the mapping was chosen post hoc, this is exploratory and is not counted as a clean replication.”
+
+So calling both things “descriptive observations [that] survive” gives A13b more evidentiary status than Section 3.11 allows.
+
+Replace with:
+
+“One descriptive observation survives the locked E. coli analysis; a second-organism analysis is exploratory because its gene mapping was chosen post hoc.”
+
+That is materially more defensible.
+
+2. “none of 100,000 length-weighted null draws reached four (p < 10−5 under a deliberately simple null).”
+
+The numerical statement is basically defensible as a Monte Carlo tail statement, but the parenthetical can still mislead because “p < 10^-5” visually resembles a highly precise biological significance claim.
+
+The manuscript itself says:
+
+“the extreme tail value should not be read as a precise probability.”
+
+Good—but the abstract gives the p-value without that qualification.
+
+Replace with:
+
+“zero of 100,000 draws from the specified length-weighted null reached four; this corresponds to a Monte Carlo tail estimate below 10^-5, but the null omits known biological sources of dependence and mutation-rate heterogeneity.”
+
+Even better: reserve the p-value for the Results and put the null qualification directly beside it.
+
+3. “Second, an exploratory and post hoc analysis shows the same phenomenon in S. maltophilia”
+
+“Shows the same phenomenon” is too assertive.
+
+A13b has:
+
+14/16 events mapped only after post-hoc mapping,
+
+T=2,
+
+PR-39: 6/8,
+
+LL-37/rsmH: 3/8,
+
+shared-parent lines,
+
+no same-gene replication of the E. coli observation,
+
+and p<10^-5 from a null applied after the mapping choice.
+
+This is not replication of the E. coli phenomenon in the inferential sense.
+
+Replace with:
+
+“A post-hoc exploratory analysis of S. maltophilia produced within-AMP recurrence under the same statistic, but the mapping was outcome-informed and therefore does not constitute an independent replication.”
+
+4. “Independent but partial corroboration comes from Lofton et al. 2013”
+
+This is internally inconsistent with Section 4.
+
+Section 3.12 calls it independent functional support, but Section 4 correctly says:
+
+“it comes from a study this lane had already mined ... rather than an independent replication of the E. coli lines.”
+
+The experimental data are independent of Spohn. The analysis pipeline is not independent of the evidence, because Lofton was already mined during A2.
+
+So “independent” needs qualification.
+
+Replace with:
+
+“External experimental evidence from Lofton et al. 2013 provides partial corroboration, although the study had already been incorporated into this project’s literature-mining workflow and is not an independent replication of the E. coli analysis.”
+
+5. “The 09d discovery gate is unmet: no independent exact-peptide mass-spectrometry or PubMed record satisfies…”
+
+This is mostly fine, but “no independent exact-peptide mass-spectrometry” is slightly awkward because Section 3.12 says:
+
+“Mass spectrometry was not applicable because no peptide is named.”
+
+That means this was not really a failed mass-spectrometry search. It was an inapplicable gate component because no candidate peptide existed.
+
+Better:
+
+“The 09d gate is unmet. No qualifying independent functional record was identified for the surviving genes, and no peptide-specific mass-spectrometry evidence could be assessed because no candidate peptide was named.”
+
+B. Section 3.10 — the most important section
+6. “The null redrew each line’s number of distinct genes…”
+
+Fine descriptively.
+
+7. “so p < 10−5 under that null.”
+
+Technically acceptable if clearly labelled Monte Carlo tail probability under the exact simulated null, but incomplete without emphasizing that the null is biologically unrealistic.
+
+The next paragraph does acknowledge this, which saves the section substantially.
+
+I would write:
+
+“No simulated replicate reached T=4 (0/100,000); the corresponding empirical Monte Carlo tail estimate is <10^-5 under this specified length-weighted null. This is not a calibrated probability for the biological null because the simulation does not model mutation hotspots, linkage, co-transcription, or within-AMP line dependence.”
+
+That is the wording I would want an ISEF judge to see.
+
+8. “A14 ... the verdict was unchanged”
+
+“Verdict” is a little too grand for a descriptive null comparison.
+
+Replace:
+
+“A14 resolved the synonym mappings; the recurrence statistic remained T=4 with the same simulated tail result.”
+
+That says exactly what happened without implying that A14 independently validates A12.
+
+C. Section 3.11
+9. “Then 14 of 16 events mapped, T=2 ... p <10−5.”
+
+The number is fine as a descriptive exploratory calculation.
+
+The danger is that readers may mentally compare p<10^-5 with A12's p<10^-5 and conclude “two extremely significant replications.”
+
+That is not warranted.
+
+I would explicitly state:
+
+“Because the two additional mappings were selected after inspection of recurrence, neither T nor its tail probability has confirmatory status.”
+
+10. “It shows the phenomenon, not the same genes.”
+
+Still too strong.
+
+It doesn't establish the phenomenon robustly because the mapping itself was outcome-informed and the lines share a parent.
+
+Replace with:
+
+“It provides an exploratory indication that within-AMP recurrence can also occur in this dataset, but the result cannot establish replication of the E. coli observation.”
+
+D. Section 3.12
+11. “Independent functional support on the Salmonella side”
+
+For waaY, this is reasonable if “independent” means independent experimental measurement. But the sentence should not allow the reader to infer independent replication of the present result.
+
+Better:
+
+“This is external functional evidence from Salmonella, but it does not validate the E. coli recurrence result or rescue the failed A9 concordance rule.”
+
+That is much harder to attack.
+
+12. “partial corroboration”
+
+Reasonable, but the scope needs to be precise.
+
+Lofton provides:
+
+recurrence of pmrB under LL-37,
+
+recurrence of pmrB under another peptide,
+
+functional evidence for waaY deletion,
+
+but no demonstrated LL-37 pmrB functional effect,
+
+and waaY is not one of the surviving A12 genes.
+
+So it corroborates the general biological plausibility of LPS/two-component-system involvement, not A12 itself.
+
+Use:
+
+“Lofton provides partial external support for the broader plausibility of recurrent LPS/two-component-system involvement in peptide resistance, not direct validation of the A12 genes.”
+
+E. Section 4 — several sentences need tightening
+13. “The pivot to mutation recurrence has produced one reading that survives its own controls so far”
+
+This is the single most problematic phrase in the Discussion.
+
+“Survives its own controls” sounds like the finding has passed a meaningful robustness battery. It has not.
+
+It survived:
+
+removal of sbmA-deletion lines,
+
+Tier B exclusion,
+
+intergenic correction,
+
+synonym mapping.
+
+But the principal null itself remains simplistic.
+
+Replace with:
+
+“The pivot produced one reproducible descriptive pattern within the current E. coli ledger: four AMP–gene pairs recur in at least three same-AMP lines after the specified exclusions and corrections.”
+
+Then immediately:
+
+“This pattern is more extreme than the project’s length-weighted redraw null, but that null does not capture several known dependencies in these data.”
+
+That is much stronger scientifically.
+
+14. “namely that the same genes are hit repeatedly under the same AMP in independent lines beyond what a length-weighted null expects.”
+
+This contains two problems.
+
+“independent lines” is too casual because Section 3.10 itself says:
+
+“Lines within an AMP are not independent.”
+
+The biological isolates may be distinct, but statistical independence is not established.
+
+“beyond what a length-weighted null expects” is technically true but easily read as “beyond what chance expects.”
+
+Replace with:
+
+“namely that several AMP–gene pairs recur across multiple lines within the same AMP, more often than generated by the specified length-weighted redraw procedure.”
+
+That precisely states the statistical result without upgrading the null.
+
+15. “The affected genes ... are all outer-membrane or LPS related, which is plausible but is not tested here.”
+
+This is acceptable, but it is borderline interpretation.
+
+It should say biologically coherent annotation, not imply mechanistic support.
+
+Better:
+
+“The affected genes have functions related to LPS, outer-membrane biology, or envelope-associated regulation; whether these functions explain the recurrence is not tested here.”
+
+16. “Independent evidence that pmrB, phoP and waaY mutations arise under LL-37 passaging ... is partial corroboration of the idea that two-component and LPS-core genes are recurrent targets”
+
+This is defensible only if the claim is explicitly about broad plausibility.
+
+Otherwise it is a classic evidence-layer conflation:
+
+A12:
+
+E. coli
+
+four particular AMP–gene pairs
+
+recurrence statistic.
+
+Lofton:
+
+Salmonella
+
+different experiment,
+
+different genes,
+
+functional/reconstitution results of different quality.
+
+It cannot corroborate A12 specifically.
+
+Replace with:
+
+“Lofton provides external evidence that some LPS-associated and two-component-system loci can recur or affect peptide resistance in Salmonella, which is biologically consistent with—but does not independently validate—the broader interpretation of the E. coli recurrence pattern.”
+
+F. Section 6
+17. “Survives, descriptively: within-AMP Tier A recurrence beyond a length-weighted null…”
+
+This is probably the best single sentence in the manuscript, but “beyond a length-weighted null” is still susceptible to being read as “beyond chance.”
+
+I would use:
+
+“Survives as a descriptive pattern: four AMP–gene pairs recur in ≥3 same-AMP lines outside the sbmA-deletion set, and this is more extreme than the specified length-weighted redraw null.”
+
+Then:
+
+“This does not establish recurrence beyond a biologically realistic mutation-opportunity null.”
+
+That distinction should appear in the formal claim-state section, not merely Section 3.10.
+
+18. “Lofton 2013 cited as independent but partial corroboration.”
+
+Same issue discussed above. Change “independent” to external experimental evidence.
+
+19. “The gate would close only with a targeted functional test…”
+
+This is too narrow.
+
+A targeted functional experiment is certainly one way to close the gate, but the manuscript's own 09d criteria require a defined perturbation plus measured phenotype. Saying it “would close only” with one experiment overstates the exclusivity.
+
+Use:
+
+“One route to closing the gate would be a targeted functional test…”
+
+If the preregistration literally defines a functional test as mandatory, retain “requires,” but otherwise don't imply this is the only possible future evidence.
+
+2. STATISTICS: A12 AND A13b
+A12: what the null actually tests
+
+The observed statistic is:
+
+T = number of (AMP, gene) pairs with Tier A hits in ≥3 same-AMP lines.
+
+Observed:
+
+20 lines after exclusions.
+
+64 mapped Tier A events in A12; 71 after A14 synonym resolution.
+
+T = 4:
+
+CAP18–basS: 4 lines
+
+LL-37–lptC: 3
+
+LL-37–wzzE: 3
+
+HBD3–basR: 3
+
+The null:
+
+“redrew each line’s number of distinct genes from the 4,318 CDS in proportion to length.”
+
+This tests a very specific proposition:
+
+Would four or more recurring AMP–gene pairs be unusual if genes were selected independently according to CDS length, conditional on the observed per-line number of distinct genes?
+
+That is much narrower than:
+
+“Is same-AMP recurrence greater than expected by biological chance?”
+
+The manuscript sometimes slides between those two propositions.
+
+What the null fails to model
+
+At least these:
+
+1. Mutation-rate heterogeneity
+
+Genes of equal length do not necessarily have equal mutation probability.
+
+Sequence composition, replication/repair effects, local genomic context and other factors can create large differences.
+
+The null assumes length is the relevant opportunity measure. That is not demonstrated.
+
+2. IS-element / breakpoint hotspots
+
+This is particularly important because Section 3.6 independently demonstrates breakpoint clustering.
+
+You cannot simultaneously show:
+
+“Four of nine distinct Spohn large-deletion breakpoints lie within 200 bp of IS elements”
+
+and then treat the genome as essentially a collection of independent length-weighted CDS for recurrence inference without explaining why that mechanism cannot affect the A12 genes.
+
+A12 excludes the sbmA deletion lines, which helps, but it does not eliminate genomic hotspot structure in the remaining Tier A events.
+
+3. Linkage
+
+The null treats gene selections as independent.
+
+But the manuscript explicitly acknowledges:
+
+“linked or co-transcribed genes”
+
+and gives a concrete example:
+
+“lptC and wzzE share the line LL37_3.”
+
+This matters because the four observed pairs are not four independent pieces of evidence.
+
+4. Operon/co-transcription structure
+
+Same biological perturbation can produce mutations in multiple genes belonging to the same functional/genomic neighborhood.
+
+The null has no representation of that.
+
+5. Line dependence
+
+This is the most important issue.
+
+The manuscript correctly says:
+
+“Lines within an AMP are not independent, and strata hold only four or five lines.”
+
+The T statistic is explicitly based on multiple lines within the same AMP.
+
+So the effective number of independent experimental units is much smaller than 20.
+
+The null nevertheless redraws genes for each line independently.
+
+That can produce a substantially miscalibrated tail.
+
+6. Shared ancestry / bottleneck structure
+
+For A12's Spohn lines, the manuscript doesn't establish that the 20 lines are independent evolutionary replicates in the statistical sense required by the null.
+
+A shared ancestral population can create correlated trajectories.
+
+The manuscript explicitly identifies this problem for Blanco in A13b, but the same conceptual issue deserves explicit treatment for Spohn.
+
+7. Gene-specific ascertainment
+
+Genes may be easier to detect/classify depending on mutation type, annotation, read quality, structural variation, etc.
+
+The null assumes all CDS are equally observable conditional on length.
+
+Not established.
+
+8. AMP-specific selection opportunity
+
+A gene may be biologically selectable under one AMP but not another.
+
+That is actually part of the scientific question, but the null has no AMP-specific gene propensity.
+
+The null therefore tests a much more generic random-gene model.
+
+9. Multiple testing / researcher degrees of freedom
+
+This is subtle.
+
+If A12 was truly locked before looking at the relevant counts, then the nominal test is not automatically invalid simply because many other analyses existed.
+
+But the report says in Section 5:
+
+“Several analyses were run after the analyst had seen related counts; each lock states that exposure.”
+
+For A12, the crucial question is not whether some analyses had exposure. It is whether:
+
+T≥3,
+
+the 20-line exclusion,
+
+the selected event tier,
+
+the particular gene mapping,
+
+and the A12 null
+
+were all locked before the A12 data were inspected.
+
+The manuscript claims they were, but a judge would want the actual lock chronology/audit trail.
+
+If those choices were genuinely locked, the A12 p-value does not need a post-hoc multiplicity penalty merely because other failed analyses existed. But if the researcher selected this statistic after seeing recurrence, the evidential status drops sharply.
+
+Is p < 10^-5 defensible?
+
+As a statement about the specified simulation: yes. As a biological significance claim: no.
+
+With 0 exceedances among 100,000 simulations, you have:
+
+0/100,000 ≥ T=4.
+
+That supports reporting:
+
+“0/100,000 null simulations reached T=4; empirical Monte Carlo tail probability <10^-5.”
+
+I would not simply write:
+
+p < 10^-5
+
+because that looks like an ordinary calibrated inferential p-value.
+
+And I definitely would not write:
+
+“highly significant recurrence”
+
+or:
+
+“extremely unlikely by chance.”
+
+Those imply a realistic null that you do not have.
+
+The finite simulation also means you cannot distinguish 10^-5 from 10^-7, 10^-9, etc. The resolution of the simulation is only 10^-5.
+
+So the honest statistical conclusion is:
+
+The observed T=4 is outside the sampled tail of this simple null, but the magnitude of that tail probability should not be interpreted as evidence that the biological recurrence mechanism itself has probability <10^-5 under a realistic null.
+
+That is the distinction I would insist on at judging.
+
+A better surrogate null
+
+Given the existing data, I would prefer a conditional permutation/null that preserves the observed dependence structure as much as possible, rather than another theoretical random-gene draw.
+
+A good resource-bounded version:
+
+Null A — within-AMP constrained permutation
+
+Preserve:
+
+AMP stratum,
+
+number of lines per AMP,
+
+number of Tier A gene hits per line,
+
+total recurrence frequency of each gene,
+
+and randomize which lines within the relevant AMP receive each gene, subject to those margins.
+
+Then calculate T again.
+
+This asks a much cleaner question:
+
+Given the observed overall gene frequencies and line-level mutation burdens, do genes cluster into the same AMP across ≥3 lines more than expected?
+
+It still doesn't solve all genomic dependence.
+
+So I would additionally run:
+
+Null B — genome-neighborhood/block-aware sensitivity
+
+Collapse genes into predefined genomic neighborhoods/operons or exclude pairs within a prespecified distance and rerun T.
+
+Critically, this must be prespecified before inspecting whether the four hits disappear.
+
+If A12 remains unusual under both, the result becomes substantially more convincing.
+
+A13b is statistically weaker than its p-value looks
+
+A13b has:
+
+“two mappings chosen after seeing which genes recurred”
+
+That is enough to destroy confirmatory interpretation.
+
+The p < 10^-5 is therefore not evidence that the predefined S. maltophilia hypothesis had probability <10^-5.
+
+The mapping itself is part of the hypothesis-generation process.
+
+The right wording is:
+
+“Under the post-hoc mapping and exploratory null, 0/100,000 simulated datasets reached T=2.”
+
+Not:
+
+“S. maltophilia independently confirms the result, p<10^-5.”
+
+The manuscript mostly understands this, but the abstract and Discussion give the result slightly too much rhetorical weight.
+
+Correction/withdrawn-number audit
+
+There are three places where a careless reader could still be misled.
+
+1. A10: p = 0.0046
+
+The report does an excellent job saying it was withdrawn.
+
+But because the number remains in the manuscript:
+
+“A first run ... reported W∩S = 5 with stratified p = 0.0046.”
+
+a poster or abstract could accidentally reproduce it.
+
+I would visually label it:
+
+WITHDRAWN — incorrect 60-line denominator; not an evidential result.
+
+The corrected value is:
+
+28-line universe, W∩S=5, stratified p=0.601.
+
+That corrected result is the one that should appear anywhere outside the deviation table.
+
+2. A9: “8 of 120 lines”
+
+Section 3.7 explicitly says the 120 figure is superseded by Section 3.8.
+
+Again, good disclosure, but do not leave “8 of 120” in a figure caption, abstract, poster, or oral presentation.
+
+It is exactly the sort of stale number a skeptical judge can seize on.
+
+3. A12: T=6
+
+The manuscript says:
+
+“The first run counted yejK and yejL ... (T=6); it was corrected...”
+
+Correct.
+
+But because T=6 sounds substantially more dramatic than T=4, I would explicitly call it:
+
+WITHDRAWN T=6; invalid because the run violated the locked intergenic-event exclusion.
+
+That eliminates any ambiguity.
+
+3. INDEPENDENCE AND CIRCULARITY
+Spohn vs Lofton
+
+The manuscript correctly distinguishes them better in Section 4 than in the Abstract.
+
+Lofton is experimentally external, but it is not an independent replication of the present discovery workflow because the project had already mined it.
+
+So:
+
+independent organism/data generation: yes
+
+independent experiment: yes
+
+independent analysis from the project: no
+
+independent confirmation of A12: no
+
+external biological plausibility: yes
+
+That is the exact classification I would use.
+
+E. coli vs S. maltophilia
+
+A13b is not a clean independent replication because:
+
+mapping was chosen after observing recurrence;
+
+only 14/16 events became mappable after that decision;
+
+the lines share a parent;
+
+the observed recurrence concerns different genes;
+
+the same statistical machinery was reused.
+
+Thus A13b is exploratory cross-organism support, not replication.
+
+The manuscript mostly gets this right.
+
+Lines within an AMP
+
+This is the largest independence problem in the surviving result.
+
+A12 calls recurrence across lines, but Section 3.10 admits:
+
+“Lines within an AMP are not independent.”
+
+That should be elevated from a limitation to a central inferential qualification.
+
+You have only:
+
+CAP18: 5 lines
+
+PEX: 5
+
+LL-37: 5
+
+HBD3: 4
+
+PR39: 1
+
+So the T≥3 criterion is especially sensitive to what happens in the tiny strata.
+
+In fact, PR39 contributes no possibility of T≥3 because only one non-sbmA line remains.
+
+That means the entire T=4 signal comes from only four AMP strata.
+
+This isn't fatal for a descriptive analysis, but it makes “independent lines” a dangerous phrase.
+
+Shared parent
+
+For A13b, the manuscript explicitly acknowledges:
+
+“Blanco lines come from a shared parent, which can inflate recurrence.”
+
+Correct.
+
+But that means A13b should not be used as evidence that the phenomenon generalizes across independent evolutionary starting populations.
+
+At best it shows that recurrence can arise in another experimental lineage system.
+
+Analyst prior exposure to counts
+
+This is not automatically fatal.
+
+The crucial distinction is:
+
+Legitimate preregistration
+
+If the exact A12 statistic and null were locked before looking at the A12 recurrence counts, then previous exposure to other related analyses does not invalidate the locked A12 test.
+
+Circularity
+
+If the researcher:
+
+saw the recurrence,
+
+chose the ≥3 threshold,
+
+selected the exclusions,
+
+selected the length-weighted null,
+
+then locked A12,
+
+the p-value is not confirmatory.
+
+The manuscript says the locks preceded execution, but the judge should inspect the actual commit timestamps and contents, not merely accept the prose.
+
+The phrase:
+
+“each analysis having a lock commit that precedes its execution”
+
+is necessary but not sufficient evidence of preregistration integrity.
+
+The relevant comparison is:
+
+lock timestamp vs first access to the outcome data, not merely lock timestamp vs execution timestamp.
+
+That's a real audit issue.
+
+4. SINGLE STRONGEST UNSUPPORTED CLAIM
+
+It is this sentence in Section 4:
+
+“the same genes are hit repeatedly under the same AMP in independent lines beyond what a length-weighted null expects.”
+
+More precisely, the unsupported part is the implication that this establishes non-random biological recurrence.
+
+The data establish:
+
+four observed AMP–gene recurrence pairs, T=4, which are rare under the specified length-weighted redraw.
+
+They do not yet establish:
+
+recurrence beyond a realistic mutation-opportunity process.
+
+The manuscript itself supplies the reason: the null ignores mutation hotspots, linkage, co-transcription and line dependence.
+
+That is the claim I would attack first as a judge.
+
+5. ONE NEXT ANALYSIS
+
+I would not do another literature search, another candidate scan, or another ML model.
+
+I would do one analysis:
+
+A locked conditional recurrence permutation
+Question
+
+After preserving the observed gene recurrence frequencies, AMP strata, and per-line mutation burdens, is same-AMP recurrence of genes greater than expected from the observed marginal structure?
+
+Data
+
+Only the existing 20 non-sbmA Spohn lines and their Tier A events.
+
+No new data required.
+
+Lock before looking at the final statistic
+
+Predefine:
+
+exact 20-line dataset;
+
+exact Tier A definition;
+
+exact gene mapping;
+
+T = number of AMP–gene pairs occurring in ≥3 lines;
+
+number of permutations, e.g. 100,000;
+
+exact permutation algorithm;
+
+whether linked/adjacent genes are excluded or clustered.
+
+Null
+
+Preserve:
+
+each AMP's number of lines;
+
+each line's number of distinct genes;
+
+each gene's total number of line hits.
+
+Then randomize the assignment of gene hits to lines within the appropriate exchangeability structure.
+
+A sensitivity analysis can additionally collapse prespecified genomic neighborhoods/operons so that adjacent/co-transcribed genes cannot create artificial multiplicity.
+
+Baseline
+
+The baseline is the observed-margin permutation null—not a generic uniform genome.
+
+That is substantially more credible because it conditions on much of the structure actually observed.
+
+Endpoint
+
+Exactly one primary endpoint:
+
+T = number of AMP–gene pairs occurring in ≥3 lines.
+
+No threshold shopping afterward.
+
+Falsifier
+
+The result is considered unsupported if:
+
+the observed T=4 falls inside the prespecified 95% or 99% permutation distribution, or if the result disappears after the prespecified neighborhood-dependence correction.
+
+I would make the 99th percentile the key descriptive benchmark, not hunt for another tiny p-value.
+
+Why this is the right next move
+
+It directly attacks the manuscript's largest unresolved criticism.
+
+It does not demand:
+
+more compute,
+
+a new model,
+
+a new organism,
+
+wet-lab access,
+
+a candidate peptide,
+
+or a new threshold.
+
+And critically, it has a credible route to a negative result.
+
+If T=4 stops looking unusual, the project has learned something valuable: the original signal was largely explained by marginal recurrence structure.
+
+If T=4 remains extreme, the claim becomes much more interesting.
+
+What can be fixed now vs what requires new data
+Fixable now
+
+You can substantially improve the paper without collecting anything:
+
+Replace “two descriptive observations survive” with one surviving descriptive observation + one exploratory observation.
+
+Replace “independent lines” with “distinct lines” or “lines within the AMP stratum.”
+
+Recast p<10^-5 as a Monte Carlo tail result.
+
+Put the null's limitations immediately next to A12's headline result.
+
+Remove “shows the same phenomenon” for A13b.
+
+Replace “independent but partial corroboration” with “external experimental evidence, partial and not an independent replication.”
+
+Run the conditional permutation analysis above.
+
+Run a prespecified neighborhood/operon sensitivity analysis.
+
+Make all withdrawn numbers visibly withdrawn.
+
+Audit the actual lock chronology against data visibility, not just execution date.
+
+Requires new data
+
+A genuine biological claim requires more.
+
+The manuscript's own Section 6 gives the right direction:
+
+“a basS, lptC or wzzE allele measured against LL-37 or CAP18 MIC or killing in E. coli BW25113, with a prespecified direction.”
+
+That would turn recurrence into something mechanistically testable.
+
+But even that should be framed as one route to functional validation, not as a guarantee that the recurrence is causal.
+
+6. ISEF COMPETITIVENESS
+
+Here I would be blunt.
+
+As written now
+
+Not competitive for top-tier ISEF awards.
+
+It is intellectually respectable, but the surviving positive result is currently:
+
+four AMP–gene pairs;
+
+only 20 relevant lines;
+
+four or five lines per AMP;
+
+non-independent evolutionary lines;
+
+a simple length-weighted null;
+
+known biological dependence not modeled;
+
+exploratory cross-organism support;
+
+no functional validation;
+
+no discovery gate;
+
+no candidate;
+
+failed original predictive task.
+
+That is not enough for a top computational-biology project.
+
+And ISEF explicitly scores research question, design/methodology, execution/statistical analysis, creativity/impact, and presentation/interview, with the execution criterion specifically asking whether the statistical methods are appropriate and whether sufficient data support the conclusions. 
+Society for Science
+
+The current manuscript would score well on honesty, documentation, and recognition of limitations, but much less strongly on demonstrated biological discovery.
+
+What is genuinely impressive
+
+There is something valuable here that many student projects lack:
+
+You did not manufacture a positive result.
+
+The manuscript explicitly records:
+
+predictive failure;
+
+−0.547, CI [-0.915, 0.116], permutation p=0.924;
+
+enlarged-base 0.112, CI [-0.275, 0.490], p=0.281;
+
+sbmA mutation-opportunity failure (p=0.339, E. coli sensitivity p=0.116);
+
+failed A9 concordance;
+
+corrected A10 p=0.601;
+
+withdrawn p=0.0046;
+
+withdrawn A12 T=6;
+
+failed 09d;
+
+no candidate peptide.
+
+That is excellent scientific behavior.
+
+A sophisticated judge will notice that.
+
+But ISEF rewards the scientific contribution, not merely the integrity of the failure analysis. The official criteria put substantial weight on execution, creativity/potential impact, and presentation/interview. 
+Society for Science
+
+What would make it competitive
+
+The conditional recurrence analysis is the minimum statistical upgrade I would want.
+
+For a genuinely strong ISEF project, I would want something like:
+
+A12 survives a biologically credible null
+→ recurrence remains after dependence-aware sensitivity analyses
+→ effect is not driven by one shared lineage/event
+→ independent dataset with genuinely prespecified mapping reproduces the pattern
+→ ideally functional perturbation confirms at least one gene/phenotype relationship.
+
+At that point the project changes from:
+
+“I found four things that look surprising under a simple random-gene model”
+
+to:
+
+“I developed a preregistered, dependence-aware test of recurrent evolutionary adaptation and identified a recurrence pattern that survives realistic opportunity controls and independent validation.”
+
+That would be a very different caliber of project.
+
+Bottom-line judge verdict
+Claim validity
+
+A12 descriptive observation: PASS, narrowly.
+
+But the defensible claim is only:
+
+Four AMP–gene pairs recur in ≥3 same-AMP E. coli lines outside the sbmA-deletion set, and this is more extreme than the specified length-weighted redraw null.
+
+Not:
+
+“evolutionary convergence,”
+“non-random selection,”
+“beyond biological chance,” or
+“a discovered resistance mechanism.”
+
+A13b
+
+EXPLORATORY, correctly classified. Its p<10^-5 should not be allowed to visually masquerade as independent replication.
+
+Lofton
+
+External biological support, but not independent replication. The manuscript's Section 4 wording is better than its Abstract wording.
+
+09d
+
+UNMET. Correctly so.
+
+Strongest remaining flaw
+
+The A12 null is too biologically naive to support the rhetorical phrase “beyond what [chance] expects.”
+
+Strongest positive feature
+
+The manuscript is unusually willing to kill its own attractive results. The corrected A10 p=0.601, failed sbmA opportunity test, withdrawn p=0.0046, and unmet 09d gate make that particularly credible.
+
+ISEF status
+
+Interesting but not yet award-level. The project has the beginnings of a serious computational-biology investigation, but the current positive result is a hypothesis-generating statistical observation, not yet a robust biological finding. The official ISEF criteria specifically require appropriate statistical analysis and sufficient data to support the interpretation, which is exactly where this project currently remains vulnerable. 
+Society for Science
+
+The single highest-value move is therefore not to add more pages or more analyses indiscriminately. It is to lock and run the dependence-aware conditional permutation test. If A12 survives that, the scientific story becomes substantially stronger; if it fails, the manuscript should say so and preserve that negative result.
