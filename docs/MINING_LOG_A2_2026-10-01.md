@@ -281,3 +281,14 @@ This closes the scheduled queue of access/structure/deposit searches for
 this pass, not the scientific lane. Blanco and Dobson proposals require an
 estimand decision before numerical extraction or evaluation. No new finding
 or enlarged scored base is claimed.
+
+### Dobson control audit (same pass)
+
+Table 1 has 30 rows across 6 selected treatments, with 5 population labels
+per treatment. It has NO unselected-control treatment rows. Methods describe
+unselected controls, but the pinned endpoint table alone does not establish
+numerical matched-control correction. Do not equate design-level control
+presence with an available control MIC series. Exact peptide identity by name
+is also insufficient for study-specific sequence/terminal chemistry proof.
+Thus Blanco remains the more complete adoption proposal; Dobson remains a
+partial structural lead and is not an automatic new scored unit source.
