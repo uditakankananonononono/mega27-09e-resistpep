@@ -292,3 +292,47 @@ presence with an available control MIC series. Exact peptide identity by name
 is also insufficient for study-specific sequence/terminal chemistry proof.
 Thus Blanco remains the more complete adoption proposal; Dobson remains a
 partial structural lead and is not an automatic new scored unit source.
+
+## Pass 6 - 2026-10-07 late: forward-citation mining (Europe PMC CITES: queries)
+
+Forward citations of the lane's four core studies screened for new
+evolution datasets: Spohn 2019 (PMID 31586049, 286 citers), Blanco 2020
+(PMID 32999081, 13), Bac7 2023 (PMID 37103865, 4). Dobson 2013
+(PMID 24204634) PMIDs resolved; citer screen not run this pass.
+Structure-only screening; no outcomes extracted; no adoption proposed.
+
+17. Maron et al. 2025 iScience (PMC12167497, cites Spohn): ALREADY ADOPTED
+    in the A1 estimand (S. aureus JLA513, temporin/melittin/pexiganan,
+    Zenodo 15125182 + PRJNA1116739 pinned). Rediscovery, not a new dataset.
+18. Yu et al. 2025 mSystems (PMC11915801, cites Spohn): ALREADY RULED
+    INELIGIBLE in earlier passes (endpoint strains, no lineages; fetch
+    spoof noted). Rediscovery via citation graph, disposition unchanged.
+19. Tetens/Rodriguez-Rojas-group RPM paper 2024 (PMC11218975, cites
+    Spohn): "The evolution of antimicrobial peptide resistance in
+    P. aeruginosa is severely constrained by random peptide mixtures".
+    NEW PARTIAL STRUCTURAL LEAD. Main text carries only 1 table (peptide
+    sequences/activity); no per-lineage MIC or mutation matrix in the
+    pinned main-text XML. Single-AMP vs random-mixture evolution design
+    is a new angle for the lane, but lineage-level panel availability is
+    UNVERIFIED; supplement fetch is the next step if a deposit unit
+    needs it. Not adopted.
+20. AmpliFinder 2026 (PMC13423834, cites Spohn): method + meta-analysis
+    of 10,347 lab-evolved E. coli/A. baumannii isolates (IS-associated
+    amplifications). METHOD LEAD only, not an AMP panel; noted for the
+    queued mutation-opportunity/annotation unit (amplification modes are
+    a missing mutation class in our Tier A/B scheme).
+21. PMC10961912 / mSpectrum 2022 (spectrum.00973-22, cites Blanco):
+    serial-passage + quantitative proteomics METHODS paper (pinned as
+    spectrum00973_supp.zip). Screened: protocol description, no lineage
+    dataset. INELIGIBLE as a data source.
+22. ESKAPE antibiotics-in-development 2025 (39805953) and Gram-positive
+    candidates 2025 (39772773): antibiotic (non-peptide) evolution,
+    OFF-SCOPE under A3.3. Bac7 citers (4) are reviews/chemistry, no new
+    evolution datasets.
+
+Pass 6 adds ZERO new eligible datasets. One new partial structural lead
+(19, supplement check pending), one method lead (20). Deposit-host query
+families (Dryad/Figshare/Zenodo + citation graph of all pinned cores) are
+now exhausted at this screening depth; further yield likely requires the
+queued pathway/annotation unit's external references rather than more
+deposit queries.
