@@ -8,7 +8,7 @@ Deviations from docs/PREREGISTRATION.md are disclosed here, per house rule 4.
 
 Three studies, three organisms, pinned with sha256 (data/SHA256SUMS.txt):
 
-- Prabhu 2013 (PLOS ONE, PMC3720879), S. typhimurium LT2: LL-37, CNY100HL
+- Lofton et al. 2013 (PLOS ONE, PMC3720879, doi 10.1371/journal.pone.0068875), S. typhimurium LT2 [NOTE 2026-10-08: this study was labelled "Prabhu 2013" in this addendum and in some later files; that alias was wrong, the PMC and DOI are the Lofton et al. paper. Scripts and result files may still use the old key]: LL-37, CNY100HL
   (single sequences) + WGH (mixture, excluded from sequence-level labels).
   6 lineages per treatment; cross-resistance clone assays. Raw MIC strings
   include ranges and right-censoring; Table 4 header unit contradicts methods

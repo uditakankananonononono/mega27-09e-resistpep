@@ -1,3 +1,6 @@
+## DENOMINATOR CORRECTION (2026-10-08; original text below preserved)
+All "x/10" Spohn line denominators below count unsequenced lines. Spohn Suppl. Data 5 lists 38 sequenced lines; the adopted AMPs have BAC5 4, CAP18 5, HBD3 4, LL37 5, PEX 5, PR39 5. Read the sbmA figures as PR39 5/5 and BAC5 4/4 sequenced lines; CAP18 basS 4/5; HBD3 basR 3/4; PEX yejK/yejL 4/5; BAC5 waaY 3/4. Denominators are sequenced lines only. Counts of lines hit and all A5 numerators are unchanged. (See docs/A10_LINE_DEPENDENCE_RESULT_2026-10-07.md, correction section.)
+
 # A5 cross-study mutation convergence result
 
 ## JUDGE-DRIVEN AMENDMENT 2026-10-07 (judge round 1; docs/JUDGE_ROUND_A5_CHATGPT_2026-10-07.md)

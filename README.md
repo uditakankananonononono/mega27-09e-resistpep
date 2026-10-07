@@ -16,3 +16,5 @@ resistance-evolution dataset). Rules of the house: real public data only, locked
 splits before outcomes, honest negatives preserved and never terminal (rule-6
 pivots), minimum 1 user-provided judge verdict (rule updated 2026-09-27) producing a concrete novelty
 change (rule 8), 50+ text-page paper.
+
+Note (2026-10-08): Spohn 2019 denominators are sequenced lines only (28 adopted-AMP lines; BAC5 4, CAP18 5, HBD3 4, LL37 5, PEX 5, PR39 5). Older "x/10" figures in docs/A5 are corrected there. The 2013 LL-37 study is Lofton et al. (earlier alias "Prabhu 2013"). Current claim state: docs/CLAIM_STATE_2026-10-08.md; manuscript: paper/resistpep.pdf (8 pages; the 50+ page requirement is unmet).
