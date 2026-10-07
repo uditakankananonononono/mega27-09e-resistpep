@@ -218,3 +218,18 @@ No-peeking deviation continues: primary full-text/XML source inspection
 exposes MIC cells. No endpoint numerical values logged here or analyzed;
 any adoption addendum must acknowledge this pre-lock exposure, not claim
 blinding. Candidate choice is driven by structure/availability, not effect.
+
+## Pass 4 follow-through: Bac7 supplement recovered; A3 reproduction
+
+- A3's complete score_a3.py rerun reproduces committed score_a3.json
+  byte-for-byte (all subsets and indicator runs). This is verification of
+  the existing result, not a new evaluation or retry under changed metrics.
+- Bac7 Europe PMC supplementaryFiles download succeeded on a bounded retry.
+  Archive and extracted primary supplement PDF pinned in data/raw with hashes.
+  Supplement contains primer/sequence tables and mechanistic figures, not a
+  full per-lineage own-treatment MIC/control matrix. Table S2 verifies the
+  Bac7(1-22) sequence from the study's own supplement. The earlier access gap
+  is closed, but missing complete selection-path endpoints/control rows is
+  not. Bac7 remains partial, not adopted; no digitization or outcome scoring.
+  Source endpoint:
+  https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10145973/supplementaryFiles
