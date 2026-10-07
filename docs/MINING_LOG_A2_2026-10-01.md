@@ -181,3 +181,40 @@ pre-outcome estimand addendum; do not describe this continuation as blinded.
 
 Next: inspect Bac7 supplementary sequence/control structure and widen to
 Dryad/Figshare data deposits. No newly eligible dataset claimed in this pass.
+
+## Pass 4 - 2026-10-07 evening: data-deposit broadening
+
+12. Blanco et al. 2020, mSphere 10.1128/mSphere.00717-20 (PMC7529437):
+    ELIGIBLE STRUCTURAL CANDIDATE, not adopted or scored. S. maltophilia D457,
+    daily serial passage in NaCl-free MIEM for 25 days. Methods specify 8
+    independent replicates per condition; Table 1 reports 8 evolved population
+    rows per AMP and 4 no-AMP control population rows. Do not invent the other
+    4 control rows. Table 2 is derived clones, not independent new lineages.
+    Own-treatment MIC cells contain substantial right censoring; PR-39's
+    own-treatment population endpoints are all right-censored. Exact LL-37
+    and PR-39 sequences are in primary methods; PR-39 is C-terminal amidated.
+    Colistin excluded from proposed adoption under the deferred lipopeptide
+    rule. LL-37/PR-39 are organism replications, not new sequence identities.
+    Possible lane: censor-aware descriptive replication, not point-label A3
+    model extension. Parent asked to review that proposal before a new lock.
+    No outcomes extracted into a dataset or aggregated. Primary XML pinned.
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7529437/fullTextXML
+    Published-paper copy inspected:
+    https://digital.csic.es/bitstream/10261/228725/1/Antimicrobial_Blanco_PV_Art2020.pdf
+
+13. Dobson/Purves/Rolff 2014 Dryad f80bh: deposit lists host survival/CFU
+    files and a small cross-resistance MIC file. OWN-TREATMENT LINEAGE PANEL
+    UNVERIFIED; file download returned 403. Not adopted; absence of a panel
+    has not been proved. https://datadryad.org/dataset/doi:10.5061/dryad.f80bh
+
+10. Bac7 update: primary XML retrieved and pinned via Europe PMC. Supplement
+    zip endpoint timed out, publisher supplement had timed out earlier and
+    direct publisher HTML returned 403. Exact supplement sequence/control
+    completeness remain unverified. Partial candidate status unchanged.
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10145973/fullTextXML
+
+Existing Figshare 752076/Spohn records rediscovered, not new datasets.
+No-peeking deviation continues: primary full-text/XML source inspection
+exposes MIC cells. No endpoint numerical values logged here or analyzed;
+any adoption addendum must acknowledge this pre-lock exposure, not claim
+blinding. Candidate choice is driven by structure/availability, not effect.
