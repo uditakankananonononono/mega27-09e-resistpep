@@ -1,0 +1,57 @@
+{
+ "lock_commit": "57e242cda46d17d75bb5e4336905181e7375860b",
+ "non_S_lines": 20,
+ "events_mapped": 87,
+ "unmapped_gene_events": [
+  [
+   "CAP18_10",
+   "yejM"
+  ],
+  [
+   "CAP18_6",
+   "yejM"
+  ],
+  [
+   "HBD3_6",
+   "yneO"
+  ],
+  [
+   "HBD3_8",
+   "yciM"
+  ],
+  [
+   "LL37_6",
+   "yebS"
+  ],
+  [
+   "LL37_7",
+   "yebT"
+  ],
+  [
+   "PEX_4",
+   "yebT"
+  ],
+  [
+   "PEX_5",
+   "ybiH"
+  ]
+ ],
+ "T_obs": 6,
+ "contributing_pairs_lines": {
+  "CAP18:bass": 4,
+  "LL37:lptc": 3,
+  "LL37:wzze": 3,
+  "PEX:yejk": 4,
+  "PEX:yejl": 4,
+  "HBD3:basr": 3
+ },
+ "null_mean": 0.00038,
+ "p": 0.0,
+ "lines_per_amp": {
+  "PR39": 1,
+  "CAP18": 5,
+  "PEX": 5,
+  "LL37": 5,
+  "HBD3": 4
+ }
+}
