@@ -133,3 +133,51 @@ Via Europe PMC CITES on the three core studies:
 11. Efflux-pump heterogeneity 2025 (PMC12226021): queued, not shape-checked.
 Pass 3 yield: 0 newly eligible, 1 partial (Makarova 2018 - true matched
 controls but figure-only own-treatment MICs), 2 queued.
+
+## Continuation 2026-10-07: recovered remote + queued structure checks
+
+Recovery: cloned remote aeb645bd224fab2b55aa192ee4374bada9a47766.
+All 21 source-manifest entries verify. Re-running the Spohn extraction exactly
+reproduces results/spohn_units_a3.json. No new scoring or estimand change.
+
+4. Habets 2012: primary full text still ACCESS PENDING. Browser attempt on
+   PMC3367763 returned an empty page; publisher challenge cleared to an empty
+   article-abstract redirect. Publisher web fetch gives site scaffolding;
+   Paperity exposes partial secondary text, not enough to settle primary
+   data availability. No payment/account action or author request made.
+   Source: https://royalsocietypublishing.org/doi/10.1098/rsbl.2011.1203
+   Secondary: https://paperity.org/p/38231798/therapeutic-antimicrobial-peptides-may-compromise-natural-immunity
+
+10. Bac7 2023: PARTIAL, NOT ADOPTED. Primary full text explicitly reports
+    drug-free serial passage controls and multiple selection paths under
+    Bac7(1-22), split by salt-containing/salt-free medium and differing
+    passage duration. Thus the prior genomic-focus shorthand is insufficient
+    as an exclusion. Figure 1 holds passage trajectories; Table 2 includes
+    own-treatment endpoint MIC cells for a subset of selected strains, with
+    right censoring. Controls are described as unchanged but per-control
+    lineage counts and endpoint rows are not established in the inspected
+    text. Supplement description names Table S2 for exact peptide sequences;
+    actual supplement access/sequence verification remains open. A complete
+    per-lineage, matched-condition endpoint matrix has not been established.
+    No outcome aggregation, selection by effect magnitude or modeling.
+    Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10145973/
+    Supplement pointer: https://www.mdpi.com/article/10.3390/membranes13040438/s1
+
+11. Efflux-pump heterogeneity 2025: INELIGIBLE for the current evolutionary
+    estimand. The primary article studies transient phenotypic variants of
+    stationary-phase bacteria, acute peptide accumulation/survival and
+    transcriptomics, not an independently evolved serial-passage MIC panel.
+    PMC fetch returned no content; author repository copy of the published
+    eLife paper supplied the methods and abstract. Useful mechanistic
+    context, never new evolution units.
+    Source: https://iris.unica.it/retrieve/9dd5ee58-0095-4301-8d0c-525ede36dc61/elife-99752.pdf
+    Publisher: https://elifesciences.org/articles/99752
+
+No-peeking deviation disclosed: full-page primary and secondary fetches
+incidentally exposed numerical MIC/effect text for Bac7 and Habets. These
+values were not extracted into a dataset, aggregated, modeled or used to
+rank candidates. Any future adoption must disclose this exposure in its
+pre-outcome estimand addendum; do not describe this continuation as blinded.
+
+Next: inspect Bac7 supplementary sequence/control structure and widen to
+Dryad/Figshare data deposits. No newly eligible dataset claimed in this pass.
