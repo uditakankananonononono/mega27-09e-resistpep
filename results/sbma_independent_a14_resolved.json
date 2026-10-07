@@ -1,0 +1,22 @@
+{
+ "lock_commit": "57e242cda46d17d75bb5e4336905181e7375860b+A14 81ffe43934cfaa6217d84a7db75806acb5892ac2",
+ "non_S_lines": 20,
+ "events_mapped": 71,
+ "unmapped_gene_events": [],
+ "T_obs": 4,
+ "contributing_pairs_lines": {
+  "CAP18:bass": 4,
+  "LL37:wzze": 3,
+  "LL37:lptc": 3,
+  "HBD3:basr": 3
+ },
+ "null_mean": 0.00025,
+ "p": 0.0,
+ "lines_per_amp": {
+  "LL37": 5,
+  "CAP18": 5,
+  "HBD3": 4,
+  "PEX": 5,
+  "PR39": 1
+ }
+}
