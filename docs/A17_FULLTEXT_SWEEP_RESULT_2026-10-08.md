@@ -1,0 +1,12 @@
+# A17 result (lock 8b31b6a0a6221733e557036a02cd1e59aecde703): PMC full-text sweep for the 09d gate
+Script scripts/fulltext_sweep_a17.py; outputs results/fulltext_sweep_a17.json (all fetched PMCIDs) and results/fulltext_sweep_a17_kept_paragraphs.json (paragraphs that passed the keyword filter). Run as locked.
+Disclosure: before the lock I ran one probe esearch for "basS" (retmax 1) in PMC only to confirm eutils worked; it returned a count of 48,506 (the term matches fish) and no papers were read. The lock text's "before any A17 search" should be read with that exception.
+Coverage: PMC counts Q1 1,398; Q2 1,040; Q3 113; Q4 17. The locked retmax 200 means only the first 200 per query were fetched, so Q1 and Q2 are TRUNCATED (434 distinct PMCIDs fetched in total). That is a coverage limit, not a finding of absence. 25 papers passed the keyword filter.
+## Screen of the 25 kept papers (read from retrieved paragraphs)
+- **PMID 29995974** (E. coli; lptG K34D suppressed by basS L102Q; basS allele more resistant to polymyxin B): criteria 1-3 hold, measured only polymyxin B, no host-defence AMP. PARTIAL. Notably links basS and the LPS transport (Lpt) pathway.
+- **PMID 42313113** (E. coli MG1655 mcr-3 colistin evolution): pmrB (basS), waaY and sbmA mutations arise in evolved populations under colistin. Evolution evidence only, no reconstituted phenotype for a matched AMP. PARTIAL at best; it is also an independent recurrence of the same genes under a polymyxin, not under LL-37/CAP18.
+- **PMID 42502414** (Salmonella luxS/lsr mutants, polymyxin sub-MIC, pmrA/pmrB expression lowered): the perturbed genes are luxS/lsrB/lsrK, not pmrB; fails criterion 3. Not scored as partial.
+- Not scored (reviews, other organisms such as Pseudomonas or Burkholderia, no matched-gene perturbation or no AMP phenotype): PMIDs 41872433, 42370218, 41870148, 42022846, 41398649, 41597692, 41497304, 41465050, 40540753, 41226536, 41009920, 40304498, 39912656, 39843948, 39512935, 36435256, 39452760, 39065030, 34468186, 34149657, 30837659, 25505462.
+- lptC: no paper tests an lptC perturbation against LL-37/cathelicidin/CAP18. wzzE: none (Q4 produced no kept paper).
+## Gate status
+**09d gate: UNMET.** No paper satisfies criteria 1-5 for basS, basR, lptC or wzzE with a matched host-defence AMP. New PARTIAL records beyond A15: PMID 29995974 and PMID 42313113 (polymyxin-class only). Closing the gate still requires a functional measurement against LL-37 or CAP18. Limits: PMC open access only, truncated Q1/Q2, single reader, keyword filter. This is not a systematic review.

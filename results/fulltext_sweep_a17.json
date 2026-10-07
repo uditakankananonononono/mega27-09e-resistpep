@@ -1,0 +1,4883 @@
+{
+ "lock_commit": "8b31b6a0a6221733e557036a02cd1e59aecde703",
+ "counts": {
+  "Q1": 1398,
+  "Q2": 1040,
+  "Q3": 113,
+  "Q4": 17
+ },
+ "n_fetched": 434,
+ "n_kept": 25,
+ "log": [
+  {
+   "pmcid": "13617642",
+   "pmid": [
+    "42807334"
+   ],
+   "title": "Nanomedicine against antimicrobial resistance: mechanistic insights and next-generation therapeutic potential",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13612361",
+   "pmid": [
+    "42798552"
+   ],
+   "title": "Effects of dietary antimicrobial peptides on growth performance, antioxidant capacity, immune response and disease resistance of juvenile Nile tilapia",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13611847",
+   "pmid": [
+    "42797968"
+   ],
+   "title": "Characterization and Antibacterial Activity of a Low-Molecular-Weight Bacteriocin-like Inhibitory Substance S-2 Produced by Leuconostoc falkenbergense",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13608904",
+   "pmid": [
+    "42795654"
+   ],
+   "title": "Proteomic Profiling Reveals Intracellular Regulatory Network Disturbance Induced by QseB Deletion in Glaesserella parasuis",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13608901",
+   "pmid": [
+    "42795465"
+   ],
+   "title": "In Vitro Antibacterial Activity of Commercial Essential Oils Against Lactococcus garvieae",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13608734",
+   "pmid": [
+    "42795358"
+   ],
+   "title": "The Vaccine Candidates Against Major Fish Pathogens (Pseudomonas fluorescens and Aeromonas hydrophila) from the Outer Membrane Proteins of P. fluoresc",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13603772",
+   "pmid": [
+    "42792037"
+   ],
+   "title": "Postbiotics and Paraprobiotics as Next-Generation Gut Microbiome Modulators in Sustainable Aquaculture Health",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13603594",
+   "pmid": [
+    "42792024"
+   ],
+   "title": "Prophage-Derived Molecules as Anti-Vibrio Agents in Aquaculture: Mechanisms of Biofilm Control and Virulence Suppression",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13603602",
+   "pmid": [
+    "42791974"
+   ],
+   "title": "Adaptive Response of Escherichia coli to Pexiganan: Insights from Genomic Analysis",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13607800",
+   "pmid": [
+    "42784631"
+   ],
+   "title": "Proteome-wide remodelling in Klebsiella pneumoniae during step-wise adaptive evolution against colistin",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13599516",
+   "pmid": [
+    "42560056"
+   ],
+   "title": "A functionally selected Acinetobacter sp. phosphoethanolamine transferase gene from the goose fecal microbiome confers colistin resistance in E. coli",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13589039",
+   "pmid": [
+    "42446562"
+   ],
+   "title": "Vitamin D3 as an antimicrobial and antiviral immunonutrient in aquaculture",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13577135",
+   "pmid": [
+    "40313153"
+   ],
+   "title": "Small regulatory RNAs as key modulators of antibiotic resistance in pathogenic bacteria",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13570634",
+   "pmid": [
+    "41793682"
+   ],
+   "title": "Whole-Genome Analysis of Multidrug-Resistant Escherichia coli from Bloodstream Infections in Iraqi Cancer Patients",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13565219",
+   "pmid": [
+    "42737316"
+   ],
+   "title": "Synergistic Effects Between Chitooligosaccharide\u2013Epigallocatechin Gallate Conjugate and Nisin on Inhibition of Seafood-Associated Vibrio spp., Aeromon",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13552734",
+   "pmid": [
+    "42709724"
+   ],
+   "title": "Transposon insertion sequencing of Pseudomonas aeruginosa identifies multiple intersecting pathways essential for extreme colistin resistance",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13551534",
+   "pmid": [
+    "42322220"
+   ],
+   "title": "Malaria mosquito antimicrobial defence requires immunity and detoxification gene regulation by Lola",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13539252",
+   "pmid": [
+    "41461310"
+   ],
+   "title": "Targeting the human gut microbiome: a comparative review of probiotics, prebiotics, synbiotics, and postbiotics",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13537233",
+   "pmid": [
+    "42685221"
+   ],
+   "title": "Combinatorial action of regulatory systems generates colistin heteroresistance",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13532303",
+   "pmid": [
+    "42554465"
+   ],
+   "title": "Pseudomonas aeruginosa mgtC gene is under the control of PhoP and CbrAB regulators, and its expression can be visualized in macrophages",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13528056",
+   "pmid": [
+    "42677167"
+   ],
+   "title": "Gut microbiota-targeted bioactive peptides as emerging axis in nutritional therapeutics: trends, challenges, and prospects",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13527839",
+   "pmid": [
+    "42676813"
+   ],
+   "title": "Antibiotic resistance in K. pneumoniae: perspectives, challenges, health risks, therapeutic approaches",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13529223",
+   "pmid": [
+    "42647535"
+   ],
+   "title": "Polymorphisms in a bacterial signalling pathway alter evolutionary routes of antibiotic resistance in Escherichia coli",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13518417",
+   "pmid": [
+    "41944926"
+   ],
+   "title": "Marine Antimicrobial Peptides: From Ocean Biodiversity to Genome Mining, Multi-Omics Discovery, and Biotechnological Innovation in the Battle Against ",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13506780",
+   "pmid": [
+    "42656637"
+   ],
+   "title": "Host-dependent effects of mcr-1 and mcr-8 on fitness, virulence, and transmission in Escherichia coli and Klebsiella pneumoniae",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13515819",
+   "pmid": [
+    "42655079"
+   ],
+   "title": "Gut Microbiome of Aquatic Organisms: Role in Immunity Formation and Effects on Aquaculture Productivity",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13515064",
+   "pmid": [
+    "42654981"
+   ],
+   "title": "The Dual Role of Zinc Homeostasis in Gram-Negative Bacterial Pathogenicity and Host Immune Defense",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13508940",
+   "pmid": [
+    "42651863"
+   ],
+   "title": "CiCXCL14 Exhibits Broad-Spectrum Bactericidal Activity and Protects Grass Carp Against Aeromonas hydrophila Infection",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13511167",
+   "pmid": [
+    "42651754"
+   ],
+   "title": "Research Progress on the Effect of Bacillus velezensis on Disease Resistance of Aquatic Animals",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13509821",
+   "pmid": [
+    "42651696"
+   ],
+   "title": "Comparative Genomics Reveals Diversification and Chromosomal Organization of Putative Antimicrobial Peptide-Derived Sequences in Amphibious Mudskipper",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13509389",
+   "pmid": [
+    "42651670"
+   ],
+   "title": "Catfish Transgenesis and Gene Editing: Overview, Recent Advances, and Future Perspectives",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13509288",
+   "pmid": [
+    "42650718"
+   ],
+   "title": "Targeting WHO-Priority MDR and XDR Gram-Negative Ocular Isolates by Combining Conventional Antimicrobials with Membrane-Active Peptides",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13508437",
+   "pmid": [
+    "42298663"
+   ],
+   "title": "Livestock immunomodulators as alternatives to antimicrobials \u2013 a roadmap for the fight against drug resistance",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13504276",
+   "pmid": [
+    "42639795"
+   ],
+   "title": "Modulation of rob expression accelerates development of antibiotic resistance in Yersinia enterocolitica",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13486188",
+   "pmid": [
+    "42620617"
+   ],
+   "title": "Therapeutic strategies against biofilm-associated multidrug-resistant Klebsiella pneumoniae and Acinetobacter baumannii in ventilator-associated pneum",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13478364",
+   "pmid": [
+    "42609619"
+   ],
+   "title": "Cordyceps and Beauveria infections drive species-specific microbiome dysbiosis in the mosquito Aedes aegypti",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13478213",
+   "pmid": [
+    "42243312"
+   ],
+   "title": "Experimental evolution under colistin selection increases colistin minimum inhibitory concentration (MIC) without detectable collateral MIC shifts in ",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12162239",
+   "pmid": [
+    "40055058"
+   ],
+   "title": "5-Methyluridine is ubiquitous in Pseudomonas aeruginosa tRNA and modulates antimicrobial resistance and virulence",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13471946",
+   "pmid": [
+    "42598182"
+   ],
+   "title": "Pharmacodynamic modeling of colistin and imipenem against in vitro Pseudomonas aeruginosa biofilms",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13471415",
+   "pmid": [
+    "42163299"
+   ],
+   "title": "Immunological response of goldfish (Carassius auratus) to recombinant pro-hepcidin and its antibacterial activity against Aeromonas hydrophila",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13463587",
+   "pmid": [
+    "42588927"
+   ],
+   "title": "Antimicrobial Peptide CPP-C3M4 Attenuates Salmonella-Induced Liver Inflammation and Oxidative Stress in Lambs",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13465781",
+   "pmid": [
+    "42585269"
+   ],
+   "title": "Nanotechnology\u2010Based Immunostimulants in Aquaculture: Mechanisms, Advances and Practical Applications",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13459554",
+   "pmid": [
+    "42446959"
+   ],
+   "title": "Proteome Remodeling\nof a Carbapenem-Resistant Escherichia coli Strain upon Meropenem Exposure",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13458342",
+   "pmid": [
+    "42218246"
+   ],
+   "title": "Effect of polymyxin resistance evolution on the fitness costs of Acinetobacter baumannii and the underlying mechanisms of polymyxin resistance",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13436332",
+   "pmid": [
+    "42313113"
+   ],
+   "title": "Acquired mutations in transcriptional regulator hns and lipopolysaccharide biosynthesis and modification genes impact colistin resistance and fitness ",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "13416846",
+   "pmid": [
+    "42529233"
+   ],
+   "title": "Identification, resistance mechanisms, and innovative therapeutic approaches against Acinetobacter baumannii\u2013calcoaceticus complex",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13405785",
+   "pmid": [
+    "42511020"
+   ],
+   "title": "Effects of High-Fat Diet on Intestinal Microbiota in Largemouth Bass (Micropterus salmoides) from a Segmental Perspective",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13404454",
+   "pmid": [
+    "42505668"
+   ],
+   "title": "Biofilm Formation and the Pore Proteins ompF and ompC Lead to Heteroresistance in Escherichia coli",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13400780",
+   "pmid": [
+    "42502414"
+   ],
+   "title": "Interbacterial AI-2 signaling orchestrates chemotaxis, attachment, and antimicrobial peptide resistance to promote Salmonella colonization",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "13400549",
+   "pmid": [
+    "42496792"
+   ],
+   "title": "Prebiotics and probiotics in animal nutrition: implications for food safety, sustainability, and circular production systems",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13369224",
+   "pmid": [
+    "41721062"
+   ],
+   "title": "Exploring the Potential of Exogenous Dietary Lysozyme as a Bioactive Additive in Aquaculture: Lessons from Monogastric Livestock Nutrition",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13357118",
+   "pmid": [
+    "42445791"
+   ],
+   "title": "Antibacterial mechanisms of phenyllactic acid against Shewanella putrefaciens by metabolomics and machine learning and its application in sea fish",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13333403",
+   "pmid": [
+    "42440415"
+   ],
+   "title": "Optimizing a carbon source based on water temperature to reduce Vibrio abundance and promote beneficial bacteria in a Penaeus vannamei shrimp biofloc ",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13336263",
+   "pmid": [
+    "42381184"
+   ],
+   "title": "Piperine reverses colistin resistance in multidrug resistant Gram-negative pathogens by membrane disruption and ROS damage",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13328337",
+   "pmid": [
+    "41872433"
+   ],
+   "title": "Antibiotic resistance mechanisms and global resistance patterns of Pseudomonas aeruginosa in microbial keratitis",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "13310060",
+   "pmid": [
+    "42370218"
+   ],
+   "title": "Antimicrobial Peptides Against Antimicrobial-Resistant Bacteria: Focus on Machine Learning",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 2
+  },
+  {
+   "pmcid": "13295643",
+   "pmid": [
+    "42353699"
+   ],
+   "title": "From Environmental Organism to Nosocomial Threat: Serratia spp. in the Era of Antimicrobial Resistance and Therapeutic Innovation",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13295260",
+   "pmid": [
+    "42353385"
+   ],
+   "title": "Potential of Antimicrobial Peptide Synergies for Combating Infectious Diseases in Aquaculture: A Review",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13262486",
+   "pmid": [
+    "41975405"
+   ],
+   "title": "Within-host mechanisms of resistance evolution in polymyxin B-resistant Klebsiella pneumoniae without prior exposure",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13251306",
+   "pmid": [
+    "42265791"
+   ],
+   "title": "Amuc_1100 alleviates HFD-induced hepatic lipid accumulation via gut microbiota in zebrafish: insights from the role of intestinal 14-3-3\u03b2/\u03b1-A",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13243464",
+   "pmid": [
+    "41986645"
+   ],
+   "title": "Co-occurrence of plasmid-mediated colistin resistance gene, mcr-1 and blaCTX\u2212M in multidrug-resistant Escherichia coli isolates from calves in Iran",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12364094",
+   "pmid": [
+    "40456230"
+   ],
+   "title": "Coriander borne Salmonella superbug: genomic assessments of chromosomal and plasmid-associated resistance, virulence and MGEs of XDR Salmonella enteri",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13208921",
+   "pmid": [
+    "42188290"
+   ],
+   "title": "Marine Antimicrobial Peptide as a Promising Alternative to Polymyxin B",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13203813",
+   "pmid": [
+    "42187751"
+   ],
+   "title": "Antimicrobial Peptides in Fish: Mechanisms of Action and Applications in Aquaculture",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13182235",
+   "pmid": [
+    "42158397"
+   ],
+   "title": "EartEarthworm hydrolysate alleviates Escherichia coli-induced enteritis by suppressing MAPK pathway activation, enhancing intestinal barrier integrity",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13183206",
+   "pmid": [
+    "42149815"
+   ],
+   "title": "Impact of vitamin D on gene expression in Atlantic salmon skin",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13176032",
+   "pmid": [
+    "41186894"
+   ],
+   "title": "Effects of Composite Antimicrobial Peptides on Colonic Microbiota and Barrier Integrity in Holstein Steers",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13159750",
+   "pmid": [
+    "42125472"
+   ],
+   "title": "Clinical Characteristics and Whole-Genome Sequencing Analysis of Carbapenem- and Colistin-Resistant Hypervirulent Klebsiella pneumoniae",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13155029",
+   "pmid": [
+    "42056714"
+   ],
+   "title": "Acinetobacter baumannii: Mechanisms of antibiotic resistance, quorum sensing regulation, and current therapeutic strategies",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13143762",
+   "pmid": [
+    "42100218"
+   ],
+   "title": "Genomic insights into Solea solea gut-borne Enterococcus faecalis for the development of new probiotics in aquaculture",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13142001",
+   "pmid": [
+    "41870148"
+   ],
+   "title": "Direct interaction between phosphotransferase LpxT and ArnT modulates polymyxin B resistance in Pseudomonas aeruginosa",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "13133278",
+   "pmid": [
+    "41832349"
+   ],
+   "title": "Combinations of colistin and bacteriocins prevent the selection of colistin resistance in Acinetobacter baumannii",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13111565",
+   "pmid": [
+    "42052205"
+   ],
+   "title": "Fine-tuned GPT-based foundation models effectively reconstruct bacterial transcriptional regulatory networks from literature",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13113831",
+   "pmid": [
+    "42041371"
+   ],
+   "title": "Membrane-Focused Strategies Against Acinetobacter baumannii: The Therapeutic Potential of Functional Copolymers",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13116114",
+   "pmid": [
+    "41968108"
+   ],
+   "title": "Peptoid-based antimicrobial strategies against polymyxin-resistant Gram-negative bacteria",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13103409",
+   "pmid": [
+    "41807473"
+   ],
+   "title": "Cetobacterium somerae as a microbial correlate of improved muscle quality after intestinal microbiota transplantation in Yellow River carp (Cyprinus c",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13096796",
+   "pmid": [
+    "42022846"
+   ],
+   "title": "Colistin Resistance in Bacteria: Current Updates on Mechanism of Action and Combating Strategies",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "13098314",
+   "pmid": [
+    "42012227"
+   ],
+   "title": "Fermented Fish Products: A Comprehensive Overview of Traditional Processing Techniques, Varieties, and Their Health Benefits",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13089182",
+   "pmid": [
+    "42004249"
+   ],
+   "title": "Multi-omics reveals soybean meal-induced gut microbiota alterations and metabolic disturbances in largemouth bass (Micropterus salmoides): Implication",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13082000",
+   "pmid": [
+    "41993325"
+   ],
+   "title": "Metal-independent effects of calprotectin on cocultures of Pseudomonas aeruginosa and Staphylococcus aureus involve alkylquinolone production",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13076539",
+   "pmid": [
+    "41988035"
+   ],
+   "title": "Adaptive metabolic strategies of intracellular bacterial pathogens",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13074390",
+   "pmid": [
+    "41976159"
+   ],
+   "title": "Tannins as Therapeutic Agents for Ulcerative Colitis: Mechanisms and Prospects in Regulating Gut Inflammatory-Oxidative Homeostasis",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13059039",
+   "pmid": [
+    "41959551"
+   ],
+   "title": "Microbial mechanisms and therapeutic interventions in the periodontitis-inflammatory bowel disease axis: a comprehensive review",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13055303",
+   "pmid": [
+    "41841991"
+   ],
+   "title": "Mechanistic insights into the inhibitory effects of eukaryotically expressed Sarcotoxin II 50 on Klebsiella pneumoniae invasion into pulmonary epithel",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13021476",
+   "pmid": [
+    "41909648"
+   ],
+   "title": "Exploring the host-pathogen interaction and genome analysis of multidrug-resistant bacterial pathogen Proteus penneri isolated from Labeo rohita",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13029013",
+   "pmid": [
+    "41901778"
+   ],
+   "title": "Research Progress on Heavy Metals as Regulators of Bacterial Virulence in a Caenorhabditis elegans Infection Model",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13025528",
+   "pmid": [
+    "41897765"
+   ],
+   "title": "Chitosan-Based Active Packaging for Shrimp Preservation: Development, Functionalization, and Industrial Prospects",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13025861",
+   "pmid": [
+    "41897698"
+   ],
+   "title": "Bioactive Peptides\u2013Probiotics Interactions: Implications for Microbial Function and Human Health",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13027682",
+   "pmid": [
+    "41892961"
+   ],
+   "title": "Marine Lectins in Innate Immune Modulation: Mechanistic Insights, Signaling Pathways, and a Cross-Taxa Evidence Landscape",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13023656",
+   "pmid": [
+    "41892480"
+   ],
+   "title": "Mechanisms of Bacterial Resistance and Innovative Strategies to Overcome Antimicrobial Resistance",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13016106",
+   "pmid": [
+    "41890236"
+   ],
+   "title": "Integrated Proteomics and Metabolomics Reveal Multifaceted Mechanisms of Colistin Resistance in Acinetobacter baumannii",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12998950",
+   "pmid": [
+    "41774708"
+   ],
+   "title": "Magnesium depletion by Candida albicans unleashes two unusual modes of colistin resistance in Pseudomonas aeruginosa with different fitness costs",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12997841",
+   "pmid": [
+    "41728968"
+   ],
+   "title": "Pecbloodin18-37: a promising antimicrobial peptide from Boleophthalmus pectinirostris with therapeutic potential against Edwardsiella tarda infection",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12993857",
+   "pmid": [
+    "41731650"
+   ],
+   "title": "Targeting of\nthe Gram-Negative Outer Membrane for\nAntibiotic Discovery and Potentiation",
+   "queries": [
+    "Q1",
+    "Q2",
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12984630",
+   "pmid": [
+    "41829113"
+   ],
+   "title": "Veterinary Drug Residues in Food Chains: Sources, Exposure Pathways, Health Impacts, Mitigation, and Safety Assurance",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12986056",
+   "pmid": [
+    "41828634"
+   ],
+   "title": "Combining Yeast Display and Bacterial Genomic Library for the Unbiased Isolation of Novel Polysaccharide-Binding Peptides",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12971899",
+   "pmid": [
+    "41816686"
+   ],
+   "title": "Breaking the outer membrane barrier: structure, targets, and antimicrobial strategies for Gram-negative bacteria",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12968011",
+   "pmid": [
+    "41809127"
+   ],
+   "title": "RNA-triggered innate immunity: friend and foe",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12969970",
+   "pmid": [
+    "41355534"
+   ],
+   "title": "The Individual and Combined Effects of Warming and Atrazine on Lithobates pipiens Phenotypes: Implications for Frog Declines",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12962550",
+   "pmid": [
+    "41785019"
+   ],
+   "title": "Pseudomonas aeruginosa gene expression changes during established biofilm infection in a cystic fibrosis lung model",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12960426",
+   "pmid": [
+    "41721082"
+   ],
+   "title": "Investigation and development of bilayer scaffolds: ZnONPs-loaded poly (vinyl alcohol) incorporated with Platostoma palustre aqueous extract and spong",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12947588",
+   "pmid": [
+    "41769086"
+   ],
+   "title": "Enhanced antibacterial activity of antimicrobial peptide\u2014antibiotic combinations against multidrug-resistant bacteria",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12936834",
+   "pmid": [
+    "41767277"
+   ],
+   "title": "Carbapenem resistance and hypervirulence in Klebsiella pneumoniae are raising global public health concerns in the 21st century",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12938293",
+   "pmid": [
+    "41750591"
+   ],
+   "title": "Alleviating Effects of Three Heat-Inactivated Enterococcus faecalis Strains Against Growth Suppression, Oxidative Stress and Gut Microbiome Dysbiosis ",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12937352",
+   "pmid": [
+    "41750481"
+   ],
+   "title": "Emergence of Polymyxin Resistance Driven by a PhoQ Mutation in KPC-2-Producing Klebsiella pneumoniae",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12942635",
+   "pmid": [
+    "41745479"
+   ],
+   "title": "From Host-Derived Pressures to the Environmental Anti-Antimicrobial Peptides Resistome: Mechanisms, Reservoirs and Implications for Therapeutic Peptid",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12918729",
+   "pmid": [
+    "41556661"
+   ],
+   "title": "Norepinephrine derepresses the Fur regulon of Neisseria gonorrhoeae to enable growth in iron-limited conditions",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12918742",
+   "pmid": [
+    "41524499"
+   ],
+   "title": "Chemical-mediated alteration of antibiotic susceptibility: mechanisms and potential new targets for antibiotic adjuvant discovery",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12898163",
+   "pmid": [
+    "41683964"
+   ],
+   "title": "The Role of Probiotics Limosilactobacillus reuteri, Ligilactobacillus salivarius, and Lactobacillus johnsonii in Inhibziting Pathogens, Maintaining Gu",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12889026",
+   "pmid": [
+    "41432158"
+   ],
+   "title": "Dronedarone synergizes with colistin against planktonic and biofilm forms of multidrug-resistant Gram-negative pathogens",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12861254",
+   "pmid": [
+    "41630883"
+   ],
+   "title": "Screening and identification of novel anti-inflammatory peptides from sea cucumber gonads: In silico and in vitro analysis",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12849141",
+   "pmid": [
+    "41398649"
+   ],
+   "title": "Epidemiological characterization of chromosome-mediated colistin resistance in hypervirulent carbapenem-resistant Klebsiella pneumoniae",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "12844150",
+   "pmid": [
+    "41597692"
+   ],
+   "title": "Colistin Resistance in Gram-Negative Bacteria: Mechanisms, Transmission, and Novel Intervention Strategies",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "12838536",
+   "pmid": [
+    "41594587"
+   ],
+   "title": "Molecular Characterization, Expression Responses and Antipathogenic Bacterial Function of Interleukin-1\u03b2 (IL-1\u03b2) in Asian Seabass (Lates calcarifer Bl",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12837651",
+   "pmid": [
+    "41594138"
+   ],
+   "title": "Lipopeptide Engineering: From Natural Origins to Rational Design Against Antimicrobial Resistance",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12837312",
+   "pmid": [
+    "41594121"
+   ],
+   "title": "The Antimicrobial Peptide CRAMP-34 Eradicates Escherichia coli Biofilms by Interfering with the kduD-Dependent Network",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12837551",
+   "pmid": [
+    "41594074"
+   ],
+   "title": "Antibiotic Resistance in Klebsiella\u00a0pneumoniae and Related Enterobacterales: Molecular Mechanisms, Mobile Elements, and Therapeutic Challenges",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11761694",
+   "pmid": [
+    "39865303"
+   ],
+   "title": "Cryo\u2010EM SPR\u00a0structures of Salmonella typhimurium\nArnC; the key enzyme in lipid\u2010A modification conferring polymyxin resistance",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12802890",
+   "pmid": [
+    "41217903"
+   ],
+   "title": "Identification of antimicrobial resistance genes in Escherichia coli through network diffusion",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12773716",
+   "pmid": [
+    "41461032"
+   ],
+   "title": "Resistance, heteroresistance, and fitness costs drive colistin treatment failure during Acinetobacter baumannii pneumonia",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12766095",
+   "pmid": [
+    "41497304"
+   ],
+   "title": "Overview of dendrimers as promising drug delivery systems with insight into anticancer and anti-microbial applications",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "12755824",
+   "pmid": [
+    "41474808"
+   ],
+   "title": "Polarity effects, resistance, and probiotic enhancement of intoxication of Salmonella enterica fraB mutants in murine models",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12748117",
+   "pmid": [
+    "41460537"
+   ],
+   "title": "Polymyxin resistance in Gram-negative bacteria: a comprehensive review with a focus on the role of 4-amino-4-doexy-l-arabinose",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12748115",
+   "pmid": [
+    "41460375"
+   ],
+   "title": "The PhoPQ two-component regulatory system as an important regulator of bacterial stress response",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12736025",
+   "pmid": [
+    "41472065"
+   ],
+   "title": "Impact of Antibiotic Exposure on Growth and Biofilms Formation in Aeromonas salmonicida Subspecies Isolated from Atlantic Salmon (Salmo salar)",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12735651",
+   "pmid": [
+    "41471842"
+   ],
+   "title": "Peptides from General By-Products: Unveiling Their Potential Biological Activities in Human Health",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12733104",
+   "pmid": [
+    "41465123"
+   ],
+   "title": "Hepcidin from the Chinese Spiny Frog (Quasipaa spinosa) Integrates Membrane-Disruptive Antibacterial Activity with Macrophage-Mediated Protection Agai",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12732732",
+   "pmid": [
+    "41465050"
+   ],
+   "title": "Role of the PhoP/PhoQ Two-Component Regulatory System in Biofilm Formation in Acid-Adapted Salmonella typhimurium",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "12732043",
+   "pmid": [
+    "41464932"
+   ],
+   "title": "Development of Nisin-Grafted Chitosan Coating via Low-Temperature Enzymatic Method for Enhanced Preservation of Sea Bass",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12729578",
+   "pmid": [
+    "41463716"
+   ],
+   "title": "The Public Health Risks of Colistin Resistance in Dogs and Cats: A One Health Perspective Review",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12713675",
+   "pmid": [
+    "41427415"
+   ],
+   "title": "A functionally selected Acinetobacter sp. phosphoethanolamine transferase gene from the goose fecal microbiome confers colistin resistance in E. coli",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12697260",
+   "pmid": [
+    "41367228"
+   ],
+   "title": "Two-component systems as potential therapeutic targets in Neisseria pathogenesis",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12697171",
+   "pmid": [
+    "41186221"
+   ],
+   "title": "Genome sequences of two highly colistin-resistant Pseudomonas aeruginosa clinical isolates from the cystic fibrosis lung",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12690987",
+   "pmid": [
+    "41375548"
+   ],
+   "title": "Quercetin Enhances the Antibacterial Activity of Polymyxin E Against MCR-1-Positive Bacteria by Inhibiting the Biological Functions of the Cell Membra",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12330716",
+   "pmid": [
+    "40777351"
+   ],
+   "title": "Resistance, heteroresistance and fitness costs drive colistin treatment failure during Acinetobacter baumannii pneumonia",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12656988",
+   "pmid": [
+    "41305485"
+   ],
+   "title": "Combating White Spot Syndrome Virus (WSSV) in Global Shrimp Farming: Unraveling Its Biology, Pathology, and Control Strategies",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12654582",
+   "pmid": [
+    "41304284"
+   ],
+   "title": "PmrA Mutations in Drug-Resistant Acinetobacter baumannii Affect Sensor Kinase-Response Regulator Interaction and Phosphotransfer",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12649489",
+   "pmid": [
+    "41301603"
+   ],
+   "title": "Antimicrobial Peptides Versus Antibiotics in Farm Animal Production",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12650200",
+   "pmid": [
+    "41301511"
+   ],
+   "title": "Structural Basis for Targeting the Bifunctional Enzyme ArnA",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12649682",
+   "pmid": [
+    "41300465"
+   ],
+   "title": "Effects of Black Soldier Fly (Hermetia illucens) Larvae Meal Replacement for Fish Meal on Growth Performance, Muscle Quality, Antioxidant Status, Immu",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12646044",
+   "pmid": [
+    "40540753"
+   ],
+   "title": "Inhibiting Lipopolysaccharide Biogenesis: The More You Know the Further You Go",
+   "queries": [
+    "Q1",
+    "Q3"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "12632600",
+   "pmid": [
+    "41278622"
+   ],
+   "title": "A novel post-translational modification of fimbriae drives pathogenicity in Klebsiella pneumoniae",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12632274",
+   "pmid": [
+    "41104944"
+   ],
+   "title": "The PA2803-encoded PcrP exhibits a novel non-catalytic function and contributes to polymyxin B resistance in P. aeruginosa",
+   "queries": [
+    "Q1",
+    "Q2",
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12607527",
+   "pmid": [
+    "41227682"
+   ],
+   "title": "Detection, Genomic Characterization, and Antibiotic Susceptibility of Salmonella Anatum SPBM3 Isolated from Plant-Based Meat",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12607316",
+   "pmid": [
+    "41227628"
+   ],
+   "title": "Harnessing Edible Insect Bioactives for Gut Health: A Comprehensive Review on Chitin-Derived Prebiotics and Peptidomic Insights from the Black Soldier",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12607733",
+   "pmid": [
+    "41226536"
+   ],
+   "title": "Detection of Genes Associated with Polymyxin and Antimicrobial Peptide Resistance in Isolates of Pseudomonas aeruginosa",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "12607544",
+   "pmid": [
+    "41226520"
+   ],
+   "title": "Bioprotective Strategies to Control Listeria\u00a0monocytogenes in Food Products and Processing Environments",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12590445",
+   "pmid": [
+    "41211146"
+   ],
+   "title": "Alginate oligosaccharides in the food industry: emerging functional roles, health benefits, and technological applications \u2013 Review",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12582127",
+   "pmid": [
+    "41170650"
+   ],
+   "title": "Multidrug-resistant Pseudomonas aeruginosa: Pathogenesis, resistance mechanisms, and novel therapeutic strategies",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12582109",
+   "pmid": [
+    "41144657"
+   ],
+   "title": "Colistin-induced transition from non-mucoid to mucoid phenotype in resistant Pseudomonas aeruginosa ST3351",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12579171",
+   "pmid": [
+    "41179705"
+   ],
+   "title": "Antibiotic Resistance: A Genetic and Physiological Perspective",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12566268",
+   "pmid": [
+    "41156770"
+   ],
+   "title": "Integrated Pathogen\u2013Host Analysis of Citrobacter braakii SCGY-1L: Genomic Determinants and Host Transcriptional Dynamics During Infection",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12563431",
+   "pmid": [
+    "41155235"
+   ],
+   "title": "The Esc(1-21)-1c Antimicrobial Peptide Inhibits a Specific Transcriptional Activator of the MexAB\u2013OprM Efflux Pump in P. aeruginosa",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12561702",
+   "pmid": [
+    "41148650"
+   ],
+   "title": "Understanding Recent Developments in Colistin Resistance: Mechanisms, Clinical Implications, and Future Perspectives",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12548376",
+   "pmid": [
+    "41142557"
+   ],
+   "title": "Safety and effects of scorpion-derived antimicrobial peptides as an alternative to antibiotic growth promoters in broilers: growth performance, immune",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12519164",
+   "pmid": [
+    "41046716"
+   ],
+   "title": "Dietary fermented Artemisia argyi enhances growth performance, hepatic antioxidant activity, and intestinal health in Hongyu roosters",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11653736",
+   "pmid": [
+    "39382292"
+   ],
+   "title": "The multifaceted roles of phosphoethanolamine-modified lipopolysaccharides: from stress response and virulence to cationic antimicrobial resistance",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12500741",
+   "pmid": [
+    "41051619"
+   ],
+   "title": "Temporin-1CEa and its Analog LK2(6)A(L) Confer Neuroprotective Effects in Parkinson\u2019s Disease Model by Attenuating Neuroinflammation Via the NF-\u03baB and",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12494483",
+   "pmid": [
+    "41042597"
+   ],
+   "title": "Induction of lipid A modification genes in Pseudomonas aeruginosa cells tolerant to a commercially available contact lens disinfection solution",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12479497",
+   "pmid": [
+    "41035886"
+   ],
+   "title": "Microbiome engineering to enhance disease resistance in aquaculture: current strategies and future directions",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12466345",
+   "pmid": [
+    "41009920"
+   ],
+   "title": "Phage Resistance Modulates Escherichia coli B Response to Metal-Based Antimicrobials",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "12466427",
+   "pmid": [
+    "41009902"
+   ],
+   "title": "Unlocking Antimicrobial Peptides from Marine Invertebrates: A Comprehensive Review of Antimicrobial Discovery",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12466579",
+   "pmid": [
+    "41007974"
+   ],
+   "title": "Neuropeptide Y Boosts Intestinal Mucosal Immunity of Tilapia Infected with Streptococcus agalactiae by Reducing Inflammation and Oxidative Stress",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12467383",
+   "pmid": [
+    "41007387"
+   ],
+   "title": "Crosstalk Between Intestinal Microbiota and Host Defense Peptides in Fish",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12455946",
+   "pmid": [
+    "40905698"
+   ],
+   "title": "Calprotectin protects Staphylococcus aureus in coculture with Pseudomonas aeruginosa by attenuating quorum sensing and decreasing the production of ps",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12440182",
+   "pmid": [
+    "40924764"
+   ],
+   "title": "The Salmonella phage shock protein system is required for defense against host antimicrobial peptides",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12435677",
+   "pmid": [
+    "40953017"
+   ],
+   "title": "How Klebsiella pneumoniae controls its virulence",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12431822",
+   "pmid": [
+    "40948613"
+   ],
+   "title": "Dietary Hydrolyzed Yeast Improves Growth, Gut Health, and Selective Gene Expression of Nile Tilapia (Oreochromis niloticus)",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12424257",
+   "pmid": [
+    "40949035"
+   ],
+   "title": "Colistin heteroresistance, mechanisms, diagnostic methods, and therapeutic options: A review",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12408316",
+   "pmid": [
+    "40918125"
+   ],
+   "title": "Identification of galectin-9 and its antibacterial function in Yellow River carp (Cyprinus carpio haematopterus)",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12399857",
+   "pmid": [
+    "40901006"
+   ],
+   "title": "Antimicrobial Peptides: Mechanisms, Applications, and Therapeutic Potential",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12391796",
+   "pmid": [
+    "40896482"
+   ],
+   "title": "Unlocking the potential: Exploring the application of bioactive peptides in aquaculture",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12386371",
+   "pmid": [
+    "40870551"
+   ],
+   "title": "Black Soldier Fly: A Keystone Species for the Future of Sustainable Waste Management and Nutritional Resource Development: A Review",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12387048",
+   "pmid": [
+    "40869027"
+   ],
+   "title": "Lipopolysaccharide: Recent Advances in Its Biosynthesis and Controlling Cell Envelope Homeostasis",
+   "queries": [
+    "Q1",
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12383081",
+   "pmid": [
+    "40868002"
+   ],
+   "title": "Marine Antimicrobial Peptides: Emerging Strategies Against Multidrug-Resistant and Biofilm-Forming Bacteria",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12387386",
+   "pmid": [
+    "40863616"
+   ],
+   "title": "A Comprehensive Review on the Valorization of Bioactives from Marine Animal By-Products for Health-Promoting, Biofunctional Cosmetics",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12371492",
+   "pmid": [
+    "40860038"
+   ],
+   "title": "Poly-Arginine\nTails and Helical Segments of Natural\nAntimicrobial Peptides Display Concerted Action at Membranes for Enhanced\nAntimicrobial Effects",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12373980",
+   "pmid": [
+    "40847578"
+   ],
+   "title": "Polymicrobial Biofilms: Interkingdom Interactions, Resistance and Therapeutic Strategies",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12344363",
+   "pmid": [
+    "40809928"
+   ],
+   "title": "Gut-liver axis in diabetes: Mechanisms and therapeutic opportunities",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12330030",
+   "pmid": [
+    "40777829"
+   ],
+   "title": "Detection and risk factor analysis of avian colibacillosis associated with colistin-resistant Escherichia coli and Klebsiella pneumoniae",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12314070",
+   "pmid": [
+    "40745162"
+   ],
+   "title": "A broad-spectrum antibiotic targets multiple-drug-resistant bacteria with dual binding targets and no detectable resistance",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12291844",
+   "pmid": [
+    "40723970"
+   ],
+   "title": "Genomic and Functional Characterization of Multidrug-Resistant E. coli: Insights into Resistome, Virulome, and Signaling Systems",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12298191",
+   "pmid": [
+    "40710513"
+   ],
+   "title": "Multifaceted Marine Peptides and Their Therapeutic Potential",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12301012",
+   "pmid": [
+    "40732727"
+   ],
+   "title": "Current Trends in Approaches to Prevent and Control Antimicrobial Resistance in Aquatic Veterinary Medicine",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12294789",
+   "pmid": [
+    "40724364"
+   ],
+   "title": "Alkaline Amino Acids for Salt Reduction in Surimi: A Review",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12239286",
+   "pmid": [
+    "40629425"
+   ],
+   "title": "Chitosan-based formulations for therapeutic applications. A recent overview",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12232244",
+   "pmid": [
+    "40384187"
+   ],
+   "title": "Forging a New Frontier: Antimicrobial Peptides and Nanotechnology Converging to Conquer Gastrointestinal Pathogens",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12226578",
+   "pmid": [
+    "40620488"
+   ],
+   "title": "FliA regulates the antibacterial activity of plantaricin BM-1 against Escherichia coli K-12 through the LuxS/AI-2 quorum-sensing-mediated biofilm form",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12213471",
+   "pmid": [
+    "40607276"
+   ],
+   "title": "Construction and Characterization of an lpxM-Deficient Acinetobacter baumannii Strain Using a pyrF/5-FOA Counterselection System",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12218203",
+   "pmid": [
+    "40577810"
+   ],
+   "title": "The ecology and plasticity of fish skin and gill microbiomes: seeking what matters in health and disease",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12211718",
+   "pmid": [
+    "40598119"
+   ],
+   "title": "Construction and evaluation of recombinant Lactobacillus plantarum expressing Micropterus salmoides hepcidin",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12196311",
+   "pmid": [
+    "40573238"
+   ],
+   "title": "Antioxidant Peptides Derived from Woody Oil Resources: Mechanisms of Redox Protection and Emerging Therapeutic Opportunities",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12193369",
+   "pmid": [
+    "40565037"
+   ],
+   "title": "Metabolic Rewiring of Bacterial Pathogens in Response to Antibiotic Pressure\u2014A Molecular Perspective",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12189927",
+   "pmid": [
+    "40558191"
+   ],
+   "title": "The Genetic Background and Culture Medium Only Marginally Affect the In Vitro Evolution of Pseudomonas aeruginosa Toward Colistin Resistance",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12189002",
+   "pmid": [
+    "40575134"
+   ],
+   "title": "Regulation of bacterial phosphorelay systems",
+   "queries": [
+    "Q1",
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12189297",
+   "pmid": [
+    "40563897"
+   ],
+   "title": "Fermentation Products Originated from Bacillus subtilis Promote Hepatic\u2013Intestinal Health in Largemouth Bass, Micropterus salmoides",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12189079",
+   "pmid": [
+    "40563880"
+   ],
+   "title": "Probiotic\u2013Vaccine Synergy in Fish Aquaculture: Exploring Microbiome-Immune Interactions for Enhanced Vaccine Efficacy",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12153677",
+   "pmid": [
+    "40509121"
+   ],
+   "title": "The Administration of Heat Shock Protein-70 Bacterial Homolog (DnaK) Improves the Cumulative Survival and the Expression of Immune-Related Genes in Gn",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12154181",
+   "pmid": [
+    "40498848"
+   ],
+   "title": "Fruit flies exploit behavioral fever as a defense strategy against parasitic insects",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12153194",
+   "pmid": [
+    "40500700"
+   ],
+   "title": "Comparative genomics of Acinetobacter baumannii from Egyptian healthcare settings reveals high-risk clones and resistance gene mobilization",
+   "queries": [
+    "Q1"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13595139",
+   "pmid": [
+    "42774676"
+   ],
+   "title": "Protein-centric mechanisms of typhoidal Salmonella pathogenicity: emerging opportunities for diagnostics and anti-virulence therapeutics",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13588254",
+   "pmid": [
+    "42761945"
+   ],
+   "title": "The Auranofin\u2013Colistin Combination Efficiency Against the Gram-Negative Strains: A Review",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13501153",
+   "pmid": [
+    "42639299"
+   ],
+   "title": "Molecular mechanisms of antibiotic resistance in Gram-positive and Gram-negative bacteria -\u00a0a narrative review",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13441359",
+   "pmid": [
+    "42105200"
+   ],
+   "title": "Designing the Next Generation of Antibiotics: Structure, SAR, and Strategy in Medicinal Chemistry (2000\u20132025)",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13436333",
+   "pmid": [
+    "42363879"
+   ],
+   "title": "Phosphoethanolamine modification of lipid A found in five distinct Akkermansia species",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13419641",
+   "pmid": [
+    "42525513"
+   ],
+   "title": "A post-translational modification of fimbriae drives pathogenicity in Klebsiella pneumoniae",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13414315",
+   "pmid": [
+    "42513957"
+   ],
+   "title": "The Convergence of Antimicrobial Resistance and Virulence in Streptococcus pneumoniae: A Molecular and Clinical Perspective",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13371490",
+   "pmid": [
+    "42447097"
+   ],
+   "title": "Disruption of rcnB modulates colistin susceptibility in Acinetobacter baumannii AB5075",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13264991",
+   "pmid": [
+    "42299345"
+   ],
+   "title": "From Laboratory to Clinic: Translational Medicine Paradigm of Polymyxin B Nanopreparations for Overcoming Drug-Resistant Bacterial Infections",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13256389",
+   "pmid": [
+    "42278354"
+   ],
+   "title": "Bacterial Acyl Carrier Proteins Are a Cytoplasmic Target for Different Cationic Antimicrobial and Antibiofilm Peptides",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13215669",
+   "pmid": [
+    "41996246"
+   ],
+   "title": "Dynamic heterogeneity in an E. coli stress response regulon mediates gene activation and antimicrobial peptide tolerance",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13198741",
+   "pmid": [
+    "22337166"
+   ],
+   "title": "ppGpp: magic beyond RNA polymerase",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13064566",
+   "pmid": [
+    "41947494"
+   ],
+   "title": "High-throughput transposon sequencing identifies HprR as a key regulator of the LEE operon and virulence in E. coli O157:H7",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13037404",
+   "pmid": [
+    "41810944"
+   ],
+   "title": "Transcriptomic analysis of tigecycline-induced colistin collateral sensitivity in carbapenem-resistant Enterobacter cloacae complex",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12086908",
+   "pmid": [
+    "40079538"
+   ],
+   "title": "Genetic insights into Staphylococcus aureus resistance: exploring AMR genes and molecular interactions",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12838224",
+   "pmid": [
+    "41363533"
+   ],
+   "title": "Small RNA promotes negative feedback of the master virulence regulator PhoP by repressing the PhoQ sensor enhancer UgtL in acidic pH",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12828698",
+   "pmid": [
+    "41384796"
+   ],
+   "title": "Developing antisense oligomer biotics \u201casobiotics\u201d as precision antibacterials: designs, strategies, and considerations for future success",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12752578",
+   "pmid": [
+    "41042118"
+   ],
+   "title": "Trimetallic Nanozyme\u2010Embedded Smart Hydrogel Enables NIR\u2010Controlled Bacterial Killing and Oxidative Stress Alleviation",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12671167",
+   "pmid": [
+    "41117630"
+   ],
+   "title": "Delineating molecular mechanisms on the acquisition of in\nvitro-adapted colistin-resistant Klebsiella\npneumoniae by transcriptomic analysis",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12634562",
+   "pmid": [
+    "41278478"
+   ],
+   "title": "Combating Klebsiella pneumoniae: from antimicrobial resistance mechanisms to phage-based combination therapies",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12563061",
+   "pmid": [
+    "41155406"
+   ],
+   "title": "Predicting Antibiotic Resistance in Listeria monocytogenes from Food and Food-Processing Environments Using Next-Generation Sequencing: A Systematic R",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12478281",
+   "pmid": [
+    "40972224"
+   ],
+   "title": "Efficacy of precisely tailored phage cocktails targeting carbapenem-resistant Acinetobacter baumannii reveals evolutionary trade-offs: a proof-of-conc",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12403569",
+   "pmid": [
+    "40736247"
+   ],
+   "title": "The regulatory network of Coprinopsis cinerea transcription factor Skn7 collaborates with bHLH1 during fungal-fungal interactions",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12388730",
+   "pmid": [
+    "40871342"
+   ],
+   "title": "Anti-QS Strategies Against Pseudomonas aeruginosa Infections",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12332128",
+   "pmid": [
+    "40615579"
+   ],
+   "title": "Identification of a fungal antibacterial endopeptidase that cleaves peptidoglycan",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12323615",
+   "pmid": [
+    "40621915"
+   ],
+   "title": "A novel insight into ComE-mediated activation of gene expression in Streptococcus mutans",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12323436",
+   "pmid": [
+    "40755225"
+   ],
+   "title": "Breastfeeding and the milk resistome shape the establishment and transmission of antibiotic resistance genes in the infant gut microbiome",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12260033",
+   "pmid": [
+    "40659638"
+   ],
+   "title": "Genome-wide antibiotic-CRISPRi profiling identifies LiaR activation as a strategy to resensitize fluoroquinolone-resistant Streptococcus pneumoniae",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12132448",
+   "pmid": [
+    "40462998"
+   ],
+   "title": "A novel non-catalytic function of PA2803-encoded PcrP contributes to polymyxin B resistance in P. aeruginosa and redefines the functional role of the ",
+   "queries": [
+    "Q2",
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12122810",
+   "pmid": [
+    "40442488"
+   ],
+   "title": "Cross resistance emergence to polymyxins in Acinetobacter baumannii exposed in vitro to an antimicrobial peptide",
+   "queries": [
+    "Q2",
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12121509",
+   "pmid": [
+    "40444001"
+   ],
+   "title": "The intricacies of Acinetobacter baumannii: a multifaceted comprehensive review of a multidrug-resistant pathogen and its clinical significance and im",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12108352",
+   "pmid": [
+    "40426592"
+   ],
+   "title": "Combatting Pseudomonas aeruginosa with \u03b2-Lactam Antibiotics: A Revived Weapon?",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12108193",
+   "pmid": [
+    "40426559"
+   ],
+   "title": "Lack of Spontaneous and Adaptive Resistance Development in Staphylococcus aureus Against the Antimicrobial Peptide LTX-109",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12117999",
+   "pmid": [
+    "39732052"
+   ],
+   "title": "Discovery of a Pseudomonas aeruginosa-specific small molecule targeting outer membrane protein OprH-LPS interaction by a multiplexed screen",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12108004",
+   "pmid": [
+    "40426208"
+   ],
+   "title": "AbOmpA in Acinetobacter baumannii: exploring virulence mechanisms of outer membrane-integrated and outer membrane vesicle-associated AbOmpA and develo",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12096822",
+   "pmid": [
+    "40304498"
+   ],
+   "title": "FleQ finetunes the expression of a subset of BrlR-activated genes to enable antibiotic tolerance by Pseudomonas aeruginosa biofilms",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "12077171",
+   "pmid": [
+    "40152583"
+   ],
+   "title": "Calprotectin-mediated survival of Staphylococcus aureus in coculture with Pseudomonas aeruginosa occurs without nutrient metal sequestration",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12064563",
+   "pmid": [
+    "40352107"
+   ],
+   "title": "\nVibrio are a potential source of novel colistin-resistance genes in European coastal environments",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12062240",
+   "pmid": [
+    "40341530"
+   ],
+   "title": "Penfluridol synergizes with colistin to reverse colistin resistance in Gram-negative bacilli",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12051257",
+   "pmid": [
+    "40127991"
+   ],
+   "title": "Multifaceted Evolution of the PhoPQ Two\u2010Component System in \nSalmonella enterica\n Enhanced the Expression of Horizontally Acquired Virulence Genes",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12047880",
+   "pmid": [
+    "40321209"
+   ],
+   "title": "Calprotectin protects Staphylococcus aureus in coculture with Pseudomonas aeruginosa by attenuating quorum sensing and decreasing the production of ps",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12046405",
+   "pmid": [
+    "40053699"
+   ],
+   "title": "Antibiotic-induced stress responses in Gram-negative bacteria and their role in antibiotic resistance",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12030467",
+   "pmid": [
+    "40333133"
+   ],
+   "title": "From Microbial Ecology to Clinical Challenges: The Respiratory Microbiome\u2019s Role in Antibiotic Resistance",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12005307",
+   "pmid": [
+    "40248507"
+   ],
+   "title": "A biofilm-targeting lipo-peptoid to treat Pseudomonas aeruginosa and Staphylococcus aureus co-infections",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12005717",
+   "pmid": [
+    "38772630"
+   ],
+   "title": "Large Roles of Small Proteins",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11989575",
+   "pmid": [
+    "40244182"
+   ],
+   "title": "Synergistic Antibacterial Activity of Amorolfine Combined with Colistin Against Acinetobacter baumannii",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11945493",
+   "pmid": [
+    "40266921"
+   ],
+   "title": "Inhibitory Effects of Bovine Lactoferricin-Lactoferrampin on Senecavirus A and Foot-and-Mouth Disease Virus with Recombinant Lactobacillus Oral Treatm",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11948064",
+   "pmid": [
+    "39887566"
+   ],
+   "title": "DNA Polymerase IV dinB Favors the Adaptive Fitness of mcr\u2010carrying Bacteria Through a Negative Feedback Regulatory Mechanism",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10959680",
+   "pmid": [
+    "38366995"
+   ],
+   "title": "The Greater Celandine: Identification and Characterization of an Antimicrobial Peptide from Chelidonium majus",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11920165",
+   "pmid": [
+    "40110189"
+   ],
+   "title": "Functional analysis of the Escherichia coli mrdA gene in melittin resistance",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11878022",
+   "pmid": [
+    "39912656"
+   ],
+   "title": "Emergence of concurrently transmissible mcr-9 and carbapenemase genes in bloodborne colistin-resistant Enterobacter cloacae complex isolated from ICU ",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "11845477",
+   "pmid": [
+    "39984459"
+   ],
+   "title": "Exploring the principles behind antibiotics with limited resistance",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11825808",
+   "pmid": [
+    "39958932"
+   ],
+   "title": "An updated overview on the bacterial PhoP/PhoQ two-component signal transduction system",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11815837",
+   "pmid": [
+    "39825802"
+   ],
+   "title": "Role of Divalent\nIons in Membrane Models of Polymyxin-Sensitive\nand Resistant Gram-Negative Bacteria",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11805748",
+   "pmid": [
+    "39918653"
+   ],
+   "title": "An alternative approach to combat multidrug-resistant bacteria: new insights into traditional Chinese medicine monomers combined with antibiotics",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11790497",
+   "pmid": [
+    "39805953"
+   ],
+   "title": "ESKAPE pathogens rapidly develop resistance against antibiotics in development in vitro",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11762671",
+   "pmid": [
+    "39858349"
+   ],
+   "title": "Unseen Enemy: Mechanisms of Multidrug Antimicrobial Resistance in Gram-Negative ESKAPE Pathogens",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11762488",
+   "pmid": [
+    "39858288"
+   ],
+   "title": "Cathelicidins: Opportunities and Challenges in Skin Therapeutics and Clinical Translation",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11731628",
+   "pmid": [
+    "39816264"
+   ],
+   "title": "Defense mechanisms of Salmonella against antibiotics: a review",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11702655",
+   "pmid": [
+    "39843948"
+   ],
+   "title": "Antimicrobial peptide glatiramer acetate targets Pseudomonas aeruginosa lipopolysaccharides to breach membranes without altering lipopolysaccharide mo",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 3
+  },
+  {
+   "pmcid": "11721125",
+   "pmid": [
+    "39843582"
+   ],
+   "title": "Antibiotic resistance mediated by gene amplifications",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11728550",
+   "pmid": [
+    "39770308"
+   ],
+   "title": "Colistin Resistance Mechanism and Management Strategies of Colistin-Resistant Acinetobacter baumannii Infections",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11695056",
+   "pmid": [
+    "39745871"
+   ],
+   "title": "Magnesium modulates phospholipid metabolism to promote bacterial phenotypic resistance to antibiotics",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11677122",
+   "pmid": [
+    "39770753"
+   ],
+   "title": "Mechanisms of Polymyxin Resistance in Acid-Adapted Enteroinvasive Escherichia coli NCCP 13719 Revealed by Transcriptomics",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11656770",
+   "pmid": [
+    "39601567"
+   ],
+   "title": "Distinct transcriptome and traits of freshly dispersed Pseudomonas aeruginosa cells",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11633570",
+   "pmid": [
+    "29327680"
+   ],
+   "title": "Mechanisms of Bacterial Resistance to Antimicrobial Agents",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11617248",
+   "pmid": [
+    "39640576"
+   ],
+   "title": "Oropharyngeal resistome remains stable during COVID-19 therapy, while fecal resistome shifts toward a less diverse resistotype",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11611826",
+   "pmid": [
+    "39629205"
+   ],
+   "title": "Outer membrane permeability of mcr-positive bacteria reveals potent synergy of colistin and macromolecular antibiotics against colistin-resistant Acin",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11596597",
+   "pmid": [
+    "39597505"
+   ],
+   "title": "Pseudomonas aeruginosa in the Frontline of the Greatest Challenge of Biofilm Infection\u2014Its Tolerance to Antibiotics",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11599538",
+   "pmid": [
+    "39592545"
+   ],
+   "title": "Multidrug resistance in Pseudomonas aeruginosa: genetic control mechanisms and therapeutic advances",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11573712",
+   "pmid": [
+    "39568730"
+   ],
+   "title": "Cpx-signalling in Yersinia pseudotuberculosis modulates Lipid-A remodelling and resistance to last-resort antimicrobials",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11567557",
+   "pmid": [
+    "39546505"
+   ],
+   "title": "Comparison of the antibiotic resistance mechanisms in a gram-positive and a gram-negative bacterium by gene networks analysis",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11544047",
+   "pmid": [
+    "39524735"
+   ],
+   "title": "Detection of PhoP-mediated colistin resistance in Gram-negative bacteria without mcr genes in human population in the Ho Municipality, Ghana",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11540607",
+   "pmid": [
+    "39344345"
+   ],
+   "title": "Evaluation and Molecular Characterization of Colistin-Resistant Isolates of Pseudomonas aeruginosa and Klebsiella pneumoniae from the Infected Wounds ",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11540712",
+   "pmid": [
+    "39512935"
+   ],
+   "title": "Navigating collateral sensitivity: insights into the mechanisms and applications of antibiotic resistance trade-offs",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "11537012",
+   "pmid": [
+    "39373473"
+   ],
+   "title": "Insight into the outer membrane asymmetry of P. aeruginosa and the role of MlaA in modulating the lipidic composition, mechanical, biophysical, and fu",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11537282",
+   "pmid": [
+    "36435256"
+   ],
+   "title": "Bacterial resistance to antibacterial agents: Mechanisms, control strategies, and implications for global health",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "11514906",
+   "pmid": [
+    "39462402"
+   ],
+   "title": "CRISPR-Cas system positively regulates virulence of Salmonella enterica serovar Typhimurium",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11510100",
+   "pmid": [
+    "39452760"
+   ],
+   "title": "Breaking Barriers: Exploiting Envelope Biogenesis and Stress Responses to Develop Novel Antimicrobial Strategies in Gram-Negative Bacteria",
+   "queries": [
+    "Q2",
+    "Q3"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "11112996",
+   "pmid": [
+    "38661375"
+   ],
+   "title": "PmrAB, the two-component system of Acinetobacter baumannii, controls the phosphoethanolamine modification of lipooligosaccharide in response to metal ",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11495068",
+   "pmid": [
+    "39345149"
+   ],
+   "title": "PhoPQ-mediated lipopolysaccharide modification governs intrinsic resistance to tetracycline and glycylcycline antibiotics in Escherichia coli",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10527939",
+   "pmid": [
+    "37399693"
+   ],
+   "title": "Structural Biology of MCR-1-Mediated Resistance to Polymyxin Antibiotics",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11390741",
+   "pmid": [
+    "39261709"
+   ],
+   "title": "Valnemulin restores colistin sensitivity against multidrug-resistant gram-negative pathogens",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11379400",
+   "pmid": [
+    "39186812"
+   ],
+   "title": "Multiple resistance factors collectively promote inoculum-dependent dynamic survival during antimicrobial peptide exposure in Enterobacter cloacae",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11365514",
+   "pmid": [
+    "39221183"
+   ],
+   "title": "Colistin Resistance Mechanisms and Molecular Epidemiology of Enterobacter cloacae Complex Isolated from a Tertiary Hospital in Shandong, China",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11356903",
+   "pmid": [
+    "39203505"
+   ],
+   "title": "Identification and Functional Analysis of ncRNAs Regulating Intrinsic Polymyxin Resistance in Foodborne Proteus vulgaris",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11360552",
+   "pmid": [
+    "39198891"
+   ],
+   "title": "Prokaryotic-virus-encoded auxiliary metabolic genes throughout the global oceans",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11350779",
+   "pmid": [
+    "39200001"
+   ],
+   "title": "The pH-Insensitive Antimicrobial and Antibiofilm Activities of the Frog Skin Derived Peptide Esc(1-21): Promising Features for Novel Anti-Infective Dr",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11332338",
+   "pmid": [
+    "38738873"
+   ],
+   "title": "Restoring colistin sensitivity in colistin-resistant Salmonella and Escherichia coli: combinatorial use of berberine and EDTA with colistin",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11279074",
+   "pmid": [
+    "39065030"
+   ],
+   "title": "Molecular Mechanisms of Bacterial Resistance to Antimicrobial Peptides in the Modern Era: An Updated Review",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "10914316",
+   "pmid": [
+    "37410993"
+   ],
+   "title": "Targeting the conformational change in ArnA dehydrogenase for selective inhibition of polymyxin resistance",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11243602",
+   "pmid": [
+    "38998921"
+   ],
+   "title": "Colistin: Lights and Shadows of an Older Antibiotic",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11238654",
+   "pmid": [
+    "38979571"
+   ],
+   "title": "A novel small RNA PhaS contributes to polymyxin B-heteroresistance in carbapenem-resistant Klebsiella pneumoniae",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10521362",
+   "pmid": [
+    "37432116"
+   ],
+   "title": "Hit \u2018em Where It Hurts: Gram-Negative Bacterial Lipopolysaccharide as a Vaccine Target",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11227560",
+   "pmid": [
+    "38971825"
+   ],
+   "title": "Tyrosol blocks E. coli anaerobic biofilm formation via YbfA and FNR to increase antibiotic susceptibility",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11224486",
+   "pmid": [
+    "38974043"
+   ],
+   "title": "Polymyxins: recent advances and challenges",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11220449",
+   "pmid": [
+    "38839365"
+   ],
+   "title": "Comparative Genomics and Characterization of Shigella flexneri Isolated from Urban Wastewater",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11218975",
+   "pmid": [
+    "38954678"
+   ],
+   "title": "The evolution of antimicrobial peptide resistance in Pseudomonas aeruginosa is severely constrained by random peptide mixtures",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11218974",
+   "pmid": [
+    "38900845"
+   ],
+   "title": "Widespread fungal\u2013bacterial competition for magnesium lowers bacterial susceptibility to polymyxin antibiotics",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10517717",
+   "pmid": [
+    "37507160"
+   ],
+   "title": "Making a chink in their armor: current and next-generation antimicrobial strategies against the bacterial cell envelope",
+   "queries": [
+    "Q2",
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10521370",
+   "pmid": [
+    "37358444"
+   ],
+   "title": "How Bacterial Pathogens Coordinate Appetite with Virulence",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11190090",
+   "pmid": [
+    "38912352"
+   ],
+   "title": "Global prevalence of mutation in the mgrB gene among clinical isolates of colistin-resistant Klebsiella pneumoniae: a systematic review and meta-analy",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11176087",
+   "pmid": [
+    "38831009"
+   ],
+   "title": "High-throughput fitness experiments reveal specific vulnerabilities of human-adapted Salmonella during stress and infection",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11170735",
+   "pmid": [
+    "38882119"
+   ],
+   "title": "The Rise of Bacterial\nG-Quadruplexes in Current\nAntimicrobial Discovery",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10790571",
+   "pmid": [
+    "38092672"
+   ],
+   "title": "Mutations in genes lpxL1, bamA, and pmrB impair the susceptibility of cystic fibrosis strains of Pseudomonas aeruginosa to murepavadin",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11163986",
+   "pmid": [
+    "38734892"
+   ],
+   "title": "Determinants of bacterial survival and proliferation in blood",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11148078",
+   "pmid": [
+    "38830951"
+   ],
+   "title": "Potent activity of polymyxin B is associated with long-lived super-stoichiometric accumulation mediated by weak-affinity binding to lipid A",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11098465",
+   "pmid": [
+    "38413166"
+   ],
+   "title": "A comparative analysis of peptide-delivered antisense antibiotics using diverse nucleotide mimics",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11131202",
+   "pmid": [
+    "38802775"
+   ],
+   "title": "Maintenance of bacterial outer membrane lipid asymmetry: insight into MlaA",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11129675",
+   "pmid": [
+    "38801351"
+   ],
+   "title": "Antibiotic influx and efflux in Pseudomonas aeruginosa: Regulation and therapeutic implications",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11121531",
+   "pmid": [
+    "38790833"
+   ],
+   "title": "The Effect of the PhoP/PhoQ System on the Regulation of Multi-Stress Adaptation Induced by Acid Stress in Salmonella Typhimurium",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11114075",
+   "pmid": [
+    "23381653"
+   ],
+   "title": "Properties and mechanisms of action of naturally occurring antifungal peptides",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11115334",
+   "pmid": [
+    "21560069"
+   ],
+   "title": "Bacterial resistance mechanisms against host defense peptides",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11103557",
+   "pmid": [
+    "38766978"
+   ],
+   "title": "Lipid A in outer membrane vesicles shields bacteria from polymyxins",
+   "queries": [
+    "Q2"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13607708",
+   "pmid": [
+    "42794502"
+   ],
+   "title": "The C-Terminal Phenylalanine of the Thanatin-like Peptide Rip-2 Contributes to Its Enhanced LptA-Associated Antimicrobial Activity Compared with Thana",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13336379",
+   "pmid": [
+    "42318744"
+   ],
+   "title": "Targeting Lipopolysaccharide Transport Induces Membrane Lipid Remodeling and Sensitizes Acinetobacter baumannii to Colistin Treatment",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12424317",
+   "pmid": [
+    "40787933"
+   ],
+   "title": "Drug-resistant Acinetobacter baumannii: mortality, emerging treatments, and future pharmacological targets for a WHO priority pathogen",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13413798",
+   "pmid": [
+    "42514043"
+   ],
+   "title": "Genomic Characterization of Multidrug-Resistant Escherichia\u00a0coli from Bovine Mastitis and Therapeutic Evaluation of Thanatin Combined with Gallium Nit",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13181209",
+   "pmid": [
+    "42144870"
+   ],
+   "title": "Computational design of a soluble mimic of the outer membrane LPS transport protein LptD suitable for screening of antibiotics",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13161480",
+   "pmid": [
+    "42116559"
+   ],
+   "title": "Design and TAG-Assisted Synthesis of the C-Terminal Amidated Antimicrobial Peptide NCBP-1 Derived from a Plant-Derived Noncanonical NCBP and Its Biolo",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "13001179",
+   "pmid": [
+    "41622639"
+   ],
+   "title": "\u03b2\u2011Hairpin Antimicrobial Peptides: Class Diversity and Sequence Analysis",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12981311",
+   "pmid": [
+    "35850151"
+   ],
+   "title": "Lipid Transport Across Bacterial Membranes",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12914872",
+   "pmid": [
+    "27359214"
+   ],
+   "title": "The Power of Asymmetry: Architecture and Assembly of the Gram-Negative Outer Membrane Lipid Bilayer",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12738788",
+   "pmid": [
+    "41407669"
+   ],
+   "title": "Structural snapshots of Pseudomonas aeruginosa LptB2FG and LptB2FGC reveal insights into lipopolysaccharide recognition and transport",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12652419",
+   "pmid": [
+    "41303349"
+   ],
+   "title": "Protein\u2013Protein Interactions as Promising Molecular Targets for Novel Antimicrobials Aimed at Gram-Negative Bacteria",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12644819",
+   "pmid": [
+    "41285762"
+   ],
+   "title": "Structural basis of lipopolysaccharide assembly by the outer membrane translocon holo-complex",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12562796",
+   "pmid": [
+    "41144768"
+   ],
+   "title": "Conserved and acquired: Decoding YbjX and VirK in the pathogenicity of Shigella flexneri",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12557396",
+   "pmid": [
+    "41048016"
+   ],
+   "title": "High-Throughput\nIdentification and Characterization\nof LptDE-Binding Bicycle Peptides Using Phage Display and Cryo-EM",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12524584",
+   "pmid": [
+    "41096836"
+   ],
+   "title": "Structures, Interactions, and Antimicrobial Activity of the Shortest Thanatin Peptide from Anasa tristis",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12342981",
+   "pmid": [
+    "40720770"
+   ],
+   "title": "Advances in Helicobacter pylori lipopolysaccharide structure and function",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11891712",
+   "pmid": [
+    "40066032"
+   ],
+   "title": "Proteome-wide identification of druggable targets and inhibitors for multidrug-resistant Pseudomonas aeruginosa using an integrative subtractive prote",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11878372",
+   "pmid": [
+    "39611429"
+   ],
+   "title": "Fighting Antimicrobial Resistance: Innovative Drugs in Antibacterial Research",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11839939",
+   "pmid": [
+    "39484992"
+   ],
+   "title": "A one\u2010day journey to the suburbs: circadian clock in the Drosophila visual system",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11713862",
+   "pmid": [
+    "39680024"
+   ],
+   "title": "Lipid Trafficking\nin Diverse Bacteria",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11573584",
+   "pmid": [
+    "39564120"
+   ],
+   "title": "Thanatin and vinyl sulfide analogues as narrow spectrum antimicrobial peptides that synergise with polymyxin B",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11395501",
+   "pmid": [
+    "39273441"
+   ],
+   "title": "Thanatin: A Promising Antimicrobial Peptide Targeting the Achilles\u2019 Heel of Multidrug-Resistant Bacteria",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10650376",
+   "pmid": [
+    "37974958"
+   ],
+   "title": "Chemical genetic approaches for the discovery of bacterial cell wall inhibitors",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11324152",
+   "pmid": [
+    "39093898"
+   ],
+   "title": "Genes required for phosphosphingolipid formation in Caulobacter crescentus contribute to bacterial virulence",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11052386",
+   "pmid": [
+    "38675646"
+   ],
+   "title": "The Prediction of LptA and LptC Protein\u2013Protein Interactions and Virtual Screening for Potential Inhibitors",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10888688",
+   "pmid": [
+    "38396798"
+   ],
+   "title": "Outer-Membrane Permeabilization, LPS Transport Inhibition: Activity, Interactions, and Structures of Thanatin Derived Antimicrobial Peptides",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10840157",
+   "pmid": [
+    "38311724"
+   ],
+   "title": "Stable expression of HIV-1 MPER extended epitope on the surface of the recombinant probiotic bacteria Escherichia Coli Nissle 1917 using CRISPR/Cas9",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10812785",
+   "pmid": [
+    "38247633"
+   ],
+   "title": "Structures, Interactions and Activity of the N-Terminal Truncated Variants of Antimicrobial Peptide Thanatin",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10812820",
+   "pmid": [
+    "38247632"
+   ],
+   "title": "Enhancing the Efficacy of Chloramphenicol Therapy for Escherichia coli by Targeting the Secondary Resistome",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10794144",
+   "pmid": [
+    "38172634"
+   ],
+   "title": "A novel antibiotic class targeting the lipopolysaccharide transporter",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10741026",
+   "pmid": [
+    "38136753"
+   ],
+   "title": "Bioengineering the Antimicrobial Activity of Yeast by Recombinant Thanatin Production",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10571014",
+   "pmid": [
+    "37904683"
+   ],
+   "title": "Mechanistic insights into the role of probiotics in modulating immune cells in ulcerative colitis",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10449418",
+   "pmid": [
+    "37637199"
+   ],
+   "title": "Adapting antibacterial display to identify serum-active macrocyclic peptide antibiotics",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10402130",
+   "pmid": [
+    "37546850"
+   ],
+   "title": "Adapting antibacterial display to identify serum active macrocyclic peptide antibiotics",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10386233",
+   "pmid": [
+    "37513908"
+   ],
+   "title": "Cyclic Peptides in Pipeline: What Future for These Great Molecules?",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10320583",
+   "pmid": [
+    "37416832"
+   ],
+   "title": "Discovery, characterization, and redesign of potent antimicrobial thanatin orthologs from Chinavia ubica and Murgantia histrionica targeting E. coli L",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10254193",
+   "pmid": [
+    "37298811"
+   ],
+   "title": "Early Molecular Insights into Thanatin Analogues Binding to A. baumannii LptA",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10208570",
+   "pmid": [
+    "37224246"
+   ],
+   "title": "Peptidomimetic antibiotics disrupt the lipopolysaccharide transport bridge of drug-resistant Enterobacteriaceae",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10094684",
+   "pmid": [
+    "37047196"
+   ],
+   "title": "ABC Transporters in Bacterial Nanomachineries",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7614387",
+   "pmid": [
+    "34585198"
+   ],
+   "title": "Mass spectrometry enables the discovery of inhibitors of an LPS transport assembly via disruption of protein\u2013protein interactions\u2020",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "10036598",
+   "pmid": [
+    "36970185"
+   ],
+   "title": "\u03b2-Lactam potentiators to re-sensitize resistant pathogens: Discovery, development, clinical use and the way forward",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "9922520",
+   "pmid": [
+    "36543281"
+   ],
+   "title": "Targeting LPS biosynthesis and transport in gram-negative bacteria in the era of multi-drug resistance",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "9942579",
+   "pmid": [
+    "36622250"
+   ],
+   "title": "Comparative Proteomics of Outer Membrane Vesicles from Polymyxin-Susceptible and Extremely Drug-Resistant Klebsiella pneumoniae",
+   "queries": [
+    "Q3",
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "9075587",
+   "pmid": [
+    "35104846"
+   ],
+   "title": "Gradients in gene essentiality reshape antibacterial research",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "9636410",
+   "pmid": [
+    "36382192"
+   ],
+   "title": "In silico investigation and surmounting of Lipopolysaccharide barrier in Gram-Negative Bacteria: How far has molecular dynamics Come?",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "9598311",
+   "pmid": [
+    "36290043"
+   ],
+   "title": "Identification of a Small Molecule That Inhibits the Interaction of LPS Transporters LptA and LptC",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "9100274",
+   "pmid": [
+    "35562950"
+   ],
+   "title": "Atomic-Resolution Structures and Mode of Action of Clinically Relevant Antimicrobial Peptides",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7981291",
+   "pmid": [
+    "32955879"
+   ],
+   "title": "Assembly and maintenance of lipids at the bacterial outer membrane",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8983717",
+   "pmid": [
+    "35383177"
+   ],
+   "title": "Cryo-EM structures of a LptDE transporter in complex with Pro-macrobodies offer insight into lipopolysaccharide translocation",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7969359",
+   "pmid": [
+    "33036869"
+   ],
+   "title": "Border Control: Regulating LPS Biogenesis",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8880245",
+   "pmid": [
+    "35216173"
+   ],
+   "title": "Real-Time Fluorescence Microscopy on Living E. coli Sheds New Light on the Antibacterial Effects of the King Penguin \u03b2-Defensin AvBD103b",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8838559",
+   "pmid": [
+    "35159706"
+   ],
+   "title": "Mechanisms of Formation, Structure, and Dynamics of Lipoprotein Discs Stabilized by Amphiphilic Copolymers: A Comprehensive Review",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8767025",
+   "pmid": [
+    "35069496"
+   ],
+   "title": "Multiple Precursor Proteins of Thanatin Isoforms, an Antimicrobial Peptide Associated With the Gut Symbiont of Riptortus pedestris",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8757709",
+   "pmid": [
+    "35047889"
+   ],
+   "title": "Application of Biophysical Techniques to Investigate the Interaction of Antimicrobial Peptides With Bacterial Cells",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8719016",
+   "pmid": [
+    "35005555"
+   ],
+   "title": "Synthetic antibacterial discovery of symbah-1, a macrocyclic \u03b2-hairpin peptide antibiotic",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8593681",
+   "pmid": [
+    "34781743"
+   ],
+   "title": "YhdP, TamB, and YdbH Are Redundant but Essential for Growth and Lipid Homeostasis of the Gram-Negative Outer Membrane",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8557866",
+   "pmid": [
+    "34468186"
+   ],
+   "title": "Novel Small Molecule Growth Inhibitor Affecting Bacterial Outer Membrane Reduces Extraintestinal Pathogenic Escherichia coli (ExPEC) Infection in Avia",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "8552667",
+   "pmid": [
+    "34406804"
+   ],
+   "title": "Lipopolysaccharide Transport System Links Physiological Roles of \u03c3E and ArcA in the Cell Envelope Biogenesis in Shewanella oneidensis",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8545086",
+   "pmid": [
+    "33402533"
+   ],
+   "title": "Septal Class A Penicillin-Binding Protein Activity and ld-Transpeptidases Mediate Selection of Colistin-Resistant Lipooligosaccharide-Deficient Acinet",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7116625",
+   "pmid": [
+    "33199913"
+   ],
+   "title": "Dynamics of an LPS translocon induced by substrate and an antimicrobial peptide",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8238046",
+   "pmid": [
+    "34195099"
+   ],
+   "title": "Antimicrobial Peptides: A New Hope in Biomedical and Pharmaceutical Fields",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8208086",
+   "pmid": [
+    "34149657"
+   ],
+   "title": "A Single Nucleotide Polymorphism in lptG Increases Tolerance to Bile Salts, Acid, and Staining of Calcofluor-Binding Polysaccharides in Salmonella ent",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "8187054",
+   "pmid": [
+    "32786281"
+   ],
+   "title": "Periplasmic Targets for the Development of Effective Antimicrobials against Gram-Negative Bacteria",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "8082687",
+   "pmid": [
+    "33935778"
+   ],
+   "title": "Probiotic Lactobacilli Isolated from Kefir Promote Down-Regulation of Inflammatory Lamina Propria T Cells from Patients with Active IBD",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7913509",
+   "pmid": [
+    "33546369"
+   ],
+   "title": "Thanatin: An Emerging Host Defense Antimicrobial Peptide with Multiple Modes of Action",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7872090",
+   "pmid": [
+    "33525975"
+   ],
+   "title": "Deletion of Polyamine Transport Protein PotD Exacerbates Virulence in Glaesserella (Haemophilus) parasuis in the Form of Non-biofilm-generated Bacteri",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7774453",
+   "pmid": [
+    "33391204"
+   ],
+   "title": "Peptidoglycan Endopeptidase Spr of Uropathogenic Escherichia coli Contributes to Kidney Infections and Competitive Fitness During Bladder Colonization",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7773004",
+   "pmid": [
+    "33398258"
+   ],
+   "title": "Emerging peptide antibiotics with therapeutic potential",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7043666",
+   "pmid": [
+    "31871033"
+   ],
+   "title": "A Screen for Antibiotic Resistance Determinants Reveals a Fitness Cost of the Flagellum in Pseudomonas aeruginosa",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7356881",
+   "pmid": [
+    "32486329"
+   ],
+   "title": "Overexpression of lpxT Gene in Escherichia coli Inhibits Cell Division and Causes Envelope Defects without Changing the Overall Phosphorylation Level ",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7237710",
+   "pmid": [
+    "32477309"
+   ],
+   "title": "Thanatin Impairs Lipopolysaccharide Transport Complex Assembly by Targeting LptC\u2013LptA Interaction and Decreasing LptA Stability",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7179839",
+   "pmid": [
+    "32324807"
+   ],
+   "title": "Non-pathogenic Escherichia coli acquires virulence by mutating a growth-essential LPS transporter",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7168309",
+   "pmid": [
+    "31877825"
+   ],
+   "title": "Nanomaterials for Biosensing Lipopolysaccharide",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "6963605",
+   "pmid": [
+    "31554212"
+   ],
+   "title": "Countering Gram-Negative Antibiotic Resistance: Recent Progress in Disrupting the Outer Membrane with Novel Therapeutics",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "6913091",
+   "pmid": [
+    "31142822"
+   ],
+   "title": "Pushing the envelope: LPS modifications and their consequences",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "6856556",
+   "pmid": [
+    "31781512"
+   ],
+   "title": "Targeting the Sugary Armor of Klebsiella Species",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "6638119",
+   "pmid": [
+    "29480976"
+   ],
+   "title": "Discovery of Pantoea stewartii ssp. stewartii genes important for survival in corn xylem through a Tn\u2010Seq analysis",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "6200341",
+   "pmid": [
+    "29995974"
+   ],
+   "title": "A cluster of residues in the lipopolysaccharide exporter that selects substrate variants for transport to the outer membrane",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "6401076",
+   "pmid": [
+    "30837659"
+   ],
+   "title": "Profiling the susceptibility of Pseudomonas aeruginosa strains from acute and chronic infections to cell-wall-targeting immune proteins",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "6372539",
+   "pmid": [
+    "30788339"
+   ],
+   "title": "Folded Synthetic Peptides and Other Molecules Targeting Outer Membrane Protein Complexes in Gram-Negative Bacteria",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "6358824",
+   "pmid": [
+    "30654491"
+   ],
+   "title": "Regulated Assembly of LPS, Its Structural Alterations and Cellular Response to LPS Defects",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "6286764",
+   "pmid": [
+    "30595696"
+   ],
+   "title": "Current Progress in the Structural and Biochemical Characterization of Proteins Involved in the Assembly of Lipopolysaccharide",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "6042065",
+   "pmid": [
+    "29735709"
+   ],
+   "title": "Cell-based screen for discovering lipopolysaccharide biogenesis inhibitors",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "5971563",
+   "pmid": [
+    "29632014"
+   ],
+   "title": "Alterations of Metabolic and Lipid Profiles in Polymyxin-Resistant Pseudomonas aeruginosa",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "6235536",
+   "pmid": [
+    "30443594"
+   ],
+   "title": "Thanatin targets the intermembrane protein complex required for lipopolysaccharide transport in Escherichia coli",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "5738735",
+   "pmid": [
+    "29109183"
+   ],
+   "title": "Mutation and Suppressor Analysis of the Essential Lipopolysaccharide Transport Protein LptA Reveals Strategies To Overcome Severe Outer Membrane Perme",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "5548808",
+   "pmid": [
+    "28790314"
+   ],
+   "title": "Structural and functional insights into the lipopolysaccharide ABC transporter LptB2FG",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "5530560",
+   "pmid": [
+    "28747215"
+   ],
+   "title": "Sphingolipid metabolism potential in fecal microbiome and bronchiolitis in infants: a case\u2013control study",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "4931227",
+   "pmid": [
+    "27075488"
+   ],
+   "title": "Lipopolysaccharide modification in Gram-negative bacteria during chronic infection",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "4736538",
+   "pmid": [
+    "26515403"
+   ],
+   "title": "ArnT proteins that catalyze the glycosylation of lipopolysaccharide share common features with bacterial N-oligosaccharyltransferases",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "4632605",
+   "pmid": [
+    "26370941"
+   ],
+   "title": "Lipopolysaccharide transport to the cell surface: biosynthesis and extraction from the inner membrane",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "4649153",
+   "pmid": [
+    "26369970"
+   ],
+   "title": "Polymyxin Susceptibility in Pseudomonas aeruginosa Linked to the MexXY-OprM Multidrug Efflux System",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "4613276",
+   "pmid": [
+    "26370986"
+   ],
+   "title": "The Three Bacterial Lines of Defense against Antimicrobial Agents",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "4402001",
+   "pmid": [
+    "24838025"
+   ],
+   "title": "Kdo2-lipid A: structural diversity and impact on immunopharmacology",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "4244539",
+   "pmid": [
+    "25505462"
+   ],
+   "title": "Mechanisms of polymyxin resistance: acquired and intrinsic resistance in bacteria",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 1
+  },
+  {
+   "pmcid": "3928157",
+   "pmid": [
+    "23859890"
+   ],
+   "title": "Colonize, evade, flourish",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "4117984",
+   "pmid": [
+    "25136333"
+   ],
+   "title": "Comparative analysis of Salmonella susceptibility and tolerance to the biocide chlorhexidine identifies a complex cellular defense network",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "4072712",
+   "pmid": [
+    "24967819"
+   ],
+   "title": "Dissecting Escherichia coli Outer Membrane Biogenesis Using Differential Proteomics",
+   "queries": [
+    "Q3",
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "3535977",
+   "pmid": [
+    "23070157"
+   ],
+   "title": "Characterization of the Polymyxin B Resistome of Pseudomonas aeruginosa",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "3639378",
+   "pmid": [
+    "23641241"
+   ],
+   "title": "The intrinsic resistome of bacterial pathogens",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "3592999",
+   "pmid": [
+    "23349031"
+   ],
+   "title": "Max Bergmann lecture Protein epitope mimetics in the age of structural vaccinology\u2021",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "3526765",
+   "pmid": [
+    "23267440"
+   ],
+   "title": "A comparison of the endotoxin biosynthesis and protein oxidation pathways in the biogenesis of the outer membrane of Escherichia coli and Neisseria me",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "3147165",
+   "pmid": [
+    "21810964"
+   ],
+   "title": "Lipopolysaccharide (LPS) Inner-Core Phosphates Are Required for Complete LPS Synthesis and Transport to the Outer Membrane in Pseudomonas aeruginosa P",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "2782650",
+   "pmid": [
+    "19754149"
+   ],
+   "title": "Replacement of Lipopolysaccharide with Free Lipid A Molecules in Escherichia coli Mutants Lacking All Core Sugars",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "2857177",
+   "pmid": [
+    "20452953"
+   ],
+   "title": "The Bacterial Cell Envelope",
+   "queries": [
+    "Q3"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12220298",
+   "pmid": [
+    "40369709"
+   ],
+   "title": "Mechanisms governing bacterial capsular polysaccharide attachment and chain length",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12212991",
+   "pmid": [
+    "40592470"
+   ],
+   "title": "Recent advances in understanding of enterobacterial common antigen\nsynthesis and regulation",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "12114223",
+   "pmid": [
+    "40430805"
+   ],
+   "title": "From the Gut to the Brain: Transcriptomic Insights into Neonatal Meningitis Escherichia coli Across Diverse Host Niches",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11858525",
+   "pmid": [
+    "40005828"
+   ],
+   "title": "HNP-1: From Structure to Application Thanks to Multifaceted Functions",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11376589",
+   "pmid": [
+    "39178317"
+   ],
+   "title": "Fitness factor genes conserved within the multi-species core genome of Gram-negative Enterobacterales species contribute to bacteremia pathogenesis",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11163842",
+   "pmid": [
+    "34910576"
+   ],
+   "title": "Capsules and Extracellular Polysaccharides in Escherichia coli and Salmonella",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "11104810",
+   "pmid": [
+    "31584128"
+   ],
+   "title": "Caenorhabditis elegans: a model to understand host\u2013microbe interactions",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7877592",
+   "pmid": [
+    "33571209"
+   ],
+   "title": "Genomic diversity and organization of complex polysaccharide biosynthesis clusters in the genus Dickeya",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7093148",
+   "pmid": [
+    "31988174"
+   ],
+   "title": "Transposon Mutagenesis Screen of Klebsiella pneumoniae Identifies Multiple Genes Important for Resisting Antimicrobial Activities of Neutrophils in Mi",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7439462",
+   "pmid": [
+    "32788387"
+   ],
+   "title": "Enterobacterial Common Antigen: Synthesis and Function of an Enigmatic Molecule",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "7397119",
+   "pmid": [
+    "32424042"
+   ],
+   "title": "Lipopolysaccharide O-antigens\u2014bacterial glycans made to measure",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "6056878",
+   "pmid": [
+    "29866904"
+   ],
+   "title": "Novel Role of VisP and the Wzz System during O-Antigen Assembly in Salmonella enterica Serovar Typhimurium Pathogenesis",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "5748678",
+   "pmid": [
+    "29194398"
+   ],
+   "title": "Synthesis of Rhizobial Exopolysaccharides and Their Importance for Symbiosis with Legume Plants",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "5088521",
+   "pmid": [
+    "27801293"
+   ],
+   "title": "The polymyxin B-induced transcriptomic response of a clinical, multidrug-resistant Klebsiella pneumoniae involves multiple regulatory elements and int",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  },
+  {
+   "pmcid": "1489533",
+   "pmid": [
+    "16760308"
+   ],
+   "title": "The Escherichia coli Proteome: Past, Present, and Future Prospects\u2020 ",
+   "queries": [
+    "Q4"
+   ],
+   "n_hit_paras": 0
+  }
+ ]
+}
