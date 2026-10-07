@@ -258,3 +258,26 @@ Query scope: domain-targeted Dryad/Figshare/Zenodo AMP serial-passage
 resistance and general iseganan/melittin/pexiganan lineage panels.
 Non-peptide antibiotics, honey, cyclic lipopeptide biocontrol and integron
 records are off-scope search returns, not screened AMP datasets.
+
+## Upstream Dobson 2013 primary-source follow-through
+
+16. Dobson et al. 2013 PLoS ONE e76521 (PMC3799789): STRUCTURAL CANDIDATE,
+    not adopted. Five parallel lines per treatment with unselected controls.
+    Table 1 explicitly reports per-population/per-week MIC fold changes,
+    contrary to the earlier presumed sequencing-only boundary for its
+    derivative 2016 study. Primary XML and complete supplement archive pinned.
+    Important design limits: six-hour growth-derived MIC definition, some
+    post-hoc culture exclusions, week-3 incubator failure/restart, and omitted
+    late pexiganan MIC estimates due to starting-density effects. Supplement
+    Methods S1 documents these issues. Mixed PGML treatment excluded from
+    any sequence-level adoption. Exact study-specific sequence/terminal
+    chemistry proof and control-row mapping remain to be settled.
+    Any adoption needs a new locked definition of endpoint/week and censor/
+    missingness handling, with incidental pre-lock outcome exposure disclosed.
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3799789/fullTextXML
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3799789/supplementaryFiles
+
+This closes the scheduled queue of access/structure/deposit searches for
+this pass, not the scientific lane. Blanco and Dobson proposals require an
+estimand decision before numerical extraction or evaluation. No new finding
+or enlarged scored base is claimed.
