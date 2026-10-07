@@ -1,0 +1,8 @@
+{
+ "len_ecoli_P30844": 363,
+ "len_salm_P36557": 356,
+ "identical": 306,
+ "identity_over_longer": 0.843,
+ "length_ratio": 0.981,
+ "verdict": "CONFIRMED"
+}
